@@ -1,0 +1,1893 @@
+{
+  "label": "Spells - Core",
+  "folders": {
+    "Necromancer": "Nécromancien",
+    "Primal": "Primordiale",
+    "Air": "Air",
+    "Templar": "Templier",
+    "Protection": "Protection",
+    "Nature": "Nature",
+    "Time": "Temps",
+    "Tenebrist": "Ténébriste",
+    "Celestial": "Céleste",
+    "Transformation": "Transformation",
+    "Technomancer": "Technomancien",
+    "Storm": "Tempête",
+    "Destruction": "Destruction",
+    "Song": "Chant",
+    "Alteration": "Altération",
+    "Conjuration": "Invocation",
+    "Water": "Eau",
+    "Spellbinder": "Sorcelieur",
+    "Theurgy": "Théurgie",
+    "Witch": "Sorcier",
+    "Arcana": "Arcanique",
+    "Technomancy": "Technomancie",
+    "Battle": "Combat",
+    "Exorcist": "Exorciste",
+    "Curse": "Malédiction",
+    "Forbidden": "Interdit",
+    "Illusion": "Illusion",
+    "Fire": "Feu",
+    "Teleportation": "Téléportation",
+    "Chaos": "Chaos",
+    "Rune": "Runique",
+    "Earth": "Terre",
+    "Shadow": "Ombre",
+    "Divination": "Divination",
+    "Enchantment": "Enchantement",
+    "Magician": "Magicien",
+    "Necromancy": "Nécromancie",
+    "Life": "Vie"
+  },
+  "entries": {
+    "01kAl98rXmEsyQbo": {
+      "name": "Crâne hurlant",
+      "description": "<p>Un crâne humain apparaît dans les airs, centré sur le point. Il a le trait volant, une Défense de 20 et une Santé de 10. Quand il subit autant de dégâts que sa Santé, il tombe en poussière et l’effet cesse immédiatement.</p><p>Quand vous lancez ce sort, vous pouvez faire voler le crâne de 10 m et le faire hurler ; vous pouvez aussi le faire en utilisant une action ou une action déclenchée à votre tour pendant la durée du sort. Le hurlement se répand dans une sphère de 3 m de rayon centrée sur le crâne. Chaque créature qui peut entendre dans la zone d’effet doit réussir un test de Force ou subir [[/r 1d6 + 1]] dégâts.</p>",
+      "target": "Un point à portée de votre allonge.",
+      "duration": "1 min ; voir l’effet"
+    },
+    "03Anpzi4Y4QSZkI5": {
+      "name": "Condamnation",
+      "description": "<p>Vous brandissez votre symbole sacré face à la cible. Faites un jet d’attaque de Volonté contre sa Volonté. En cas de succès, elle est effrayée pendant 1 round.</p><p>Jet d’attaque 20+. La cible tombe également à terre.</p>",
+      "target": "Une créature à portée courte qui peut vous voir et vous entendre"
+    },
+    "0CtHg4qft1nssDuK": {
+      "name": "Vision",
+      "description": "<p>Pendant la durée du sort, vous bénéficiez des avantages suivants :</p><ul><li>Vous voyez dans des zones d’ombres et de ténèbres comme si elles étaient éclairées.</li><li>Vous voyez à travers tout ce qui peut dissimuler des choses, les déguiser ou les rendre invisibles.</li><li>Vous percevez les auras autour des objets affectés par la magie et vous identifiez automatiquement ce qui a été créé par des sorts d’illusion.</li><li>Vous voyez les créatures sous l’effet de sorts de Transformation telles qu’elles sont réellement.</li><li>Tant que vous vous concentrez, vous pouvez utiliser une action pour focaliser votre vision afin de voir à travers des obstacles solides. Vous pouvez voir à travers 1 m de bois, 30 cm de pierre et 2,5 cm de métal.</li></ul>",
+      "duration": "1 h ; voir l’effet"
+    },
+    "0OIeGyJ5o3XhzliC": {
+      "name": "Armure arcanique",
+      "description": "<p>Un champ de force invisible vous enveloppe et vous octroie un bonus de +2 à votre Défense pendant la durée du sort. De plus, pendant cette même durée, les précipitations normales ne vous touchent pas, la brise légère ne vous affecte pas et vous n’êtes pas gêné par le froid ou le chaud même si vous subissez tout de même des dégâts de froid et de feu.</p>",
+      "duration": "4 h",
+      "requirements": "Vous ne devez pas porter d’armure."
+    },
+    "15lVOrNpuqWPQ8yh": {
+      "name": "Bouclier arcanique",
+      "description": "<p>Pendant la durée du sort, une barrière d’énergie vous protège, imposant 1 désavantage aux jets d’attaque contre votre Défense ou votre Agilité.</p>",
+      "duration": "1 min",
+      "triggered": "Quand une créature effectue un jet d’attaque contre votre Défense ou votre Agilité, vous pouvez utiliser une action déclenchée pour lancer ce sort. La créature ayant déclenché l’effet effectue son jet d’attaque avec 3 désavantages puis l’effet se termine."
+    },
+    "19DhRuPlY1wUEYjG": {
+      "name": "Étourneaux",
+      "description": "<p>Vous vous transformez en une nuée d’étourneaux et vous pouvez voler au double de votre Vitesse sans déclencher d’attaques gratuites ; vous pouvez traverser des espaces occupés par d’autres créatures, quel que soit leur Gabarit. À la fin de ce déplacement, vous reprenez votre forme normale.</p>",
+      "triggered": "Vous pouvez utiliser une action déclenchée pour lancer ce sort quand vous subissez des dégâts. Si vous le faites, vous subissez la moitié des dégâts de l’attaque ayant déclenché cet effet et vous vous déplacez de la moitié de votre Vitesse comme indiqué ci-dessus."
+    },
+    "1HUcWCZHolFGbQnN": {
+      "name": "Fléchette magique",
+      "description": "<p>Une fléchette magique jaillit du bout d’un de vos doigts. La fléchette touche automatiquement tant qu’il n’y a aucun obstacle entre vous et la cible. Cette dernière subit [[/r 1d3 + 1]] dégâts.</p>",
+      "target": "Une créature ou un objet à portée longue."
+    },
+    "1Ithm0nflgukBdLH": {
+      "name": "Chant de bravoure",
+      "description": "<p>Quand vous lancez ce sort, et à chacun de vos tours pendant la durée de l’effet, choisissez une créature jusqu’à portée courte de vous qui peut vous entendre. La cible inflige [[/r 1d6]] dégâts supplémentaires avec ses attaques avec une arme pendant 1 round. L’effet cesse immédiatement si vous cessez de chanter ou si vous lancez un autre sort.</p>",
+      "duration": "1 min"
+    },
+    "1NcwIRtf0PublA4m": {
+      "name": "Armure de combat",
+      "description": "<p>Vous vous concentrez pendant une heure pour fabriquer dans la zone une armure de combat alimentée en énergie, une créature artificielle énorme. La créature artificielle perdure pendant l’effet du sort ou jusqu’à ce qu’elle soit neutralisée. Elle ne peut utiliser d’action ou se déplacer de manière autonome ; vous devez vous installer dans son cockpit pour la contrôler. Tant que vous êtes à l’intérieur, vous considérez les valeurs de Défense et de Santé de la créature artificielle comme étant les vôtres, vous vous déplacez à sa Vitesse et vous pouvez utiliser ses options d’attaque et d’actions à la place des vôtres.</p>",
+      "area": "Un cube de 3 m de côté se manifestant à partir d’un point à portée de votre allonge.",
+      "duration": "Jusqu’à ce que vous vous reposiez ; voir l’effet"
+    },
+    "1RitN10qbEXQ56VL": {
+      "name": "Célérité",
+      "description": "<p>Vous touchez la cible et lui octroyez un bonus de +10 en Vitesse pour la durée du sort. Quand l’effet cesse, la cible est fatiguée pendant 1 min.</p>",
+      "target": "Une créature qui n’est pas fatiguée à portée de votre allonge.",
+      "duration": "1 min"
+    },
+    "1UnNuLlHo8dm5zxG": {
+      "name": "Secousse",
+      "description": "<p>Le sol tremble et se soulève. Toutes les créatures, sauf vous, qui se tiennent sur la surface affectée ou qui s’y déplacent doivent effectuer un test d’Agilité. En cas d’échec, une créature tombe à terre et ne peut se relever pendant toute la durée du sort.</p>",
+      "area": "Une sphère avec un rayon de 4 m centrée sur un point à portée de votre allonge.",
+      "duration": "1 round"
+    },
+    "1ZF3UgXKZqlYOW4B": {
+      "name": "Épouvante",
+      "description": "<p>Une vague de terreur déferle dans la zone d’effet. Chaque créature qui s’y trouve doit réussir un test de Volonté ou être effrayée pendant 1 min. Tant qu’elle est effrayée de cette manière, une créature doit choisir un tour rapide à chaque tour, en utilisant une action pour vous fuir par le chemin le moins dangereux. À la fin de chaque round, s’il n’y a aucun passage dégagé entre vous et la cible et qu’elle ne peut plus vous voir, elle peut effectuer un test de Volonté et se débarrasser de cette affliction en cas de succès.</p>",
+      "area": "Un cône de 10 m de long ayant pour origine un point à portée de votre allonge."
+    },
+    "1bRrHiFOr9EBaSVT": {
+      "name": "Invocation de grand monstre",
+      "description": "<p>Vous invoquez dans la zone soit un grand monstre contraint, soit deux monstres moyens contraints.</p>",
+      "area": "Un cube de 2 m de côté à partir d’un point jusqu’à portée moyenne et apparaissant sur une surface solide.",
+      "duration": "1 min"
+    },
+    "1g1up0hAjAirxO4k": {
+      "name": "Vision de l’avenir",
+      "description": "<p>Pendant la durée du sort, vos déplacements ne déclenchent pas d’attaques gratuites, vous imposez 2 désavantages aux jets d’attaque contre vous et vous effectuez vos tests d’Agilité avec 2 avantages pour résister aux attaques et aux effets néfastes.</p>",
+      "duration": "1 min"
+    },
+    "1r6QVgygxpm6Inkp": {
+      "name": "Voyage",
+      "description": "<p>Vous touchez chaque cible et désignez une destination. Effectuez un test d’Intellect. Le MJ peut imposer un ou plusieurs désavantages à ce jet en fonction de votre familiarité avec la destination. Si vous nommez un endroit qui n’existe pas, le sort échoue et son utilisation est gâchée. En cas de succès, les cibles se téléportent à destination. En cas d’échec, chaque cible est téléportée séparément dans un lieu choisi par le MJ situé à 1,5 x [[/r 1d20]] kilomètres de la destination. Si le total du jet est de 0 ou moins, le sort a très mal fonctionné et chaque cible subit également [[/r 10d6]] dégâts et obtient 1 en Folie. Si l’espace de destination n’est pas assez grand pour accueillir une cible, cette dernière subit [[/r 5d6]] dégâts, obtient 1 en Folie et retourne dans l’espace qu’elle a quitté. Une créature neutralisée par ces dégâts est tuée en arrivant ; il n’en reste plus qu’un tas d’os et de tissus sanguinolents. Si l’espace de destination n’est pas dégagé, comme à l’intérieur d’un mur, la cible fusionne avec le matériau et meurt instantanément.</p>",
+      "target": "Jusqu’à cinq créatures à portée de votre allonge."
+    },
+    "2XlhVmQpMjUcWfCs": {
+      "name": "Occultation de la vision",
+      "description": "<p>Les yeux de la victime gonflent et font pression dans sa tête. Si sa Santé est de 15 ou moins, elle subit [[/r 2d6]] dégâts, ses yeux explosent et elle devient aveugle.</p><p>Si sa Santé est supérieure à 15, effectuez un jet d’Intellect contre sa Force ; le jet d’attaque s’effectue avec 1 désavantage si sa Santé est d’au moins 30. En cas de succès, la cible est aveuglée tant que vous vous concentrez jusqu’à un maximum de 1 min. À la fin de chaque round, jusqu’à la fin de l’effet, la cible doit réussir un test de Force ou subir [[/r 1d6]] dégâts. Si elle obtient trois échecs avant la fin de l’effet, l’affliction aveuglé devient permanente, ses yeux ont explosé et son visage est maculé de ce qu’il en reste.</p><p>Jet d’attaque 20+. Vous n’avez pas besoin de vous concentrer.</p>",
+      "target": "Une créature dotée de la vue à portée courte",
+      "duration": "Concentration, jusqu’à 1 min ; voir l’effet"
+    },
+    "2toPFQ0LZ1ZpuX3F": {
+      "name": "Domination",
+      "description": "<p>Effectuez un jet d’attaque d’Intellect contre la Volonté de la cible. Si la cible est charmée, vous faites le jet d’attaque avec 1 avantage. En cas de succès, elle est contrainte pendant 1 round.</p><p>Jet d’attaque 20+. Vous regagnez une utilisation de ce sort.</p>",
+      "target": "Une créature à portée courte qui peut vous entendre."
+    },
+    "2u46ytRx2SVQwr1C": {
+      "name": "Canalisation de la magie",
+      "description": "<p>Lancez [[/r 1d6 + 3]] pour déterminer combien de points d’énergie magique vous canalisez. Vous conservez ces points jusqu’à ce que vous vous reposiez ou que vous les dépensiez. Tant qu’il vous reste des points, vous ne pouvez pas lancer de nouveau canalisation de la magie. Vous pouvez lancer un sort que vous avez appris en dépensant un nombre de points d’énergie magique égal à son rang (minimum 1) sans dépenser une utilisation de ce sort.</p>",
+      "duration": "Voir l’effet."
+    },
+    "2uTbu2pOiw9Kem4n": {
+      "name": "Langue noire",
+      "description": "<p>Pendant la durée du sort, vous effectuez vos jets d’attaque d’Intellect et de Volonté avec 1 avantage contre les démons, les diables, les esprits et les morts-vivants.</p>",
+      "duration": "1 min"
+    },
+    "3JepAYHBmjs9yI4c": {
+      "name": "Bête sanguinaire",
+      "description": "<p>La cible devient une bête sauvage. Pendant la durée du sort, son Gabarit augmente à 1, ou augmente de 1 si elle a un Gabarit supérieur ou égal à 1, et ses attaques à mains nues et avec ses armes naturelles infligent [[/r 1d6]] dégâts supplémentaires.</p>",
+      "target": "Vous ou un animal à portée courte.",
+      "duration": "1 min"
+    },
+    "3KlLYK9wIpNbdmOH": {
+      "name": "Animation d’objet",
+      "description": "<p>Pendant la durée du sort, la cible devient une créature artificielle contrainte. Elle ne change pas de Gabarit. Si elle était rivée au sol, sa Vitesse est de 0.</p>",
+      "target": "Un objet de Gabarit 2 ou inférieur jusqu’à portée courte.",
+      "duration": "1 min"
+    },
+    "3LR6ClciB7gYVus1": {
+      "name": "Traduction universelle",
+      "description": "<p>Pendant la durée du sort, vous pouvez lire toutes les inscriptions que vous voyez.</p>",
+      "duration": "1 min"
+    },
+    "3WYUXq7UqKWyDZS4": {
+      "name": "Peau de chêne",
+      "description": "<p>Pour la durée du sort, vous gagnez un bonus de +2 en Défense et quand vous tentez de vous cacher dans un environnement forestier, vous effectuez votre test d’Agilité avec 1 avantage.</p>",
+      "duration": "1 h"
+    },
+    "3j3jhbGjDafZpWAF": {
+      "name": "Lames de pierre",
+      "description": "<p>Vous projetez des éclats de pierre qui infligent [[/r 2d6]] dégâts à tout ce qui se trouve dans la zone d’effet. Chaque créature présente doit effectuer un test d’Agilité et, en cas de réussite, elle ne subit que la moitié des dégâts. En cas d’échec, la créature subit une blessure hémorragique et subit [[/r 1d6]] dégâts à la fin de chaque round jusqu’à ce qu’elle soigne au moins 1 dégât ou jusqu’à ce qu’elle, ou une autre créature, utilise une action pour stopper l’hémorragie.</p>",
+      "area": "Un cône de 3 m de long ayant pour origine un point à portée de votre allonge."
+    },
+    "437xfqlUxgXLUph8": {
+      "name": "Appel de la foudre",
+      "description": "<p>Un éclair s’abat du ciel et frappe la cible en infligeant [[/r 3d6 + 5]] dégâts à tout ce qui se trouve dans un rayon de 3 m de ce point. Toute créature qui subit des dégâts de cette manière doit faire un test de Force. Une créature est assourdie pendant 1 h en cas d’échec ou subit juste la moitié des dégâts en cas de succès.</p>",
+      "target": "Un point au sol jusqu’à portée longue",
+      "requirements": "Vous devez être à l’extérieur.",
+      "sacrifice": "Vous pouvez dépenser une utilisation de ce sort pour lancer fourche foudroyante."
+    },
+    "4HBG9w7dYTxsq3cz": {
+      "name": "Rune de localisation",
+      "description": "<p>Vous touchez la cible désormais marquée d’un symbole pendant la durée du sort. Vous savez toujours exactement où se trouve l’objet ou la créature portant ce symbole.</p>",
+      "target": "Une créature ou un objet à portée de votre allonge",
+      "duration": "1 h"
+    },
+    "4fU6lylfbxMqZ4AF": {
+      "name": "Coup de tonnerre",
+      "description": "<p>Une vague de sons assourdissants se propage à partir du centre de la zone infligeant [[/r 1d6 + 1]] dégâts à tout ce qui s’y trouve. Chaque créature dans la zone doit effectuer un test de Force et, en cas de réussite, ne subit que la moitié des dégâts. En cas d’échec, une créature est assourdie pendant 1 min.</p>",
+      "area": "Une sphère de 10 m de rayon centrée sur un point situé jusqu’à portée moyenne."
+    },
+    "4ijcEuWCoydHqIqF": {
+      "name": "Emprise du tombeau",
+      "description": "<p>Pendant la durée du sort, des ténèbres se répandent dans la zone ; des griffes osseuses et des mains pourrissantes jaillissent du sol qui devient un terrain difficile. Chaque créature dans la zone quand vous lancez ce sort ou qui s’y trouve à la fin d’un round doit effectuer un test d’Agilité. Une cible qui échoue subit [[/r 1d6]] dégâts et elle est immobilisée pendant la durée de l’effet. Si elle était déjà immobilisée, elle subit [[/r 1d6]] dégâts supplémentaires à la place. La créature peut utiliser une action pour se libérer ce qui met fin à cette affliction.</p>",
+      "area": "Un cercle au sol de 5 m de rayon centré sur un point situé jusqu’à portée courte.",
+      "duration": "1 min"
+    },
+    "4wAPtce55KDi1VXs": {
+      "name": "Glyphe de feu",
+      "description": "<p>Un glyphe incandescent apparaît sur la cible pour la durée de l’effet. Quand vous lancez ce sort, et à la fin de chaque round pendant toute sa durée, le glyphe génère des flammes qui se répandent dans une sphère de 2 m de rayon centrée sur un point dans l’espace de la cible et infligent [[/r 1d6 + 2]] dégâts à tout ce qui s’y trouve. Chaque créature dans la zone doit effectuer un test d’Agilité avec 1 désavantage et en cas de réussite, elle ne subit aucun dégât.</p>",
+      "target": "Un point dans un espace situé à portée courte",
+      "duration": "1 min"
+    },
+    "5LjlV8EPpWsTU7rL": {
+      "name": "Attribut renforcé",
+      "description": "<p>Vous touchez une cible. Choisissez la Force, l’Agilité, l’Intellect ou la Volonté. Pendant la durée de l’effet, quand la cible effectue un jet d’attaque ou un test avec l’attribut choisi, elle effectue ce jet avec 1 avantage.</p>",
+      "target": "Une créature à portée de votre allonge",
+      "duration": "1 min"
+    },
+    "5OHOXJltygIOUNFr": {
+      "name": "Bouclier runique",
+      "description": "<p>Vous inscrivez une rune sur la cible qui y demeure pendant la durée du sort. Les créatures qui lancent des attaques avec des armes contre le porteur du bouclier effectuent leurs jets d’attaque avec 1 désavantage.</p>",
+      "target": "Un bouclier à portée de votre allonge",
+      "duration": "1 min"
+    },
+    "5WpuWC0IxvBalJpS": {
+      "name": "Clameur",
+      "description": "<p>Un son de votre choix est émis à partir du point ciblé. Il peut s’agir d’un bruit ou d’une voix qui s’exprime dans une langue que vous connaissez et son volume peut être aussi doux qu’un murmure ou aussi bruyant qu’un coup de tonnerre. Pendant la durée du sort, vous pouvez modifier le son pour simuler des effets comme des épées qui s’entrechoquent, une conversation ou des bruits de pas qui approchent ou s’éloignent.</p>",
+      "target": "Un point dans un espace situé jusqu’à portée moyenne",
+      "duration": "1 min"
+    },
+    "5YGxrgG3KWMg6rJM": {
+      "name": "Prouesse de combat",
+      "description": "<p>Vous amplifiez votre compétence de combat. Pendant la durée de l’effet, quand vous attaquez avec une arme, vous pouvez effectuer deux fois votre jet d’attaque et choisir le meilleur résultat. De plus, vos attaques avec une arme infligent [[/r 1d6]] dégâts supplémentaires pendant la durée du sort.</p>",
+      "duration": "1 min"
+    },
+    "5g6PWpyzY0qUTsAL": {
+      "name": "Projection",
+      "description": "<p>Une puissante rafale de vent jaillit du point d’origine. Chaque créature dans la zone d’effet doit effectuer un test de Force ; les créatures de Gabarit 1 ou inférieur effectuent ce jet avec 1 désavantage. Une créature qui échoue tombe à terre et elle est déplacée de [[/r 5d6]] mètres en s’éloignant du point d’origine. Si elle rencontre une surface solide avant d’avoir parcouru toute la distance, la surface percutée et la créature subissent chacune [[/r 1d6]] dégâts plus [[/r 1d6]] dégâts supplémentaires par 5 m restant à parcourir (arrondit à l’inférieur).</p>",
+      "area": "Un cylindre de 4 m de hauteur avec un rayon de 4 m centré sur un point jusqu’à portée longue."
+    },
+    "5nqFADzIxLYDG3Y0": {
+      "name": "Aube",
+      "description": "<p>La lumière du soleil se déverse dans la zone d’effet pendant la durée du sort, balayant les ombres et ténèbres magiques créées par des sorts de rang 2 ou inférieur.</p>",
+      "area": "Une sphère de 10 m de rayon centrée sur un point situé jusqu’à portée longue.",
+      "duration": "1 h"
+    },
+    "5vCx1291S9bH5oq2": {
+      "name": "Vol de langue",
+      "description": "<p>Vous crachez sur une cible. Effectuez un jet d’attaque d’Intellect contre sa Volonté. En cas de succès, votre langue se scinde en deux et vous prenez le contrôle de la bouche de la victime aussi longtemps que vous vous concentrez jusqu’à une durée maximale de 1 h. Jusqu’à la fin de l’effet, à chaque fois que vous parlez, vous pouvez utiliser votre bouche ou celle de la cible tant que cette dernière est au maximum à 1,5 km de vous. Quand vous parlez par la bouche de votre victime, elle s’exprime avec sa voix. Jet d’attaque 20+. Vous n’avez pas besoin de vous concentrer.</p>",
+      "target": "Une créature capable de parler jusqu’à portée courte.",
+      "duration": "Concentration, jusqu’à 1 h"
+    },
+    "6BPcNUiU9zz4694y": {
+      "name": "Mur de feu",
+      "description": "<p>Des flammes se répandent dans la zone pendant la durée du sort obscurcissant partiellement tout ce qui se trouve dedans ou derrière. Les créatures et les objets dans la zone d’effet quand vous lancez le sort ou qui y pénètrent subissent [[/r 3d6]] dégâts. À la fin de chaque round, pendant la durée du sort, chaque créature et objet inflammable dans la zone d’effet subissent [[/r 3d6]] dégâts et tout ce qui se trouve jusqu’à portée courte des limites de la zone subit [[/r 1d6]] dégâts à moins de réussir un test de Force.</p>",
+      "area": "Une ligne façonnable de 10 m de long, 5 m de hauteur et 1 m de large ayant pour origine un point situé jusqu’à portée longue.",
+      "duration": "1 min"
+    },
+    "6Bapb8GVCPKRfCKn": {
+      "name": "Soins légers",
+      "description": "<p>Vous touchez une cible, ce qui la soigne d’un nombre de dégâts égal à sa vitesse de guérison.</p>",
+      "target": "Une créature à portée de votre allonge"
+    },
+    "6PUJkuaYzhUI4waL": {
+      "name": "Attaque étourdissante",
+      "description": "<p>Pour lancer ce sort, vous portez une attaque avec une arme. Vous effectuez le jet d’attaque avec 1 avantage et vous pouvez utiliser l’Intellect au lieu de votre attribut d’attaque normal. En cas de succès, la cible subit normalement des dégâts et elle est étourdie pendant 1 round.</p>"
+    },
+    "6gzhQw3MP8JA7O0z": {
+      "name": "Fracasser",
+      "description": "<p>Subissez 2 dégâts et la cible encaisse [[/r 3d6]] dégâts. Si les dégâts la détruisent, elle explose dans un rayon de 2 m à partir d’un point de son espace, infligeant [[/r 1d6]] dégâts à tout ce qui se trouve dans la zone affectée par les éclats. Chaque créature affectée qui obtient un succès à un test d’Agilité subit la moitié des dégâts.</p>",
+      "target": "Un objet en verre, en métal ou en pierre que vous pouvez voir jusqu’à portée moyenne."
+    },
+    "7KooILwSZiLRiEdj": {
+      "name": "Modification du gabarit",
+      "description": "<p>Vous touchez une cible qui rapetisse ou grandit et conserve son nouveau Gabarit pendant la durée de l’effet. Tout ce qu’elle porte sur elle grandit ou rapetisse pour s’adapter à sa nouvelle forme mais si elle lâche un de ces objets il reprend immédiatement sa taille normale.</p><p>Si la cible grandit, son Gabarit est doublé et elle gagne un bonus de +10 en Santé. Ses attaques avec des armes infligent [[/r 1d6]] dégâts supplémentaires si son nouveau Gabarit est de 3 ou moins ou [[/r 2d6]] dégâts supplémentaires si son nouveau Gabarit est de 4 ou plus. Si l’espace occupé par la cible n’est pas assez grand pour son nouveau Gabarit, elle subit [[/r 5d6]] dégâts et l’effet se termine immédiatement.</p><p>Si la cible rapetisse, son Gabarit est réduit de moitié. Elle inflige la moitié des dégâts avec ses attaques avec des armes, effectue ses jets d’attaque et ses tests de Force avec 1 désavantage et ses jets d’attaque et ses tests d’Agilité avec 1 avantage.</p>",
+      "target": "Une créature à portée de votre allonge",
+      "duration": "1 min"
+    },
+    "7asUiwGAZ8UcFiUx": {
+      "name": "Destruction de la magie",
+      "description": "<p>Tous les effets générés par des sorts de rang 3 ou inférieur qui affectent ce qui se trouve dans la zone cessent immédiatement d’agir.</p>",
+      "area": "Un cube de 5 m de côté ayant pour origine un point jusqu’à portée moyenne."
+    },
+    "7zp6aC6aVd46bnir": {
+      "name": "Douleur",
+      "description": "<p>Effectuez un jet d’attaque d’Intellect contre la Force de la cible. En cas de succès, pendant 1 min, à chaque fois qu’elle subit des dégâts, elle encaisse [[/r 1d6]] dégâts supplémentaires. Jet d’attaque 20+. De plus, pendant 1 min, à chaque fois que la cible subit des dégâts, elle est étourdie pendant 1 round.</p>",
+      "target": "Une créature vivante à portée courte"
+    },
+    "811rFBFGvzwn3yrQ": {
+      "name": "Vol plané",
+      "description": "",
+      "target": "Une créature à portée longue",
+      "duration": "1 min",
+      "triggered": "Vous utilisez une action déclenchée pour lancer ce sort quand vous voyez la cible tomber. Pendant la durée de l’effet, la cible ne subit aucun dégât après une chute. Si elle continue à tomber après la fin de l’effet, elle subit des dégâts en se basant sur sa nouvelle hauteur de chute."
+    },
+    "8OarqHwTsjzXi8bj": {
+      "name": "Singularité",
+      "description": "<p>Un caillot ondulant de couleurs apparaît au point d’origine et y demeure pendant la durée de l’effet. Quand vous lancez ce sort, les objets qui ne sont pas sécurisés dans la zone affectée sont déplacés de [[/r 2d6]] mètres vers le point d’origine. Chaque créature dans la zone d’effet quand vous lancez le sort, ou qui y pénètre, doit effectuer un test de Force avec 1 désavantage. En cas d’échec, la créature est déplacée de [[/r 2d6]] mètres vers le point d’origine et ne peut s’en éloigner pendant la durée de l’effet. Toute créature ou tout objet qui atteint ce point subit [[/r 10d6]] dégâts. Si elle est neutralisée par ces dégâts, elle est effacée de l’existence, son corps et son âme sont anéantis à tout jamais.</p><p>Quand l’effet se termine, le caillot explose et inflige [[/r 4d6]] dégâts à tout ce qui se trouve dans la zone d’effet. Toute créature présente doit faire un test de Force. Si une créature échoue, elle tombe à terre ou subit juste la moitié des dégâts si elle réussit.</p>",
+      "area": "Une sphère de 10 m de rayon centrée sur un point d’un espace situé jusqu’à portée longue.",
+      "duration": "1 round"
+    },
+    "8TQYLMITH6HPiTry": {
+      "name": "Chant de terreur",
+      "description": "<p>Quand vous lancez ce sort, et quand vous utilisez une action pour vous concentrer dessus, choisissez une créature jusqu’à portée courte de vous qui peut vous entendre. La cible doit effectuer un test de Volonté. Si elle réussit, elle est immunisée contre cette utilisation du sort ; si elle échoue, elle est effrayée pendant la durée de l’effet. Tant qu’elle est ainsi effrayée, la créature doit utiliser son action à chaque tour pour vous fuir par le chemin le plus sûr. Si la créature ne peut pas vous entendre à la fin d’un round, elle se débarrasse de cette affliction.</p>",
+      "duration": "Concentration, jusqu’à 1 min"
+    },
+    "8WlqSxQkImoTRh4b": {
+      "name": "Préjudice",
+      "description": "<p>Des barbillons invisibles déchirent le corps d’une cible. Effectuez un jet d’attaque d’Intellect contre sa Force. Sur un succès, la cible subit un malus de –5 à sa Santé pendant 1 min. Jet d’attaque 20+. Le malus à la Santé est de –10.</p>",
+      "target": "Une créature vivante que vous pouvez voir jusqu’à portée courte."
+    },
+    "8YkTBjwZW7YqlwwB": {
+      "name": "Bonneteau",
+      "description": "<p>Quatre doubles illusoires apparaissent dans des espaces dégagés à portée de votre allonge. Pendant la durée de l’effet, ces doubles se déplacent avec vous et changent continuellement de place pour qu’un observateur ne puisse savoir où vous êtes réellement. Les déplacements des doubles ne déclenchent pas d’attaques gratuites.</p><p>Quand une créature obtient un succès sur un jet d’attaque contre votre Défense, votre Force ou votre Agilité, lancez [[/r 1d20]] pour savoir si elle vous affecte vous ou un de vos doubles. Si elle affecte un des doubles, réduisez leur nombre de 1. L’effet cesse quand le dernier double disparaît.</p>",
+      "duration": "1 h ; voir l’effet"
+    },
+    "8fW48Bc23fOm5SHj": {
+      "name": "Érosion",
+      "description": "<p>Subissez 3 dégâts. Faites un jet d’attaque de Volonté contre son Agilité. En cas de succès, elle est affaiblie pendant 1 min. Tant qu’elle est affaiblie de cette manière, à la fin de chaque round la cible subit [[/r 1d6]] dégâts.</p><p>Jet d’attaque 20+. La cible subit [[/r 1d6]] dégâts supplémentaires à la fin de chaque round tant qu’elle est affaiblie de cette manière.</p>",
+      "target": "Une créature avec un corps physique que vous pouvez voir à portée courte."
+    },
+    "8nsjNEAEG493jULs": {
+      "name": "Portails",
+      "description": "<p>Un portail s’ouvre au centre de chaque cube et y reste pendant la durée du sort. Chaque portail est large de 1 m et haut de 2 m mais n’a aucune profondeur. Un portail a un recto et un verso et peut avoir n’importe quelle orientation. Tout ce qui entre par le recto d’un des portails ressort instantanément par le verso de l’autre et vice-versa.</p>",
+      "area": "Deux cubes, chacun de 2 m de côté, l’un à partir d’un point à portée de votre allonge et l’autre à partir d’un point situé jusqu’à portée extrême.",
+      "duration": "1 min"
+    },
+    "958jfFZPss06hF1w": {
+      "name": "Épouvantable fusion",
+      "description": "<p>La forme des cibles devient indistincte pendant un moment. Effectuez un jet d’attaque d’Intellect contre la Force de chacune d’elles. En cas de succès, la cible subit [[/r 3d6]] dégâts et elle est affaiblie pendant 1 round.</p><p>Jet d’attaque 20+. La cible subit [[/r 3d6]] dégâts supplémentaires. Spécial. Si vous obtenez un succès contre les deux cibles, leurs corps fusionnent de manière permanente en une seule créature qui est affaiblie jusqu’à la fin de son prochain repos. Il vous revient de déterminer l’apparence de la créature fusionnée.</p><p>Elle combine les attributs, les caractéristiques et les autres capacités des cibles comme suit :</p><ul><li>Elle a la valeur de Force la plus élevée des deux et la valeur d’Agilité la plus faible. Chaque cible conserve son propre Intellect et sa propre Volonté.</li><li>Elle cumule [[/r 2d6]] en Folie à la place des valeurs de Folie des deux cibles (si elles en avaient une). Leurs valeurs de Corruption sont cumulées (si elles en ont une).</li><li>Les cibles occupent le même espace et cumulent leur Gabarit. Ajoutez la valeur de Santé la plus élevée à la moitié de la valeur de Santé la plus faible. La Vitesse de la créature fusionnée est de 6.</li><li>La créature fusionnée a les talents et les traits des deux cibles et si aucune des deux ne l’a déjà, elle gagne le trait terrifiant.</li><li>Bien qu’elles partagent le même corps, chaque cible peut effectuer un tour par round. L’une d’elles doit prendre un tour rapide et l’autre un tour lent ; si elles ne parviennent pas à se mettre d’accord, chacune d’elles lance [[/r 1d6]] et celle qui obtient le meilleur résultat choisit.</li></ul>",
+      "target": "Deux créatures que vous pouvez voir à portée courte l’une de l’autre et jusqu’à portée moyenne de vous"
+    },
+    "9MPDqrzwpk69PoqO": {
+      "name": "Magie amplifiée",
+      "description": "<p>Pendant la durée du sort, quand vous lancez un sort d’attaque, vous effectuez tout jet d’attaque requis avec 1 avantage et les tests pour résister aux effets du sort sont effectués avec 1 désavantage.</p>",
+      "duration": "1 min"
+    },
+    "9wfjYSsS0hUqjIeJ": {
+      "name": "Baies curatives",
+      "description": "<p>Vous touchez les cibles que vous imprégnez de magie pendant la durée du sort ou jusqu’à ce qu’elles soient consommées. Une créature vivante peut utiliser une action pour avaler une des baies ce qui lui permet de soigner un nombre de dégâts égal à la moitié de sa vitesse de guérison.</p>",
+      "target": "Jusqu’à trois baies fraîches à portée de votre allonge.",
+      "duration": "8 h ; voir l’effet"
+    },
+    "AAlBTcSu5DMdEEFX": {
+      "name": "Gourdin",
+      "description": "<p>Vous imprégnez l’arme ciblée de magie pendant la durée du sort ou jusqu’à ce que vous la lâchiez. Tant que vous tenez l’arme ciblée, vous gagnez un bonus de +2 en Vitesse et vos attaques avec elle infligent [[/r 1d6]] dégâts supplémentaires.</p>",
+      "target": "Une massue ou un bâton que vous tenez.",
+      "duration": "1 h ; voir l’effet"
+    },
+    "AVqOLaofK84doElC": {
+      "name": "Lance chaotique",
+      "description": "<p>Un déluge d’énergie colorée se déverse dans la zone. Toute créature qui s’y trouve doit faire un test de Volonté. Une créature subit [[/r 5d6 + 5]] dégâts en cas d’échec ou soigne [[/r 2d6 + 5]] dégâts en cas de succès.</p>",
+      "area": "Une ligne façonnable de 15 m de long et de 2 m de large provenant d’un point situé à portée de votre allonge."
+    },
+    "Ac7cdpUMjDKwcqLf": {
+      "name": "Escalade arachnéenne",
+      "description": "<p>Vous touchez une cible. Pendant la durée de l’effet, elle peut se déplacer à sa Vitesse sur les murs, les plafonds et les surplombs et elle n’a jamais à effectuer de test pour escalader.</p>",
+      "target": "Une créature à portée de votre allonge",
+      "duration": "1 h"
+    },
+    "ActfLPx9orruTH6M": {
+      "name": "Avalanche",
+      "description": "<p>Vous soulevez la couche supérieure du sol dans un cercle et vous la projetez dans un cône. Le sol dans les deux zones affectées devient un terrain difficile jusqu’à ce que les débris soient déblayés. Tout ce qui se trouve dans le cône subit [[/r 4d6]] dégâts. Les créatures présentes subissent seulement la moitié des dégâts si elles réussissent un test d’Agilité.</p>",
+      "area": "Un cercle au sol d’un rayon de 2 m centré sur un point à portée de votre allonge et un cône de 5 m de long ayant pour origine un point à portée de votre allonge."
+    },
+    "AqaZGJ1fIPM0b7tl": {
+      "name": "Contrainte",
+      "description": "<p>Effectuez un jet d’attaque d’Intellect contre la Volonté de la cible. Si vous, ou un membre de votre groupe avez attaqué la cible depuis la dernière fois que vous vous êtes reposé, vous effectuez le jet d’attaque avec 1 désavantage. Sur un succès, la cible est contrainte pendant 1 min ou jusqu’à ce qu’elle subisse des dégâts.</p><p>Jet d’attaque 20+. La cible est à la place charmée pendant 1 h ou jusqu’à ce qu’elle subisse des dégâts.</p>",
+      "target": "Une créature à portée moyenne qui peut vous voir"
+    },
+    "B2ZnwVnt8zCUBctc": {
+      "name": "Question",
+      "description": "<p>Vous posez une question à la cible et vous faites un jet d’attaque d’Intellect contre sa Volonté. En cas de succès, elle doit vous répondre sincèrement et au mieux de sa connaissance. Jet d’attaque 20+. La cible est effrayée pendant 1 round.</p>",
+      "target": "Une créature à portée courte qui peut vous entendre, vous voir et vous comprendre"
+    },
+    "BT7hpfIoxFySklpS": {
+      "name": "Guérison",
+      "description": "<p>Vous touchez une cible et lui octroyez un des avantages suivants :</p><ul><li>Vous la débarrassez d’une des afflictions suivantes : malade, fatigué, affaibli ou empoisonné.</li><li>Vous réduisez sa Folie de 1.</li><li>Vous la débarrassez de tout malus à sa Santé.</li><li>La cible soigne autant de dégâts que la moitié de sa vitesse de guérison.</li></ul>",
+      "target": "Une créature à portée de votre allonge"
+    },
+    "BUyMwd6peeuP4V5C": {
+      "name": "Affaiblissement",
+      "description": "<p>Un rayon noir jaillit de la paume de votre main. Effectuez un jet d’attaque d’Intellect contre l’Agilité de la cible. Sur un succès, elle subit un malus de −20 à sa Santé pendant 1 h. Tant que ce malus s’applique, elle est également affaiblie. Jet d’attaque 20+. Le malus est, à la place, de –30.</p>",
+      "target": "Une créature vivante jusqu’à portée longue",
+      "duration": "1 h"
+    },
+    "BhWn6ksnM4UOYKMZ": {
+      "name": "Frappe éclair",
+      "description": "<p>Vous vous déplacez à la vitesse de l’éclair en frappant furieusement ce qui se trouve sur votre passage. Chaque créature de votre choix dans la zone doit faire un test d’Agilité avec 1 désavantage. En cas d’échec, elle subit [[/r 4d6 + 3]] dégâts. Puis vous vous déplacez à la moitié de votre Vitesse. Ce déplacement ne déclenche pas d’attaques gratuites.</p>",
+      "area": "Une sphère avec un rayon égal à la moitié de votre Vitesse centrée sur un point à portée de votre allonge."
+    },
+    "CCVe0N8VO40xjRjF": {
+      "name": "Dissolution",
+      "description": "<p>Subissez 2 dégâts. Faites un jet d’attaque de Volonté contre la Force de la cible. En cas de succès, elle subit [[/r 1d6 + 1]] dégâts à cause de votre contact corrosif et elle est affaiblie pendant 1 min. Si la cible est neutralisée par ces dégâts, elle meurt instantanément et se dissout en une bouillie immonde laissant tout ce qu’elle portait par terre dans l’espace qu’elle occupait. Jet d’attaque 20+. La cible subit [[/r 1d6]] dégâts supplémentaires.</p>",
+      "target": "Une créature avec un corps physique à portée de votre allonge."
+    },
+    "CSOIGCBqW3pdrdXW": {
+      "name": "Lier un génie des vents",
+      "description": "<p>À la fin du round durant lequel vous avez lancé ce sort, le cube ciblé devient un génie des vents de Gabarit 2. Vous ne pouvez pas révoquer volontairement ce sort. Quand le génie apparaît, effectuez un jet d’attaque de Volonté contre sa Volonté. En cas de réussite, le génie est contraint, pendant la durée de l’effet. En cas d’échec, il est hostile.</p>",
+      "target": "Un cube d’air de 2 m de côté, ayant pour origine un point jusqu’à portée longue.",
+      "duration": "1 min"
+    },
+    "CdrUvVzcjcatteTp": {
+      "name": "Désir envolé",
+      "description": "<p>La cible ressent une douleur interne aiguë. Effectuez un jet d’attaque d’Intellect contre sa Force. Sur un succès, la cible subit [[/r 3d6]] dégâts et est étourdie pendant [[/r 1d6]] rounds tandis que ce qui reste de son organe reproducteur tombe de son corps. Jet d’attaque 20+. La cible subit [[/r 3d6]] dégâts supplémentaires et tombe à terre ; elle ne peut se relever tant qu’elle est étourdie de cette manière.</p>",
+      "target": "Une créature vivante jusqu’à portée courte"
+    },
+    "D1cziVlY9hyyvMFR": {
+      "name": "Charme",
+      "description": "<p>Effectuez un jet d’attaque d’Intellect contre la Volonté de la cible. Si vous, ou un membre de votre groupe avez attaqué la cible depuis la dernière fois que vous vous êtes reposé, vous effectuez le jet d’attaque avec 1 désavantage. Sur un succès, elle est charmée pendant 1 h ou jusqu’à ce qu’elle subisse des dégâts.</p><p>Jet d’attaque 20+. La cible est à la place charmée pendant [[/r 1d6]] heures ou jusqu’à ce qu’elle subisse des dégâts.</p>",
+      "target": "Une créature à portée courte qui peut vous voir"
+    },
+    "DlKi0z3UVkR9yDcI": {
+      "name": "Modeler la terre et la pierre",
+      "description": "<p>Quand vous lancez ce sort, vous devez vous concentrer et rester en contact avec la surface affectée pendant 1 min. Au bout de ce temps, vous remodelez la pierre et la terre de cette zone comme si elles étaient faites d’argile. Puis ces substances reprennent leur solidité normale. Vous pouvez lancer ce sort pour créer des ouvertures dans des murs en pierre, pour sceller une porte, créer une arme en pierre ou dégager les éboulis d’un passage.</p>",
+      "area": "Un cube de terre ou de pierre de 4 m de côté à partir d’un point à portée de votre allonge.",
+      "duration": "Permanent ; voir l’effet."
+    },
+    "DoRgT25q79Z2KCuw": {
+      "name": "Épiphanie",
+      "description": "",
+      "triggered": "Vous pouvez utiliser une action déclenchée pour lancer ce sort quand vous effectuez un test ou un jet d’attaque. Vous lancez le d20 deux fois et vous choisissez le meilleur résultat."
+    },
+    "DzQohIzNMtVsGIQu": {
+      "name": "Animation de cadavre",
+      "description": "<p>Vous touchez une cible. Si vous vous concentrez et maintenez le contact avec elle pendant 1 min, elle devient un cadavre animé contraint de son Gabarit.</p>",
+      "target": "Un cadavre de Gabarit 1/2 ou 1 à portée de votre allonge.",
+      "duration": "Concentration, jusqu’à 1 min",
+      "sacrifice": "Vous pouvez dépenser une utilisation de ce sort pour lancer emprise spectrale."
+    },
+    "E8lTKg1THr3muldF": {
+      "name": "Fléchette d’obscurité",
+      "description": "<p>Un projectile de ténèbres jaillit de votre main. Effectuez un jet d’attaque d’Intellect contre l’Agilité de la cible. En cas de succès, elle subit [[/r 2d6]] dégâts et effectue ses tests de Perception avec 3 désavantages pendant 1 min.</p>",
+      "target": "Une créature à portée moyenne"
+    },
+    "EOtAhpCEEWwYj1cG": {
+      "name": "Ronces",
+      "description": "<p>Des ronces avec des épines tranchantes comme des rasoirs se répandent dans la zone qui devient un terrain difficile pendant la durée du sort. Quand l’effet cesse, les ronces flétrissent et meurent. Toute créature qui entre dans cette zone ou qui la traverse doit réussir un test d’Agilité avec 1 désavantage ou subir [[/r 1d6]] dégâts.</p>",
+      "area": "Un cercle de 10 m de rayon centré sur un point situé jusqu’à portée moyenne.",
+      "duration": "1 min"
+    },
+    "Ep00kvKsC7XYQRCj": {
+      "name": "Clef à molette magique",
+      "description": "<p>Vous créez et lancez une clef à molette. Effectuez un jet d’attaque d’Intellect contre la Défense de la cible. Si l’attaque réussit, la cible subit [[/r 1d6 + 1]] dégâts et tombe à terre. Jet d’attaque 20+. La cible est également affaiblie jusqu’à la fin du round.</p>",
+      "target": "Une créature ou un objet à portée courte."
+    },
+    "Ez2NyrPWUy6HgqzG": {
+      "name": "Séduction",
+      "description": "<p>Chaque cible doit effectuer un test de Volonté avec 1 désavantage. Une créature qui échoue est charmée jusqu’à ce que vous l’attaquiez ou que vous vous reposiez. Tant qu’elle est ainsi charmée, elle est affaiblie si elle se trouve au-delà d’une portée courte de vous.</p>",
+      "target": "N’importe quel nombre de créatures jusqu’à portée courte."
+    },
+    "FGafqkzYLClLsZJ0": {
+      "name": "Arc de mort",
+      "description": "<p>Vous faites tournoyer votre arme de mêlée atour de vous en un arc dévastateur infligeant [[/r 3d6 + 3]] dégâts à chaque cible au lieu des dégâts normaux de cette arme. Les cibles ne subissent que la moitié des dégâts si elles réussissent un test d’Agilité.</p>",
+      "target": "Chaque créature que vous choisissez à portée de votre allonge"
+    },
+    "FIJtbRfOdoCTAbrR": {
+      "name": "Tempête de grêle",
+      "description": "<p>De la grêle tombe de nuages qui couvrent la zone et y demeurent pendant la durée du sort. La zone d’effet est également partiellement obscurcie par ce phénomène. Pendant toute la durée, les créatures présentes et celles qui se trouvent jusqu’à 5 m de ses limites sont assourdies. Le sol dans la zone affectée est considéré comme un terrain difficile jusqu’à ce que la grêle fonde.</p><p>Quand vous lancez le sort, et à la fin de chaque round pendant toute sa durée, la grêle inflige [[/r 3d6]] dégâts à tout ce qui se trouve dans la zone et qui ne bénéficie pas d’un abri. Toute créature qui subit des dégâts de cette manière doit faire un test d’Agilité. Si une créature échoue, elle tombe à terre ou subit juste la moitié des dégâts si elle réussit.</p>",
+      "area": "Un cylindre de 2 m de hauteur et de 5 m de rayon centré sur un point situé jusqu’à portée longue.",
+      "duration": "1 min"
+    },
+    "FpiaQ0d8bxXlPygX": {
+      "name": "Invocation de festin",
+      "description": "<p>Un somptueux festin apparaît sur une surface horizontale dans la zone d’effet. Il peut nourrir jusqu’à cinq créatures pour une journée. Tout ce qui n’est pas mangé disparaît une fois l’effet terminé.</p>",
+      "area": "Un cube de 2 m de côté se manifestant à partir d’un point à portée de votre allonge.",
+      "duration": "1 h ; voir l’effet"
+    },
+    "GDTbPv02g64IBuRV": {
+      "name": "Chant d’amitié",
+      "description": "<p>Vous vous concentrez pendant 1 min en chantant. Quand vous avez terminé, chaque cible doit effectuer un test de Volonté. En cas d’échec, elle est charmée pendant 1 h ou jusqu’à ce qu’elle subisse des dégâts.</p>",
+      "target": "Chaque créature que vous choisissez jusqu’à portée courte et qui peut vous entendre",
+      "duration": "1 h ; voir l’effet"
+    },
+    "Gaksz5kn5BuiJOZ9": {
+      "name": "Glands magiques",
+      "description": "<p>Vous touchez les cibles que vous imprégnez de magie pendant la durée du sort ou jusqu’à ce qu’une créature attaque avec. Une créature attaque avec un gland en le jetant sur une cible ou un objet à portée courte et en effectuant un jet d’attaque d’Agilité contre l’Agilité de cette cible. En cas de succès, cette dernière subit [[/r 1d3]] dégâts et elle est ralentie pendant 1 round. Si elle est neutralisée par ces dégâts, elle est enracinée au sol et se transforme de manière permanente en jeune arbre.</p><p>Jet d’attaque 20+. La cible subit [[/r 1d6]] dégâts supplémentaires.</p>",
+      "target": "Jusqu’à cinq glands, noisettes ou graines à portée de votre allonge.",
+      "duration": "1 h ; voir l’effet"
+    },
+    "GeYRRtsW1JEv3iPd": {
+      "name": "Arbalèteur",
+      "description": "<p>Vous créez dans la zone d’effet une tourelle de Gabarit 1 armée d’une arbalète. La tourelle a une Défense de 5 et une Santé égale à votre valeur d’Intellect. Elle persiste pendant toute la durée du sort ou jusqu’à ce qu’elle soit détruite. À la fin de chaque round, la tourelle tire sur une créature ou objet situé jusqu’à portée longue. Effectuez un jet d’attaque d’Intellect contre la Défense de la cible. En cas de succès, elle subit [[/r 2d6]] dégâts.</p><p>Jet d’attaque 20+. La cible subit [[/r 1d6]] dégâts supplémentaires.</p>",
+      "area": "Un cube de 1 m de côté à partir d’un point jusqu’à portée de votre allonge et apparaissant sur une surface solide.",
+      "duration": "1 min"
+    },
+    "GgHmfbhCJZZhaZeL": {
+      "name": "Ralentissement",
+      "description": "<p>Chaque cible doit effectuer un test de Volonté. En cas d’échec, la victime est ralentie pendant 1 min.</p>",
+      "target": "Jusqu’à cinq créatures à portée moyenne."
+    },
+    "Gj5z2i0Hqp4SUOcd": {
+      "name": "Lumière persistante",
+      "description": "<p>Vous touchez la cible et elle irradie de la lumière dans un rayon de 10 m pendant la durée du sort.</p>",
+      "target": "Un objet à portée de votre allonge",
+      "duration": "8 h"
+    },
+    "Gu3ggyjD9gay5peW": {
+      "name": "Grenades",
+      "description": "<p>Vous lancez trois grenades en les répartissant comme vous le voulez entre les cibles. Quand une grenade atteint la cible, ou si elle rencontre une créature ou un objet solide avant, elle explose. L’explosion inflige [[/r 1d6 + 1]] dégâts de feu à tout ce qui se trouve dans une sphère de 1 m de rayon centrée sur la cible ou un point dans l’espace occupé par la créature ou l’objet. Chaque créature affectée qui obtient un succès à un test d’Agilité subit la moitié des dégâts.</p>",
+      "target": "Maximum de trois créatures jusqu’à portée courte."
+    },
+    "HCBjSHQG0GAlrI0W": {
+      "name": "Briser",
+      "description": "<p>Subissez 1 dégât. La cible subit des dégâts égaux à sa Santé.</p>",
+      "target": "Un objet de Gabarit 1/2 ou inférieur à portée courte."
+    },
+    "HmESVjHC8rH9zP2r": {
+      "name": "Projectile de feu",
+      "description": "<p>Vous projetez un missile ardent sur une cible. Faites un jet d’attaque de Volonté contre son Agilité. En cas de succès, la cible subit [[/r 1d6]] dégâts.</p><p>Jet d’attaque 20+. La cible subit [[/r 1d6]] dégâts supplémentaires.</p>",
+      "target": "Une créature ou un objet à portée longue."
+    },
+    "HuyL6grPMSjTIsI1": {
+      "name": "Régénération",
+      "description": "<p>Vous touchez une cible. À la fin de chaque round pendant la durée de l’effet, la cible soigne des dégâts égaux à la moitié de sa vitesse de guérison.</p>",
+      "target": "Une créature vivante à portée de votre allonge",
+      "duration": "1 min"
+    },
+    "IDYCuuE8u6kiC73j": {
+      "name": "Projection erratique",
+      "description": "<p>Une bulle de couleurs étincelantes et crépitantes jaillit de votre main. Faites un jet d’attaque de Volonté contre son Agilité. S’il réussit, la cible subit [[/r 1d6]] dégâts. Après le jet d’attaque, lancez [[/r 1d6]]. Sur un 6, répétez cette attaque contre une cible différente, amie ou ennemie, jusqu’à portée moyenne de la précédente cible. Vous choisissez la cible s’il y en a plusieurs.</p><p>Jet d’attaque 20+. La cible subit [[/r 1d6]] dégâts supplémentaires.</p>",
+      "target": "Une créature ou un objet à portée moyenne."
+    },
+    "INcQmXhkwTDEUT0J": {
+      "name": "Localisation",
+      "description": "<p>Vous vous concentrez pendant 1 min pour visualiser une créature ou un objet. Vous pouvez visualiser une chose précise, comme le dernier gobelet dans lequel le roi a bu, ou une catégorie générale comme des pièges. Quand vous avez terminé, pendant la durée du sort, vous savez où se trouve la créature ou l’objet choisi quand vous êtes à portée moyenne de la chose visualisée. Elle ne peut être cachée à vos yeux pendant la durée du sort. Cette connaissance vous permet aussi de savoir quel chemin emprunter pour l’atteindre. Si plusieurs sujets correspondent à la description, vous connaissez la localisation de chacun d’eux.</p>",
+      "duration": "1 h ; voir l’effet"
+    },
+    "IO3HptMCg5aMxmhg": {
+      "name": "Sceau des portes du royaume des morts",
+      "description": "<p>Des vrilles d’énergie nécromantique se répandent dans la zone d’effet. Pendant la durée du sort, les morts-vivants dans la zone effectuent leurs jets d’attaque et leurs tests avec 1 avantage et les créatures vivantes autres que vous avec 1 désavantage. De plus, les créatures vivantes de Gabarit 1 ou 1/2 qui meurent dans la zone deviennent des cadavres animés contraints.</p>",
+      "area": "Une sphère de 10 m de rayon centrée sur un point situé jusqu’à portée moyenne.",
+      "duration": "1 min"
+    },
+    "Idne1q0CGZfBvC4z": {
+      "name": "Bête intérieure",
+      "description": "<p>Vous yeux brillent, votre peau se couvre de fourrure, vos ongles grandissent et vos dents se transforment en crocs. Pendant la durée du sort, vous gagnez vision des ténèbres, un bonus de +2 en Vitesse et vos attaques à mains nues et vos armes naturelles infligent [[/r 1d6]] dégâts supplémentaires.</p>",
+      "duration": "1 min"
+    },
+    "IfFlROdmso4NCONw": {
+      "name": "Écharde terrestre",
+      "description": "<p>Une pointe effilée jaillit du sol sous la cible. Faites un jet d’attaque de Volonté contre son Agilité. Si l’attaque réussit, la cible subit [[/r 1d6]] dégâts et tombe à terre.</p><p>Jet d’attaque 20+. La cible subit [[/r 1d6]] dégâts supplémentaires.</p>",
+      "target": "Une créature au sol à portée courte."
+    },
+    "IgcGcjCVF3kOcbO8": {
+      "name": "Invocation d’objets utiles",
+      "description": "<p>Un objet de Gabarit 1 ou inférieur non magique et d’une valeur inférieure ou égale à 1 ca apparaît dans la zone.</p>",
+      "area": "Un cube de 1 m de côté se manifestant à partir d’un point à portée de votre allonge.",
+      "duration": "1 min"
+    },
+    "Iigm0MkJByjIatVs": {
+      "name": "Dépeçage",
+      "description": "<p>Le vent charrie des gravillons qui écharpent votre cible. Faites un jet d’attaque de Volonté contre la Force de la cible. En cas de succès, elle subit [[/r 2d6 + 3]] dégâts. Une créature vivante neutralisée par ces dégâts meurt instantanément, sa chair (si elle en a) ayant été arrachée de ses os.</p><p>Jet d’attaque 20+. La cible subit [[/r 2d6]] dégâts supplémentaires.</p>",
+      "target": "Une créature ou un objet à portée courte."
+    },
+    "IkJJaETSKtDCvjYW": {
+      "name": "Vertige",
+      "description": "<p>La cible voit son environnement tournoyer autour d’elle. Effectuez un jet d’attaque d’Intellect contre sa Perception. Sur un succès, elle est prise de vertiges pendant 1 min. Si elle se déplace de plus de 2 m au cours de son tour alors qu’elle est soumise à cet effet, elle doit effectuer un test d’Agilité. En cas d’échec, elle tombe à terre et termine son tour.</p><p>Jet d’attaque 20+. Tant qu’elle est prise de vertiges, la cible tombe également à terre quand elle subit des dégâts.</p>",
+      "target": "Une créature vivante à portée courte"
+    },
+    "IqCq4PALdFAgfMyT": {
+      "name": "Vigueur",
+      "description": "<p>Vous touchez la cible et lui octroyez un bonus de +10 en Santé pour la durée du sort.</p>",
+      "target": "Une créature à portée de votre allonge",
+      "duration": "1 h"
+    },
+    "Iyb90kqjB8ylOjnq": {
+      "name": "Vision des ténèbres",
+      "description": "<p>Vous touchez la cible qui gagne vision des ténèbres pour la durée du sort.</p>",
+      "target": "Une créature que vous touchez",
+      "duration": "1 h"
+    },
+    "J68Oq8EXGqz8y9Ca": {
+      "name": "Création de symbole sacré",
+      "description": "<p>Un symbole sacré étincelant apparaît dans votre main et y reste pendant toute la durée du sort ou jusqu’à ce que vous le lâchiez. Ce symbole sacré vous octroie 1 avantage à vos jets d’attaque avec des sorts Théurgiques.</p>",
+      "duration": "1 min ; voir l’effet"
+    },
+    "JRsa5p4trRCdjmUr": {
+      "name": "Soins rapides",
+      "description": "<p>Vous devez vous concentrer pendant 1 min en lançant ce sort. Si vous n’êtes pas déconcentré, au bout de ce temps, vous soignez des dégâts égaux à deux fois votre vitesse de guérison et vous vous débarrassez d’une des afflictions suivantes qui vous affecte : malade, fatigué ou empoisonné.</p>"
+    },
+    "JctBOV5bHFCjshpw": {
+      "name": "Se cacher des morts-vivants",
+      "description": "<p>Vous êtes caché des morts-vivants pendant la durée du sort. Cet effet cesse immédiatement si vous effectuez une attaque.</p>",
+      "duration": "1 min ; voir l’effet"
+    },
+    "JkmvWGb2HroV7OhF": {
+      "name": "Masque",
+      "description": "<p>Vous modifiez votre apparence pour ressembler à quelqu’un d’autre pendant la durée du sort ou jusqu’à ce que vous soyez inconscient. Vous pouvez grandir ou rapetisser d’un maximum de 30 cm, augmenter ou réduire votre poids d’un maximum de 25 % et effectuer quelques autres modifications cosmétiques si vous le souhaitez. Vos caractéristiques, vos attributs et vos autres capacités ne sont pas modifiés et vous ne pouvez pas choisir une ascendance différente de la vôtre.</p>",
+      "duration": "1 h ; voir l’effet"
+    },
+    "JrbvIDiFJrBvCF0L": {
+      "name": "Sphère d’eau",
+      "description": "<p>La zone d’effet est remplie d’eau pendant toute la durée du sort. À chaque fois que vous utilisez une action pour vous concentrer sur ce sort, vous pouvez déplacer la sphère et tout ce qui se trouve dedans de 5 m dans n’importe quelle direction.</p><p>Chaque créature dans la zone quand vous lancez le sort est piégée dans la sphère ainsi que toute créature dans un espace où elle pénètre. À la fin de chaque round jusqu’à ce que l’effet cesse, chaque créature respirant de l’air prise au piège de cette manière doit réussir un test de Force ou subir [[/r 2d6]] dégâts.</p><p>Une créature piégée de cette manière peut utiliser une action pour effectuer un test de Force. Si elle réussit, elle se libère en nageant et tombe à terre dans un espace dégagé de son choix à 1 m de la sphère.</p>",
+      "area": "Une sphère de 3 m de rayon centrée sur un point situé jusqu’à portée moyenne.",
+      "duration": "Concentration, jusqu’à 1 min"
+    },
+    "KC4TIN4Pt6wPtDnA": {
+      "name": "Forme de brume",
+      "description": "<p>Vous devenez un nuage de brume de votre Gabarit pendant la durée du sort. Jusqu’à la fin de cet effet, vous bénéficiez des avantages suivants :</p><ul><li>Vous êtes immunisé contre les dégâts.</li><li>Vous ignorez les effets des jets d’attaque contre votre Force ou qui nécessitent un test de Force.</li><li>Vous pouvez voler et traverser des ouvertures suffisamment larges pour laisser passer l’air mais vous ne pouvez pas entrer dans des espaces remplis de liquide, les liquides sont des objets solides pour vous.</li><li>Vous ne pouvez pas tomber. Vous êtes immunisé contre les afflictions saisi, immobilisé, à terre et ralenti.</li><li>Vous ne pouvez pas parler, utiliser des actions, des sorts ou des objets.</li></ul><p>À la fin d’un round au cours duquel vous êtes dans une zone affectée par le vent, vous êtes déplacé de [[/r 2d6]] mètres dans la direction dans laquelle souffle le vent et vous subissez un malus cumulatif de 5 en Santé. Ce malus perdure jusqu’à ce que vous repreniez votre forme normale.</p>",
+      "duration": "Concentration, jusqu’à 1 h"
+    },
+    "KDUcgZvQ5SU08LrR": {
+      "name": "Voyage temporel",
+      "description": "<p>Choisissez un moment du temps jusqu’à un maximum de 100 ans dans l’avenir. Vous cessez d’exister. Quand le temps dans le jeu atteint la période temporelle que vous avez choisie, vous réapparaissez immédiatement dans l’espace que vous avez quitté ou, si ce n’est pas possible, dans l’espace le plus proche.</p>"
+    },
+    "KLyBbWY20e28LmfW": {
+      "name": "Éclat d’arc-en-ciel",
+      "description": "<p>Un grain lumineux jaillit du bout de vos doigts et se dirige en ligne droite vers la cible. Quand il atteint ce point, ou s’il rencontre une créature ou un objet solide avant, il explose en lumières colorées. Ces lumières se dispersent dans une sphère de 1 m de rayon centrée sur la cible ou autour d’un point dans l’espace occupé par la créature ou l’objet. Chaque créature dotée de la vue dans la zone d’effet doit réussir un test de Perception ou être étourdie pendant 1 round.</p>",
+      "target": "Un point dans un espace situé à portée moyenne"
+    },
+    "KQU7PdPN0FHprcsj": {
+      "name": "Précognition",
+      "description": "<p>Pendant la durée du sort, les jets d’attaque contre vous sont effectués avec 1 désavantage. De plus, vous effectuez vos tests pour résister aux attaques avec 1 avantage.</p>",
+      "duration": "1 min"
+    },
+    "KQq1x864MtANRUrB": {
+      "name": "Exorcisme",
+      "description": "<p>Si la cible était charmée, contrainte ou effrayée, vous la débarrassez de cette affliction.</p><p>Si la cible est possédée, vous devez vous concentrer pendant 1 min, durée pendant laquelle la cible doit demeurer à portée, puis vous effectuez un jet d’attaque de Volonté contre la Volonté de la créature qui la possède. Si vous obtenez un succès, la possession se termine et la créature qui possédait la cible apparaît dans un espace dégagé jusqu’à portée courte en étant étourdie pendant 1 round.</p>",
+      "target": "Une créature charmée, contrainte, effrayée ou possédée jusqu’à portée courte."
+    },
+    "KipGe0Z11ktB6gAa": {
+      "name": "Cannibalisation de la magie",
+      "description": "<p>Effectuez un jet d’attaque d’Intellect contre la Force de la cible. En cas de succès, elle subit [[/r 3d6]] dégâts et vous regagnez une utilisation d’un sort de rang 1 ou inférieur.</p><p>Jet d’attaque 20+. La cible subit [[/r 2d6]] dégâts supplémentaires et, à la place, vous regagnez une utilisation d’un sort de rang 2 ou inférieur.</p>",
+      "target": "Une créature à portée moyenne"
+    },
+    "KjOgMKu6Z9SozGjF": {
+      "name": "Gel",
+      "description": "<p>La température chute autour de la cible. Faites un jet d’attaque de Volonté contre son Agilité. En cas de succès, elle subit [[/r 1d3]] dégâts et elle est immobilisée pendant 1 round. Jet d’attaque 20+. La cible subit [[/r 1d3]] dégâts supplémentaires.</p>",
+      "target": "Une créature vivante à portée courte"
+    },
+    "L2lVcDaMVLSMo1Cs": {
+      "name": "Suggestion",
+      "description": "<p>Effectuez un jet d’attaque d’Intellect contre la Volonté de la cible. Sur un succès, elle est stupéfaite pendant la durée de l’effet ou jusqu’à ce qu’elle subisse des dégâts.</p><p>Si vous vous concentrez pendant 1 min entière, décrivez une activité qui n’est pas de toute évidence suicidaire et qui peut être résumée en une phrase ou deux. Puis décrivez ce qui déclenche cette activité, comme atteindre un endroit précis ou entendre un mot ou une phrase. Si l’activité suggérée peut potentiellement être préjudiciable à la cible, à un être aimé ou à ses possessions, elle peut effectuer un test de Volonté et n’est pas affectée en cas de succès. Sinon, elle doit effectuer l’activité décrite si le déclencheur se produit à n’importe quel moment dans les huit heures qui suivent. Une fois que la cible a accompli l’activité, l’effet cesse.</p>",
+      "target": "Une créature à portée courte qui peut vous voir et vous entendre",
+      "duration": "Concentration, jusqu’à 1 min ; voir l’effet"
+    },
+    "L9KKWvfnPzlmeQAY": {
+      "name": "Désintégration",
+      "description": "<p>Subissez 6 dégâts. Faites un jet d’attaque de Volonté contre son Agilité. S’il réussit, elle subit [[/r 9d6]] dégâts. Une créature neutralisée par ces dégâts meurt instantanément et il n’en reste plus qu’un petit tas de cendres dans l’espace qu’elle occupait. Jet d’attaque 20+. La cible subit [[/r 3d6]] dégâts supplémentaires.</p>",
+      "target": "Une créature avec un corps physique ou un objet jusqu’à portée longue."
+    },
+    "LBggJgc1Hrz3eAg8": {
+      "name": "Rayons solaires",
+      "description": "<p>Vous projetez d’une de vos mains trois rayons flamboyants que vous répartissez comme vous le souhaitez entre différentes cibles. Pour chaque rayon, faites un jet d’attaque de Volonté contre l’Agilité de la cible. S’il réussit, la cible subit [[/r 1d6]] dégâts. Si elle peut voir, elle est aussi affaiblie pendant 1 round. Jet d’attaque 20+. La cible subit [[/r 1d3]] dégâts supplémentaires.</p>",
+      "target": "Jusqu’à trois créatures ou objets jusqu’à portée moyenne."
+    },
+    "LGtbVVgLMFOUIV2m": {
+      "name": "Déchirer",
+      "description": "<p>Subissez 2 dégâts. Faites un jet d’attaque de Volonté contre son Agilité. En cas de succès, elle subit [[/r 3d6 + 1]] dégâts. Jet d’attaque 20+. La cible subit [[/r 2d6]] dégâts supplémentaires.</p>",
+      "target": "Une créature vivante que vous pouvez voir jusqu’à portée courte."
+    },
+    "LTiuX9FqKdTQrqb1": {
+      "name": "Chaîne d’éclairs",
+      "description": "<p>Vous projetez un éclair contre une cible. Faites un jet d’attaque de Volonté contre son Agilité. Vous effectuez le jet d’attaque avec 1 avantage si elle est constituée de métal ou si elle en porte sur elle. En cas de succès, la cible subit [[/r 8d6]] dégâts et vous pouvez recommencer l’attaque contre une cible différente située jusqu’à portée longue de la première. À chaque fois que vous le faites, vous devez choisir une cible que vous n’avez pas encore attaquée avec cette utilisation du sort et vous réduisez les dégâts infligés de [[/r 2d6]]. Quand le nombre de dés de dégâts tombe à 0, l’effet cesse.</p>",
+      "target": "Une créature à portée longue ; voir l’effet."
+    },
+    "LVaiY1gAN3V2TyTi": {
+      "name": "Moisson de l’âme",
+      "description": "<p>Une sphère de lumière ténue s’élève au-dessus de la cible et vole vers vous pour tourner autour de votre corps pendant la durée du sort. Vous pouvez utiliser une action pour mettre un terme à cet effet et soigner autant de dégâts que votre vitesse de guérison. Jusqu’à ce que l’effet cesse, la créature ciblée ne peut être ramenée à la vie d’aucune manière.</p>",
+      "target": "Une créature tuée depuis au maximum 1 round à portée courte.",
+      "duration": "4 h ; voir l’effet"
+    },
+    "LeLg7jGhUUh3mbvE": {
+      "name": "Clignotement",
+      "description": "<p>Vous apparaissez et disparaissez. À la fin de chaque round pendant la durée du sort, lancez [[/r 1d6]]. Vous vous téléportez vers un espace dégagé situé à une distance en mètres égale au résultat obtenu. Si le résultat était impair, le MJ choisit où vous réapparaissez. S’il était pair, vous choisissez.</p>",
+      "duration": "[[/r 1d6]] minutes"
+    },
+    "LsC7Tg7EAkTZTiSg": {
+      "name": "Aide divine",
+      "description": "<p>Chaque cible bénéficie d’un bonus de +15 en Santé pendant la durée du sort.</p>",
+      "target": "Toutes les créatures de votre choix jusqu’à portée courte.",
+      "duration": "1 h"
+    },
+    "MWah9rLyGD1J5h7F": {
+      "name": "Dévastation capricieuse",
+      "description": "<p>Une sphère d’énergie scintillante jaillit de votre main. Faites un jet d’attaque de Volonté contre l’Agilité de la cible et lancez [[/r 1d6]]. Appliquez un résultat impair comme malus au jet d’attaque et un résultat pair comme bonus à ce jet. En cas de succès, la cible subit [[/r 2d6]] dégâts, plus [[/r 2d6]] dégâts supplémentaires si vous avez subi un malus au jet d’attaque à cause du sort.</p><p>Jet d’attaque 20+. De plus, la cible est téléportée de [[/r 1d6]] mètres vers un espace libre dans la direction de votre choix.</p>",
+      "target": "Une créature ou un objet à portée moyenne."
+    },
+    "MrMtT7WHwxS04N8g": {
+      "name": "Renvoi",
+      "description": "<p>La cible est téléportée sur un espace libre jusqu’à portée moyenne.</p>",
+      "target": "Un objet de Gabarit 1 ou inférieur que vous tenez."
+    },
+    "NRKhpTvp21ZmtEag": {
+      "name": "Forme de chêne gardien",
+      "description": "<p>Vous vous transformez en un puissant arbre animé. Pendant la durée du sort, vous ne pouvez pas lancer de sorts mais vous gagnez les avantages suivants :</p><ul><li>Vous gagnez un bonus de +3 en Défense, de +15 en Santé et vous doublez votre Gabarit.</li><li>Vous effectuez vos jets d’attaque et vos tests de Force avec 1 avantage.</li><li>Vos branches sont considérées comme des armes de mêlée qui infligent [[/r 3d6]] dégâts.</li><li>Vous pouvez utiliser une action déclenchée à votre tour pour dépenser une utilisation d’un sort de Nature. Si vous le faites, vous étendez la durée de ce sort d’un nombre de minutes égal au rang du sort.</li></ul>",
+      "duration": "1 min"
+    },
+    "NUGzrxOHOzSpoECk": {
+      "name": "Globe de négation",
+      "description": "<p>Une barrière de protection immobile isole la zone pendant toute la durée de l’effet. Les jets d’attaque avec des sorts de rang 5 ou inférieur contre les cibles situées derrière la barrière échouent automatiquement. De plus, la zone isolée par la barrière est exclue de la zone d’effet de tout sort de rang 5 ou inférieur. Enfin, les sorts lancés à l’intérieur de la barrière ne peuvent avoir un point d’origine situé en dehors de ses limites.</p>",
+      "area": "Une sphère de 5 m de rayon centrée sur un point à portée de votre allonge.",
+      "duration": "1 min"
+    },
+    "NaJnWXTGsILJvqKc": {
+      "name": "Invocation directe",
+      "description": "<p>Vous déplacez la cible de la moitié de sa Vitesse.</p>",
+      "target": "Une créature à portée courte créée par votre utilisation d’un sort d’invocation"
+    },
+    "NeMbeeHcDzouYR3I": {
+      "name": "Colère divine",
+      "description": "<p>Un éclair frappe la cible et inflige [[/r 2d6 + 2]] dégâts à chaque créature située à [[/r 1d6]] mètres du point. Toute créature qui subit des dégâts de cette manière doit faire un test d’Agilité. Une créature est étourdie pendant 1 round en cas d’échec ou subit juste la moitié des dégâts en cas de succès.</p>",
+      "target": "Un point au sol jusqu’à portée moyenne"
+    },
+    "Ng9z9i6a5pRD6XCA": {
+      "name": "Emprise spectrale",
+      "description": "<p>Une ombre indistincte file vers la cible. Effectuez un jet d’attaque d’Intellect contre son Agilité. En cas de succès, elle subit [[/r 1d3]] dégâts et effectue ses jets d’attaque avec 1 désavantage pendant 1 round.</p><p>Jet d’attaque 20+. La cible subit [[/r 1d6]] dégâts supplémentaires.</p>",
+      "target": "Une créature à portée moyenne"
+    },
+    "NlcsXbXeMtn2e0bw": {
+      "name": "Arme runique",
+      "description": "<p>Vous tracez une rune étincelante sur l’arme ciblée. Pendant la durée du sort, l’arme inflige [[/r 3d6]] dégâts de plus.</p>",
+      "target": "Une arme à portée de votre allonge",
+      "duration": "1 min"
+    },
+    "Nmlv01GhAm3GfqF5": {
+      "name": "Temple consacré",
+      "description": "<p>La zone est imprégnée d’une puissance sanctifiée pendant toute la durée du sort. Quand une créature pénètre dans la zone à partir de l’extérieur, vous pouvez utiliser une action déclenchée pour vous déplacer à votre Vitesse vers elle et l’attaquer avec votre arme. En cas de succès, la cible est immobilisée pendant 1 round.</p>",
+      "area": "Une sphère de 5 m de rayon centrée sur un point à portée de votre allonge. Si le point désigné est une idole, un autel ou un sanctuaire en lien avec votre religion, le rayon est augmenté à 10 m.",
+      "duration": "1 min ou jusqu’à ce que vous quittiez la zone"
+    },
+    "NqKefuh9iZgsvMcn": {
+      "name": "Forme d’ombre",
+      "description": "<p>Vous prenez une apparence ténébreuse et indistincte pendant la durée du sort en gagnant les avantages suivants.</p><ul><li>Les créatures attaquant votre Défense ou votre Agilité effectuent leurs jets d’attaque avec 1 désavantage et, si elles ratent, vous pouvez utiliser une action déclenchée pour vous déplacer à votre Vitesse. Ce déplacement ne déclenche pas d’attaques gratuites.</li><li>Vous êtes invisible tant que vous êtes dans des zones obscurcies par les ombres et les ténèbres.</li><li>Vous pouvez vous déplacer à travers des espaces occupés par d’autres créatures.</li></ul>",
+      "duration": "1 min"
+    },
+    "Nx0is23WhP2ylUaR": {
+      "name": "Stupéfaction",
+      "description": "<p>Effectuez un jet d’attaque d’Intellect contre la Volonté de la cible. Sur un succès, elle est immobilisée pendant 1 min ; tant qu’elle est immobilisée de cette manière, elle est aussi effrayée. Une fois par round quand la cible subit des dégâts, elle peut effectuer un test de Volonté et se débarrasse de l’affliction immobilisé en cas de succès.</p><p>Jet d’attaque 20+. La cible tombe à terre et ne peut plus se relever tant qu’elle est immobilisée de cette manière.</p>",
+      "target": "Une créature à portée moyenne"
+    },
+    "Nzktpa5avNDPHvY8": {
+      "name": "Explosion",
+      "description": "<p>Subissez 4 dégâts. La cible subit des dégâts égaux à sa Santé puis explose dans un rayon de 4 m centré autour d’un point dans son espace, infligeant [[/r 6d6]] dégâts à tout ce qui se trouve dans la zone affectée par les débris. Chaque créature affectée qui obtient un succès à un test d’Agilité subit la moitié des dégâts.</p>",
+      "target": "Un objet de Gabarit 1 ou plus petit qui n’a jamais été une créature que vous pouvez voir jusqu’à portée moyenne."
+    },
+    "O33aexoiV4SWvcIz": {
+      "name": "Rayon incandescent",
+      "description": "<p>Un rayon incandescent jaillit de votre main. Faites un jet d’attaque de Volonté contre son Agilité. S’il réussit, la cible subit [[/r 1d6]] dégâts.</p><p>Jet d’attaque 20+. La cible est également aveuglée pendant 1 round.</p>",
+      "target": "Une créature ou un objet à portée moyenne."
+    },
+    "O4OReH1yEGO7fWZI": {
+      "name": "Forme fluide",
+      "description": "<p>Pendant la durée du sort, vous pouvez traverser des espaces occupés par d’autres créatures, quel que soit leur Gabarit.</p>",
+      "duration": "1 min"
+    },
+    "OC2vgHMmJXxGXx2x": {
+      "name": "Façonner la terre et la pierre",
+      "description": "<p>Vous pouvez façonner la cible comme si elle était faite d’argile après quoi elle reprend sa solidité normale.</p>",
+      "target": "Un objet de Gabarit 1 ou inférieur constitué de terre ou de pierre à portée de votre allonge.",
+      "duration": "Permanente"
+    },
+    "OeIuMM9Ii69v8KzW": {
+      "name": "Appel d’un animal énorme",
+      "description": "<p>Le sort fonctionne comme appel d’un petit animal mais c’est un animal énorme contraint, un grand animal ou un animal moyen qui apparaît dans la zone d’effet. Un animal moyen ou grand peut avoir un des traits suivants : grimpeur, volant, venimeux ou nageur.</p>",
+      "area": "Un cube de 3 m de côté à partir d’un point jusqu’à portée moyenne et apparaissant sur une surface solide.",
+      "duration": "1 h"
+    },
+    "OgH2P7r7xAU0kAqb": {
+      "name": "Voile enflammé",
+      "description": "<p>Vous êtes enveloppé par les flammes pendant la durée du sort. Elles émettent de la lumière dans un rayon de 10 m autour de vous. Elles sont chaudes mais elles ne vous affectent pas, ni ce que vous portez.</p><p>Pendant la durée du sort, vous subissez la moitié des dégâts du froid et vous ne pouvez pas être fatigué à cause d’une exposition à des températures froides. De plus, quand une créature vous touche ou obtient un succès à un jet d’attaque contre vous avec une arme de mêlée, elle subit [[/r 1d6]] dégâts de feu.</p>",
+      "duration": "1 min"
+    },
+    "OhliHkKIDVNFG2XD": {
+      "name": "Objet magique",
+      "description": "<p>Vous touchez la cible pour l’imprégner d’une puissance magique. Pendant toute la durée du sort, les jets d’attaque et les tests pour toute tâche effectuée avec la cible sont effectués avec 1 avantage. Si l’objet est une arme, ses attaques infligent [[/r 1d6]] dégâts supplémentaires. Si c’est une armure, son porteur gagne un bonus de +1 en Défense.</p>",
+      "target": "Un objet à portée de votre allonge",
+      "duration": "1 h",
+      "permanence": "Si vous utilisez des ingrédients rares d’une valeur de 1 co en lançant ce sort, ses effets durent jusqu’à ce que vous vous reposiez. Si vous lancez ce sort de cette manière sur la même cible chaque jour pendant 1 mois, une semaine et un jour, l’effet est permanent."
+    },
+    "Osiz8fSqAtl5N9HO": {
+      "name": "Chant de courage",
+      "description": "<p>Pendant la durée du sort, chaque cible ne peut être charmée, contrainte ou effrayée tant qu’elle reste jusqu’à portée courte de vous et peut vous entendre. L’effet cesse immédiatement si vous cessez de chanter ou si vous lancez un autre sort.</p>",
+      "target": "Chaque créature que vous choisissez jusqu’à portée courte et qui peut vous entendre",
+      "duration": "1 min"
+    },
+    "PIwvfXUmmXDcX8GO": {
+      "name": "Noyade",
+      "description": "<p>De l’eau s’accumule dans les poumons de la cible ou dans un organe similaire. Elle doit réussir un test de Force ou subir [[/r 1d6 + 2]] dégâts et être affaiblie. À la fin de chaque round durant lequel la cible est ainsi affaiblie, elle doit effectuer un test de Force avec 1 avantage et se débarrasse de cette affliction si elle réussit. Après trois échecs, elle suffoque et meurt.</p>",
+      "target": "Une créature à portée courte qui respire de l’air"
+    },
+    "PoZjMM2aScgBHAnl": {
+      "name": "Défense renforcée",
+      "description": "<p>Vous touchez une cible. Pendant la durée de l’effet, la cible gagne un bonus de +5 en Santé et les jets d’attaque contre elle sont effectués avec 1 désavantage.</p>",
+      "target": "Une créature à portée de votre allonge",
+      "duration": "1 min"
+    },
+    "QBYxsg0yso2TP4xi": {
+      "name": "Vulnérabilité",
+      "description": "<p>Effectuez un jet d’attaque d’Intellect contre la Force de la cible. En cas de succès, elle est maudite pendant 1 min. Tant que la cible est maudite, les jets d’attaque contre elle sont effectués avec 1 avantage et elle effectue ses tests pour résister aux attaques avec 1 désavantage.</p><p>Jet d’attaque 20+. La malédiction dure jusqu’à ce que vous mourriez ou que vous la leviez.</p>",
+      "target": "Une créature à portée moyenne."
+    },
+    "QONsbuQKtFvtBDaj": {
+      "name": "Invocation de destriers",
+      "description": "<p>Un groupe de [[/r 1d6]] destriers (comme des chevaux) apparaît dans la zone. Ils ont l’apparence de votre choix. Les destriers invoqués sont amicaux et sont contraints par toute créature qui les chevauche.</p>",
+      "area": "Un cube de 10 m de côté à partir d’un point jusqu’à portée moyenne et apparaissant sur une surface solide.",
+      "duration": "2 h",
+      "sacrifice": "Vous pouvez dépenser une utilisation de ce sort pour lancer invocation de petit monstre."
+    },
+    "QSjcm3ZcJujnkb7Z": {
+      "name": "Compréhension",
+      "description": "<p>Vous touchez une cible. Si elle connaît au moins un langage, que vous parliez ou non la même langue, vous pouvez communiquer avec elle pendant la durée de l’effet tant que vous maintenez un contact physique avec elle.</p>",
+      "target": "Une créature à portée de votre allonge",
+      "duration": "Concentration, jusqu’à 1 min"
+    },
+    "Qaxtm6M7fHBMydHm": {
+      "name": "Salve ardente",
+      "description": "<p>Vous projetez trois missiles ardents que vous répartissez entre les cibles. Pour chaque missile, faites un jet d’attaque de Volonté contre l’Agilité de la cible choisie. En cas de succès, elle subit [[/r 1d6 + 1]] dégâts.</p><p>Jet d’attaque 20+. La cible subit [[/r 1d3]] dégâts supplémentaires.</p>",
+      "target": "Jusqu’à trois créatures ou objets jusqu’à portée moyenne."
+    },
+    "Qip5z2xfJO0pwbFK": {
+      "name": "Chant des héros",
+      "description": "<p>Pendant la durée du sort, ou jusqu’à ce qu’elle ne puisse plus vous entendre, chaque cible gagne un bonus de +20 en Santé et de +2 à sa Vitesse et effectue ses jets d’attaque et ses tests avec 2 avantages. L’effet cesse immédiatement si vous cessez de chanter ou si vous lancez un autre sort.</p>",
+      "target": "Un maximum de trois créatures jusqu’à portée courte et qui peuvent vous entendre",
+      "duration": "1 min"
+    },
+    "QwVssE20wHViF8J9": {
+      "name": "Armée des morts",
+      "description": "<p>La zone d’effet devient un terrain difficile pour la durée du sort. À la fin du round au cours duquel vous avez lancé ce sort, [[/r 2d6]] cadavres animés contraints jaillissent du sol et se redressent. Tous les cadavres animés créés par ce sort sont considérés comme une seule créature pour déterminer combien de créatures mortes-vivantes contraintes vous pouvez contrôler. L’effet cesse quand le dernier de ces cadavres animés est détruit.</p>",
+      "area": "Un cercle au sol de 2 m de rayon centré sur un point situé jusqu’à portée moyenne.",
+      "duration": "1 h"
+    },
+    "RDSRgxEumR19ZO59": {
+      "name": "Chant d’envoûtement",
+      "description": "<p>Quand vous lancez ce sort, et quand vous utilisez une action pour vous concentrer dessus, choisissez une créature jusqu’à portée courte de vous qui peut vous entendre. La cible doit réussir un test de Volonté ou être charmée pendant la durée de l’effet. Tant qu’elle est ainsi charmée, elle ne peut prendre que des tours lents et doit se déplacer vers vous à son tour si elle se trouve à plus de 10 m de vous.</p><p>L’effet cesse immédiatement si vous cessez de chanter ou si vous lancez un autre sort.</p>",
+      "duration": "Concentration, jusqu’à 1 min"
+    },
+    "RKy3Rv2YB6KELDBD": {
+      "name": "Invocation d’abri",
+      "description": "<p>Vous devez vous concentrer pendant 1 min pour visualiser un bâtiment ou une île. Au bout de ce temps, ce que vous avez visualisé apparaît dans la zone d’effet et y reste pendant toute la durée du sort.</p><p>Si vous invoquez un bâtiment, vous décidez à quoi il ressemble en définissant ses entrées, ses fenêtres et son nombre de pièces. Il inclut des lits pour un maximum de dix personnes, des chaises, des tables, de quoi manger et boire pour dix personnes et une cheminée avec un feu allumé. Si vous invoquez une île, vous pouvez y héberger jusqu’à dix personnes comme si vous aviez créé un bâtiment mais il s’agira de bungalows et de huttes.</p>",
+      "area": "Un cube de 20 m de côté à partir d’un point jusqu’à portée longue et apparaissant sur une surface solide ou liquide.",
+      "duration": "12 h ; voir l’effet",
+      "sacrifice": "Vous pouvez dépenser une utilisation de ce sort pour lancer invocation de grand monstre."
+    },
+    "ROK1Iz7ytUXap4ml": {
+      "name": "Chausse-trappes",
+      "description": "<p>Des fragments métalliques tranchants et pointus jaillissent à partir du point d’origine et recouvrent toutes les surfaces horizontales de la zone d’effet pendant la durée du sort. Une créature qui entre ou traverse la zone doit réussir un test d’Agilité ou subir [[/r 1d6 + 1]] dégâts et être ralentie. Si la créature était déjà ralentie de cette manière, elle tombe à terre et est immobilisée. La créature se débarrasse de la condition ralentie ou immobilisée en soignant des dégâts.</p>",
+      "area": "Un cercle au sol de 5 m de rayon centré sur un point situé jusqu’à portée moyenne.",
+      "duration": "1 min"
+    },
+    "RRdatWxW9kPxVLkj": {
+      "name": "Temporisation",
+      "description": "<p>Effectuez un jet d’attaque d’Intellect contre la Volonté de la cible. En cas de succès, elle est ralentie pendant 1 min. Jet d’attaque 20+. La cible est également affaiblie tant qu’elle est ralentie de cette manière.</p>",
+      "target": "Une créature vivante que vous pouvez voir jusqu’à portée courte."
+    },
+    "RbCB1wzHrve9t29q": {
+      "name": "Paradoxe mineur",
+      "description": "<p>Effectuez un jet d’attaque d’Intellect contre celui de la cible. En cas de succès, elle cesse d’exister pendant 1 round. Elle réapparaît dans l’espace qu’elle occupait ou, si ce n’est pas possible, dans l’espace libre le plus proche.</p><p>Jet d’attaque 20+. Vous regagnez une utilisation de ce sort.</p>",
+      "target": "Une créature vivante que vous pouvez voir jusqu’à portée courte."
+    },
+    "Rpd74FaW4UDGK5LU": {
+      "name": "Censure",
+      "description": "<p>Vous brandissez votre symbole sacré, des écritures sacrées ou une autre représentation physique de votre foi et vous libérez une vague de puissance sainte qui se répand dans toute la zone. Chaque démon, diable, fée, esprit et mort-vivant dans la zone doivent réussir un test de Volonté ou être affaiblis pendant 1 min. Une créature affaiblie ainsi ne peut pas effectuer de tours rapides.</p>",
+      "area": "Une sphère de 5 m de rayon centrée sur un point à portée de votre allonge."
+    },
+    "S9CjhVilfZugr7jN": {
+      "name": "Force de la marée",
+      "description": "<p>Chaque cible doit effectuer un test de Force avec 1 désavantage. Une créature qui échoue est déplacée de [[/r 2d6]] mètres vers vous ou loin de vous (vous choisissez) et elle est étourdie pendant 1 round. Si elle réussit, elle est juste déplacée de la moitié de cette distance.</p>",
+      "target": "N’importe quel nombre de créatures jusqu’à portée moyenne."
+    },
+    "SWxmQue0cI690h9v": {
+      "name": "Rune de dissimulation",
+      "description": "<p>Vous touchez une cible et une rune apparaît sur elle. Pendant la durée du sort, la cible ne peut être perçue par magie et si elle se trouve dans une zone obscurcie à la fin du round, elle est automatiquement cachée jusqu’à ce qu’elle utilise une action ou se déplace.</p>",
+      "target": "Une créature à portée de votre allonge",
+      "duration": "1 h"
+    },
+    "SYfpX7I3ooTx4bCu": {
+      "name": "Psychométrie",
+      "description": "<p>Vous touchez la cible et vous découvrez [[/r 1d6]] faits la concernant comme l’identité de son précédent propriétaire ; si l’objet est ou non maudit, possédé ou magique ; comment un précédent propriétaire l’a obtenu ou l’a perdu ; et où il a été construit.</p>",
+      "target": "Un objet à portée de votre allonge"
+    },
+    "ShUOWlLbVaAbTj9E": {
+      "name": "Éruption",
+      "description": "<p>Le sol se soulève en projetant des gravats dans les airs qui infligent [[/r 5d6]] dégâts en retombant à tout ce qui se trouve dans la zone d’effet. Les créatures et les objets présents sont également repoussés de [[/r 1d6]] mètres par rapport au point d’origine. Toute créature présente doit faire un test de Force. Si une créature échoue, elle tombe à terre ou subit juste la moitié des dégâts si elle réussit.</p><p>Puis, le sol dans un rayon de 5 m autour du point d’origine est couvert de gravats et devient un terrain difficile jusqu’à ce qu’il soit dégagé.</p>",
+      "area": "Un cylindre de 10 m de hauteur avec un rayon de 2 m centré sur un point au sol jusqu’à portée moyenne."
+    },
+    "ShfSipIlzic67EWI": {
+      "name": "Asticots affamés",
+      "description": "<p>Des asticots affamés emplissent le ventre de la cible et lui infligent [[/r 2d6]] dégâts. À la fin de chaque round pendant la durée du sort, elle doit effectuer un test de Force ; si elle échoue, elle subit [[/r 1d6]] dégâts et elle est affaiblie pendant 1 round. Si elle réussit, il n’y a pas d’effet ; après trois réussites, la cible vomit des asticots grouillants et l’effet cesse.</p><p>Une cible qui est neutralisée par les effets de ce sort meurt instantanément et une nuée de mouches noires se répand dans une sphère de 5 m de rayon autour d’un point de son espace. La zone est fortement obscurcie par les mouches pendant 1 min ou jusqu’à ce qu’elles soient dispersées par le feu ou par le vent.</p>",
+      "target": "Une créature vivante à portée moyenne",
+      "duration": "1 min"
+    },
+    "SlcozYxGrXFjqgdM": {
+      "name": "Brouillard",
+      "description": "<p>Un brouillard se répand et obscurcit partiellement la zone pendant la durée de l’effet ou jusqu’à ce qu’il soit dispersé par le vent.</p>",
+      "area": "Un cylindre de 3 m de hauteur et de 5 m de rayon centré sur un point situé jusqu’à portée moyenne.",
+      "duration": "1 h ; voir l’effet"
+    },
+    "T3XmpFoxeH3wGQH8": {
+      "name": "Sombres portails",
+      "description": "<p>Chaque cube est empli de ténèbres, obscurcissant totalement son espace et bloquant toute vision non magique autre que vision véritable. Assignez un chiffre entre 1 et 6 à chaque cube. Quand une créature entre dans un des cubes, elle doit effectuer un test d’Intellect pour choisir par lequel elle veut ressortir. Si elle réussit, elle ressort instantanément dans un espace dégagé adjacent au cube choisi. Si elle rate, la créature lance [[/r 1d6]] pour déterminer par lequel elle ressort. Dans les deux cas, la créature décide dans quelle direction elle quitte le cube.</p>",
+      "area": "Six cubes, d’un mètre de côté chacun, jusqu’à portée longue",
+      "duration": "1 min"
+    },
+    "T6IsvHXqTTAbdVGs": {
+      "name": "Désossage",
+      "description": "<p>Les os de la cible bougent sous sa peau. Effectuez un jet d’attaque d’Intellect contre sa Force. En cas de succès, elle subit [[/r 6d6]] dégâts. Si la cible est neutralisée par ces dégâts, elle meurt instantanément ; ses os s’arrachent à sa chair pour devenir un cadavre animé du Gabarit de la cible qui apparaît dans l’espace qu’elle occupait. Le cadavre animé attaque la créature la plus proche à chaque round, en la déterminant aléatoirement s’il y en a plusieurs.</p><p>Jet d’attaque 20+. La cible subit [[/r 2d6]] dégâts supplémentaires.</p>",
+      "target": "Une créature avec un squelette jusqu’à portée moyenne"
+    },
+    "TKC5OLLwFPbW1huq": {
+      "name": "Don du vol",
+      "description": "<p>Vous touchez une cible. Elle peut voler à sa Vitesse normale pendant la durée de l’effet.</p>",
+      "target": "Une créature à portée de votre allonge",
+      "duration": "1 h"
+    },
+    "TMp0stsnrDitnjG2": {
+      "name": "Invocation d’arme",
+      "description": "<p>Une arme, ou des munitions, apparaît dans votre ou vos mains ou à vos pieds si vous n’avez pas les mains libres.</p>",
+      "duration": "1 h"
+    },
+    "TRGjSnqJM0Vj0HiY": {
+      "name": "Production d’eau",
+      "description": "<p>Vous touchez la cible qui se remplit d’eau fraîche et propre.</p>",
+      "target": "Une coupe, un bol ou un récipient similaire à portée de votre allonge."
+    },
+    "TRIAG9eMZTUzURnc": {
+      "name": "Récupération",
+      "description": "<p>La cible se téléporte dans votre main ou tombe à vos pieds si vous avez les mains prises.</p>",
+      "target": "Un objet que vous pouvez tenir à une main jusqu’à portée moyenne."
+    },
+    "Ti5jO1LC7QhZU3Ig": {
+      "name": "Adaptation sous-marine",
+      "description": "<p>Vous touchez une cible. Pendant la durée de l’effet, elle peut respirer dans l’eau aussi facilement qu’elle respire de l’air, se déplacer à sa pleine Vitesse en nageant et n’a jamais besoin d’effectuer un test pour nager.</p>",
+      "target": "Une créature à portée de votre allonge",
+      "duration": "1 h"
+    },
+    "ToIXY35in58TqPoe": {
+      "name": "Attaque en puissance",
+      "description": "<p>Pour lancer ce sort, vous portez une attaque avec une arme. Vous effectuez le jet d’attaque avec 1 avantage et vous pouvez utiliser l’Intellect au lieu de votre attribut d’attaque normal. En cas de succès, la cible subit [[/r 2d6]] dégâts supplémentaires.</p>"
+    },
+    "TrQo5qSu8tNmG6I0": {
+      "name": "Mur de ténèbres",
+      "description": "<p>La zone d’effet devient opaque pendant la durée du sort et obscurcit totalement ce qui se trouve derrière ou à l’intérieur, bloquant toutes les lumières générées par des sources naturelles.</p>",
+      "area": "Un cercle au sol de 2 m de rayon, dans n’importe quelle orientation, centré sur un point situé jusqu’à portée moyenne.",
+      "duration": "1 min"
+    },
+    "U0fX6jmlhHzpjfT5": {
+      "name": "Sens amplifiés",
+      "description": "<p>Vous touchez une cible. Pendant la durée de l’effet, elle gagne un bonus de +5 en Perception et peut voir dans des zones obscurcies par les ombres ou les ténèbres comme si elles étaient éclairées ; cependant, elle effectue ses tests avec 1 désavantage pour résister aux afflictions aveuglé ou assourdi.</p>",
+      "target": "Une créature à portée de votre allonge",
+      "duration": "1 h"
+    },
+    "U3S16354WZhV9BYU": {
+      "name": "Résurrection",
+      "description": "<p>Vous touchez une cible. Vous devez vous concentrer pendant 1 h en maintenant un contact physique avec elle. Si votre concentration n’est pas interrompue pendant une heure, la cible revient à la vie.</p><p>Si son âme est dans le Royaume des morts, elle revient dans son corps et elle est ressuscitée. Elle soigne 1 dégât et elle est fatiguée et affaiblie jusqu’à ce qu’elle se soit reposée. Si son âme est en Enfer, effectuez un test de Volonté avec un nombre de désavantages égal à sa Corruption. En cas de succès, vous lui rendez la vie comme décrit précédemment. En cas d’échec, son âme est perdue à jamais. Elle ne peut revenir dans son corps en lançant à nouveau ce sort.</p>",
+      "target": "Une créature à portée de votre allonge qui n’est pas morte depuis plus de 24 h",
+      "duration": "Concentration, jusqu’à 1 h",
+      "sacrifice": "Vous pouvez dépenser une utilisation de ce sort pour lancer soins absolus."
+    },
+    "UITYIQ0Y0viAWrQF": {
+      "name": "Vision arcanique",
+      "description": "<p>Pour la durée du sort, vous voyez une aura autour des créatures, des objets et des zones affectées par la magie. À la discrétion du MJ, vous pouvez aussi connaître la tradition à laquelle appartient cette magie.</p>",
+      "duration": "1 min"
+    },
+    "URCG4ZwRjSUmxZog": {
+      "name": "Forme animale supérieure",
+      "description": "<p>Vous prenez la forme d’un animal énorme, d’un grand animal, d’un animal moyen, d’un petit animal ou d’un animal très petit pendant la durée du sort. Si vous prenez la forme d’un animal moyen, petit ou très petit, vous pouvez gagner un des traits suivants : grimpeur, volant ou nageur.</p>",
+      "duration": "1 h"
+    },
+    "UTLotai1nWZ0IIZW": {
+      "name": "Langue bestiale",
+      "description": "<p>Pendant la durée du sort, vous pouvez communiquer avec les animaux qui peuvent vous entendre.</p>",
+      "duration": "1 min"
+    },
+    "UW5EXBV0G9S2mbM4": {
+      "name": "Météore",
+      "description": "<p>Vous projetez une pierre incandescente. Quand elle atteint la cible, ou si elle rencontre une créature ou un objet solide avant, elle explose. Les flammes se répandent dans une sphère de 1 m de rayon centrée sur la cible ou autour d’un point dans l’espace occupé par la créature ou l’objet, infligeant [[/r 2d6 + 2]] dégâts à tout ce qui se trouve dans la zone. Les créatures présentes dans la zone subissent seulement la moitié des dégâts si elles réussissent un test d’Agilité.</p>",
+      "target": "Un point dans un espace situé à portée moyenne"
+    },
+    "UXOPDMXBnTeeLDBb": {
+      "name": "Permutation",
+      "description": "<p>En vous téléportant, vous échangez votre position avec une cible. Si cette dernière n’est pas consentante, elle peut effectuer un test de Volonté et annule l’effet si elle le réussit.</p>",
+      "target": "Une créature à portée longue",
+      "triggered": "Vous pouvez utiliser une action déclenchée à votre tour pour lancer ce sort. Si vous le faites, la cible doit être à portée courte."
+    },
+    "UZrq2zQwwCcHWV2q": {
+      "name": "Fourche foudroyante",
+      "description": "<p>Pour chaque cible, faites un jet d’attaque de Volonté contre son Agilité. Vous effectuez le jet d’attaque avec 1 avantage si elle est constituée de métal ou si elle en porte sur elle. En cas de succès, la cible subit [[/r 1d6 + 2]] dégâts.</p><p>Jet d’attaque 20+. La cible subit [[/r 1d6]] dégâts supplémentaires.</p>",
+      "target": "Maximum de deux créatures ou objets jusqu’à portée courte l’un de l’autre et jusqu’à portée moyenne de vous"
+    },
+    "UksXQhXeQU7iS5Jo": {
+      "name": "Soins mineurs",
+      "description": "<p>Vous touchez une cible, ce qui la soigne d’un nombre de dégâts égal à la moitié de sa vitesse de guérison.</p>",
+      "target": "Une créature à portée de votre allonge"
+    },
+    "V4eQdICpqjf8V051": {
+      "name": "Bénédiction",
+      "description": "<p>Vous touchez chaque cible en la bénissant. Pendant la durée du sort, chaque cible touchée effectue ses jets d’attaque et ses tests avec 1 avantage et ne peut être effrayée.</p>",
+      "target": "N’importe quel nombre de créatures à portée de votre allonge.",
+      "duration": "1 min"
+    },
+    "VRg33xZThIJIOhJu": {
+      "name": "Éclair arcanique",
+      "description": "<p>L’éclair inflige [[/r 5d6]] dégâts à tout ce qui se trouve dans la zone. Chaque créature présente doit effectuer un test d’Agilité et, en cas de réussite, elle ne subit que la moitié des dégâts.</p>",
+      "area": "Un cône de 5 m de long ayant pour origine un point à portée de votre allonge."
+    },
+    "VhIZ45GLeLCQePTI": {
+      "name": "Châtiment arcanique",
+      "description": "<p>Vous gagnez un bonus de + 5 à la Défense pendant la durée de l’effet. La prochaine fois qu’une créature jusqu’à portée courte de vous obtient un succès à un jet d’attaque avec une arme contre vous, cet effet cesse et ce succès devient automatiquement un échec. La cible qui a déclenché cet effet doit effectuer un test de Force. Si elle rate, elle subit [[/r 10d6]] dégâts, elle est repoussée de [[/r 2d6]] mètres par rapport à vous et elle tombe à terre. En cas de réussite, elle subit la moitié des dégâts.</p>",
+      "duration": "4 h ; voir l’effet"
+    },
+    "VoJuy4Ck7iSCEK36": {
+      "name": "Perception de la vie",
+      "description": "<p>Vous connaissez la localisation de toutes les créatures vivantes dans la zone d’effet. Elles ne peuvent être cachées à vos yeux pendant la durée du sort.</p>",
+      "area": "Une sphère de 5 m de rayon centrée sur un point de votre espace.",
+      "duration": "1 min"
+    },
+    "WYKv6OFm32iDx57D": {
+      "name": "Lames volantes",
+      "description": "<p>Cinq lames jaillissent d’une de vos mains que vous répartissez comme vous le souhaitez entre les cibles. Pour chaque lame, faites un jet d’attaque d’Intellect contre la Défense de la cible désignée. En cas de succès, elle subit [[/r 2d6]] dégâts. Jet d’attaque 20+. La cible subit [[/r 1d6]] dégâts supplémentaires.</p>",
+      "target": "Jusqu’à trois créatures ou objets jusqu’à portée moyenne."
+    },
+    "WaQX5qhLiV1PQD8L": {
+      "name": "Rafale",
+      "description": "<p>La cible est affectée par un vent puissant. Faites un jet d’attaque de Volonté contre la Force de la cible. En cas de succès, elle est repoussée et s’éloigne de vous de [[/r 1d6]] mètres. Jet d’attaque 20+. La cible tombe à terre à la fin de ce déplacement.</p>",
+      "target": "Une créature ou un objet à portée courte."
+    },
+    "WfWJQHVD3bEeWRA5": {
+      "name": "Source de vie",
+      "description": "<p>Des eaux curatives obscurcissent partiellement la zone pendant la durée du sort. Chaque créature vivante qui s’y trouve n’a plus besoin de boire de l’eau jusqu’à la fin de son prochain repos. De plus, quand une créature dans la zone soigne des dégâts, elle en soigne [[/r 1d3]] de plus.</p>",
+      "area": "Un hémisphère de 2 m de rayon centré sur un point au sol situé jusqu’à portée courte.",
+      "duration": "1 min"
+    },
+    "X77Y5TSCu5I93orX": {
+      "name": "Chimère",
+      "description": "<p>Une illusion visuelle et silencieuse d’une créature, d’un objet ou d’une force quelconque apparaît dans la zone d’effet. Si vous créez l’illusion d’une créature, elle se déplace et se comporte de manière réaliste pendant la durée du sort. Si l’illusion est attaquée, ou si vous ne pouvez pas la voir à la fin du round, l’effet cesse immédiatement.</p>",
+      "area": "Un cube de 2 m de côté ayant pour origine un point que vous pouvez voir jusqu’à portée courte.",
+      "duration": "1 h ; voir l’effet"
+    },
+    "XKtyVvoYRL8P4BMM": {
+      "name": "Invocation de monstre énorme",
+      "description": "<p>Vous invoquez dans la zone soit un monstre énorme contraint, soit deux grands monstres contraints.</p>",
+      "area": "Un cube de 4 m de côté à partir d’un point jusqu’à portée moyenne et apparaissant sur une surface solide.",
+      "duration": "1 min"
+    },
+    "XM0oOb3M3446dtfL": {
+      "name": "Présence",
+      "description": "<p>Pendant la durée du sort, les créatures habituellement attirées par des membres de votre espèce effectuent leurs jets d’attaque contre vous avec 1 désavantage.</p>",
+      "duration": "1 min"
+    },
+    "XPGLCew3RcQbDYTl": {
+      "name": "Magie des ombres",
+      "description": "<p>Choisissez un de vos sorts de rang 2 ou inférieur d’une autre tradition que celle de l’Ombre. Vous lancez ce sort sans dépenser une de ses utilisations et même s’il ne vous en reste aucune.</p>"
+    },
+    "XTUUGUdgyrpMEMvY": {
+      "name": "Célérité",
+      "description": "<p>Vous vous déplacez au double de votre Vitesse. Ce déplacement ne déclenche pas d’attaques gratuites.</p>",
+      "triggered": "Vous pouvez utiliser une action déclenchée à votre tour pour lancer ce sort. Si vous le faites, à la place, vous vous déplacez à votre Vitesse sans déclencher d’attaques gratuites."
+    },
+    "XTwYb3N5g6haOaFA": {
+      "name": "Crapaud",
+      "description": "<p>Effectuez un jet d’attaque d’Intellect contre la Force de la cible ; effectuez ce jet avec 3 avantages si elle a une Santé de 40 ou moins. En cas de succès, elle est transformée en un crapaud inoffensif (un animal très petit) et reste sous cette forme tant que vous vous concentrez, jusqu’à un maximum d’une minute. Si votre concentration n’est pas interrompue pendant 1 min, la malédiction dure jusqu’à votre mort ou jusqu’à ce que vous utilisiez une action pour la lever. La malédiction est aussi levée si une vierge embrasse volontairement le crapaud.</p><p>Jet d’attaque 20+. La malédiction dure automatiquement jusqu’à votre mort ou jusqu’à ce que vous utilisiez une action pour la lever alors que la créature est à portée moyenne.</p>",
+      "target": "Une créature vivante que vous pouvez voir jusqu’à portée moyenne.",
+      "duration": "Concentration, jusqu’à 1 min ; voir l’effet"
+    },
+    "XZgxyPG4gZUEdZfT": {
+      "name": "Maléfice",
+      "description": "<p>Effectuez un jet d’attaque d’Intellect contre la Volonté de la cible. Sur un succès, la cible est maudite pendant 1 min ou jusqu’à ce qu’elle subisse des dégâts. Tant qu’elle est maudite, la cible est affaiblie et vous effectuez vos jets d’attaque contre elle avec 1 avantage.</p><p>Jet d’attaque 20+. La cible est également étourdie pendant 1 round.</p>",
+      "target": "Une créature à portée courte qui peut vous voir"
+    },
+    "XmDEo6lsk17TiP6o": {
+      "name": "Augure",
+      "description": "<p>Tant que vous vous concentrez, vous utilisez les outils de divination pour avoir un aperçu du futur. Au bout de ce temps, posez une question au MJ à laquelle il doit répondre par « oui » ou « non ». Le MJ doit répondre sincèrement.</p>",
+      "duration": "Concentration, jusqu’à 1 min.",
+      "requirements": "Vous devez utiliser une focale de divination comme des cartes, un dé, des feuilles de thé ou des bâtonnets crantés."
+    },
+    "Y4X37WG071XD3r1A": {
+      "name": "Chant de guérison",
+      "description": "<p>Vous vous concentrez pendant 1 min en chantant. Quand vous avez fini, chaque cible qui est restée jusqu’à portée courte de vous pendant toute votre performance soigne autant de dégâts que sa vitesse de guérison.</p>",
+      "target": "Chaque créature que vous choisissez jusqu’à portée courte et qui peut vous entendre"
+    },
+    "YcQjmPSbbgmwSOis": {
+      "name": "Lame du crépuscule",
+      "description": "<p>Des volutes de ténèbres forment une lame solide dans votre main pour la durée du sort ou jusqu’à ce que vous la lâchiez. Cette lame fonctionne comme une arme secondaire rapide avec la propriété finesse qui inflige [[/r 1d6]] dégâts. Elle inflige [[/r 1d6]] dégâts supplémentaires quand vous obtenez un succès à un jet d’attaque contre une cible dans une zone obscurcie par les ombres ou les ténèbres. Quand vous lancez ce sort, vous pouvez immédiatement porter une attaque avec la lame créée par ce sort.</p>",
+      "duration": "1 min ; voir l’effet"
+    },
+    "ZC3RumAunqjHwj9E": {
+      "name": "Invulnérabilité",
+      "description": "<p>Vous touchez la cible qui devient immunisée contre tous les dégâts pendant la durée du sort.</p>",
+      "target": "Une créature à portée de votre allonge",
+      "duration": "Concentration, jusqu’à 1 min"
+    },
+    "ZgwRB0V27FAm8Cw2": {
+      "name": "Clairvoyance",
+      "description": "<p>Vous touchez la cible et vous vous concentrez pendant 1 min ; pendant ce temps, vous visualisez un endroit que vous avez vu au moins une fois d’un volume d’environ 10 m de côté et qui se situe jusqu’à 1 500 m de vous. Au bout de ce temps, la boule de cristal se remplit de fumée qui se dissipe pour vous révéler le lieu visualisé. La boule de cristal révèle ce lieu à tous ceux qui peuvent le voir pendant toute la durée du sort.</p>",
+      "target": "Une boule de cristal à portée de votre allonge",
+      "duration": "Concentration, jusqu’à 1 h ; voir l’effet"
+    },
+    "ZwqWz8RodZabxiHv": {
+      "name": "Vigilance renforcée",
+      "description": "<p>Vous touchez la cible, ce qui augmente sa vigilance et sa réactivité. Pendant la durée du sort, elle effectue ses tests de Perception avec 1 avantage et ne peut être charmée, contrainte, effrayée, surprise ou endormie par magie.</p>",
+      "target": "Une créature à portée de votre allonge",
+      "duration": "4 h"
+    },
+    "Zytp0HmPwxQDU846": {
+      "name": "Vague",
+      "description": "<p>L’eau se déverse dans la zone pendant la durée du sort. L’eau octroie un obscurcissement partiel et un abri mineur à tout ce qui se trouve dans son espace et derrière. De plus, elle éteint toutes les flammes dans la zone d’effet.</p><p>Quand l’effet cesse, la ligne d’eau vacille et s’affaisse vers vous ou à l’opposé (vous choisissez) pour couvrir une zone de 10 m de long et de 10 de large. Chaque créature dans cette zone subit [[/r 1d6]] dégâts et doit effectuer un test de Force. Si une créature échoue, elle tombe à terre ou subit juste la moitié des dégâts si elle réussit.</p><p>Puis l’eau se répand de 10 m dans toutes les directions en éteignant les flammes avec lesquelles elle entre en contact.</p>",
+      "area": "Une ligne de 10 m de long, 10 m de hauteur et 1 m de large ayant pour origine un point au sol situé jusqu’à portée moyenne.",
+      "duration": "1 round"
+    },
+    "aGhz6DvbX6Jd3E1r": {
+      "name": "Décélération",
+      "description": "<p>Chaque créature dans la zone doit réussir un test de Volonté ou être ralentie pendant 1 min. Tant qu’une créature est ainsi ralentie, quand elle prend un tour lent elle peut utiliser une action ou se déplacer mais pas les deux.</p>",
+      "area": "Une sphère de 3 m de rayon centrée sur un point situé jusqu’à portée moyenne."
+    },
+    "adXumL99f2NzxmXx": {
+      "name": "Chant grivois",
+      "description": "<p>Quand vous lancez ce sort, et quand vous utilisez une action pour vous concentrer dessus, choisissez une créature jusqu’à portée courte de vous qui peut vous entendre. La cible doit effectuer un test de Volonté. Si elle réussit, elle est immunisée contre cette utilisation du sort ; si elle échoue, elle est affaiblie pendant la durée de l’effet. Tant qu’elle est ainsi affaiblie, la créature est aussi ralentie.</p>",
+      "duration": "Concentration, jusqu’à 1 min"
+    },
+    "b7GfpgTaxH6FILes": {
+      "name": "Indiscrétion",
+      "description": "<p>Choisissez un point dans un espace que vous pouvez voir à portée longue. Pendant la durée du sort, vous pouvez entendre comme si vous vous trouviez à l’emplacement du point choisi.</p>",
+      "duration": "Concentration, jusqu’à 1 min"
+    },
+    "b7OJq9MoKQEkPPJX": {
+      "name": "Fléchettes infaillibles",
+      "description": "<p>Vous projetez du bout des doigts sept fléchettes magiques que vous répartissez comme vous le souhaitez entre différentes cibles. Chaque fléchette touche automatiquement tant qu’il n’y a aucun obstacle entre vous et la cible. Une cible subit 1 dégât par fléchette qui la touche.</p>",
+      "target": "Jusqu’à trois créatures ou objets jusqu’à portée longue."
+    },
+    "b7Yiw0CeggXSegpr": {
+      "name": "Tremblement de terre",
+      "description": "<p>Le sol tremble et se soulève violemment dans la zone affectée qui devient un terrain difficile pendant la durée du sort. Quand vous lancez le sort et à la fin de chaque round pendant toute sa durée, chaque créature debout dans la zone d’effet doit effectuer un test d’Agilité. Une créature qui échoue subit [[/r 1d6]] dégâts et tombe à terre.</p><p>De plus, quand vous lancez le sort et à la fin de chaque round pendant sa durée, toute structure en contact avec la zone d’effet subit [[/r 2d6]] dégâts. Une structure détruite par ces dégâts s’effondre et tout ce qui se trouve à l’intérieur ou dessous subit [[/r 4d6 + 10]] dégâts. Les créatures au sommet de la structure peuvent subir des dégâts de chute quand elle s’effondre.</p>",
+      "area": "Un cercle au sol avec un rayon de 20 m centré sur un point jusqu’à portée longue.",
+      "duration": "1 min"
+    },
+    "bNRk5Ao9uBiGx4AA": {
+      "name": "Flammes ensorcelées",
+      "description": "<p>Pendant toute la durée de ce sort, vous devenez invisible et une sphère de flammes vertes apparaît centrée sur un point à portée de votre allonge. Quand l’effet se termine, vous vous téléportez sur un espace libre de votre choix dans un rayon de 1 m autour de la boule de flammes.</p><p>Quand vous lancez ce sort, et à chaque fois que vous utilisez une action pour vous concentrer dessus, vous pouvez la déplacer de 10 m et attaquer une créature située à 1 m d’elle. Effectuez un jet d’attaque d’Intellect ou de Volonté contre l’Agilité de la cible. En cas de succès, elle subit [[/r 2d6]] dégâts.</p>",
+      "duration": "Concentration, jusqu’à 1 min"
+    },
+    "bhbFnDTreTp9aOXh": {
+      "name": "Invocation d’un cyclone",
+      "description": "<p>Un puissant tourbillon d’air apparaît à une extrémité de la zone d’effet et se déplace tout le long en infligeant [[/r 3d6]] dégâts à tout ce qui se trouve dans les espaces qu’il traverse. Tout objet non sécurisé endommagé de cette manière est déplacé de [[/r 1d6]] mètres dans la direction de votre choix. Toute créature qui subit des dégâts de cette manière doit faire un test de Force. En cas d’échec, elle est déplacée de [[/r 1d6]] mètres dans la direction de votre choix et tombe à terre. En cas de succès, elle subit juste la moitié des dégâts.</p>",
+      "area": "Une ligne de 20 m de long, 10 m de hauteur et 2 m de large ayant pour origine un point situé jusqu’à portée longue."
+    },
+    "bvXhZfkvKG3msgKU": {
+      "name": "Ténèbres",
+      "description": "<p>Des ténèbres se déversent dans la zone d’effet, l’obscurcissant totalement pendant la durée du sort. Elles annulent la lumière provenant de sources naturelles et celles créées par des sorts de rang 0 et elles bloquent toute vision non magique autre que vision véritable.</p><p>Si vous lancez ce sort sur un objet que vous touchez, la zone de ténèbres se déplace avec lui. Si vous couvrez complètement l’objet, l’effet du sort est suspendu jusqu’à ce que vous le découvriez.</p>",
+      "area": "Une sphère de 5 m de rayon centrée sur un point jusqu’à portée courte.",
+      "duration": "1 min"
+    },
+    "cAanTbYjBpQzaa5D": {
+      "name": "Soins absolus",
+      "description": "<p>Vous touchez une cible, ce qui soigne tous ses dégâts.</p>",
+      "target": "Une créature à portée de votre allonge"
+    },
+    "cIJYR0roDpqNTkSL": {
+      "name": "Foulée des ombres",
+      "description": "<p>Pendant la durée du sort, quand vous pénétrez dans un espace obscurci par des ombres ou des ténèbres, vous pouvez instantanément ressortir par un espace obscurci par des ombres ou des ténèbres jusqu’à portée moyenne de votre point d’origine. Vous pouvez vous déplacer ainsi une fois par round.</p>",
+      "duration": "1 min"
+    },
+    "cOLaXzOpmfvhwJS2": {
+      "name": "Se cacher des animaux",
+      "description": "<p>Vous êtes caché des animaux pendant la durée du sort. Cet effet cesse immédiatement si vous effectuez une attaque.</p>",
+      "duration": "1 min ; voir l’effet"
+    },
+    "cOneGrMoV8BR3XtB": {
+      "name": "Appel d’un animal moyen",
+      "description": "<p>Le sort fonctionne comme appel d’un petit animal mais c’est un animal moyen contraint, un petit animal ou un animal très petit qui apparaît dans la zone d’effet. Un animal très petit ou petit peut avoir un des traits suivants : grimpeur, volant, venimeux ou nageur.</p>",
+      "area": "Un cube de 1 m de côté à partir d’un point jusqu’à portée moyenne et apparaissant sur une surface solide.",
+      "duration": "1 h"
+    },
+    "crFdWT96MbTLVzah": {
+      "name": "Brouillard empoisonné",
+      "description": "<p>Un brouillard pourpre se répand et obscurcit fortement la zone pendant la durée de l’effet ou jusqu’à ce qu’il soit dispersé par le vent. Le brouillard est plus lourd que l’air, aussi il s’engouffre dans les fissures et les ouvertures au sol. À la fin de chaque round pendant la durée du sort, lancez [[/r 1d6]]. Sur un résultat pair, le nuage s’éloigne de vous d’un nombre de mètres égal à la moitié de ce résultat.</p><p>Quand le brouillard apparaît, et à la fin de chaque round pendant la durée du sort, chaque créature dans la zone d’effet doit réussir un test de Force ou subir [[/r 1d6]] dégâts et être empoisonnée pendant 1 round. Tant qu’elle est empoisonnée de cette manière, la cible est aussi immobilisée.</p>",
+      "area": "Un cylindre de 2 m de hauteur et de 5 m de rayon centré sur un point situé jusqu’à portée moyenne.",
+      "duration": "1 min ; voir l’effet"
+    },
+    "ctkrhrSME2FBuP9b": {
+      "name": "Foulée illimitée",
+      "description": "<p>À chacun de vos tours pendant la durée du sort, vous pouvez utiliser une action déclenchée pour vous téléporter sur un espace dégagé que vous pouvez voir jusqu’à portée moyenne.</p>",
+      "duration": "1 min"
+    },
+    "cvXf0grzJJavpNfZ": {
+      "name": "Faiblesse",
+      "description": "<p>Effectuez un jet d’attaque d’Intellect contre la Force de la cible. En cas de succès, elle est maudite pendant 1 min. Tant qu’elle est maudite, la cible subit un malus de –10 à sa Santé et effectue ses jets d’attaque et ses tests de Force et d’Agilité avec 1 désavantage.</p><p>Jet d’attaque 20+. La malédiction dure jusqu’à ce que vous mourriez ou que vous la leviez.</p>",
+      "target": "Une créature à portée moyenne"
+    },
+    "dCkNSGrxvcu4x0Qj": {
+      "name": "Refermer les blessures",
+      "description": "<p>Vous soignez autant de dégâts que votre vitesse de guérison.</p>",
+      "triggered": "Vous pouvez utiliser une action déclenchée à votre tour pour lancer ce sort. Si vous le faites, à la place, vous soignez autant de dégâts que la moitié de votre vitesse de guérison."
+    },
+    "dFlqfWCfY6CAFBOd": {
+      "name": "Arpenteur des forêts",
+      "description": "<p>Vous, et tout ce que vous portez, devenez vert clair pendant toute la durée du sort. Le temps que dure cet effet, vous pouvez entrer dans un espace occupé par une plante de votre Gabarit ou plus grande et instantanément ressortir par un espace libre adjacent à une autre plante de votre Gabarit ou plus grande située jusqu’à portée moyenne de votre point de départ.</p>",
+      "duration": "1 min"
+    },
+    "dLhqJyOEAnc8rqBA": {
+      "name": "Invocation de monstre moyen",
+      "description": "<p>Vous invoquez dans la zone soit un monstre moyen contraint, soit deux petits monstres contraints.</p>",
+      "area": "Un cube de 2 m de côté à partir d’un point jusqu’à portée moyenne et apparaissant sur une surface solide.",
+      "duration": "1 min"
+    },
+    "dSxcwWmu5xcoGnJA": {
+      "name": "Forme animale",
+      "description": "<p>Vous prenez la forme d’un animal moyen, d’un petit animal ou d’un animal très petit pendant la durée du sort. Si vous prenez la forme d’un animal très petit, vous pouvez gagner un des traits suivants : grimpeur, volant ou nageur.</p>",
+      "duration": "1 min"
+    },
+    "diCEsfniLMVaYlit": {
+      "name": "Projection de la voix",
+      "description": "<p>Pendant la durée de ce sort, tout ce que vous dites, ou que vous chantez, peut être entendu jusqu’à 1,5 km de distance.</p>",
+      "duration": "1 min"
+    },
+    "diOB3pyq29Ww2LjX": {
+      "name": "Soins modérés",
+      "description": "<p>Vous touchez une cible, ce qui la soigne d’un nombre de dégâts égal à deux fois sa vitesse de guérison.</p>",
+      "target": "Une créature à portée de votre allonge"
+    },
+    "dsoTFsbohI5VWr6d": {
+      "name": "Révélation",
+      "description": "<p>Vous touchez la cible en lui accordant sept révélations qui durent jusqu’à la fin de la durée du sort ou jusqu’à ce qu’elle les ait toutes utilisées. Quand la cible effectue un jet d’attaque ou un test, elle peut dépenser n’importe quel nombre de révélations qu’elle possède encore. Pour chaque révélation utilisée, la cible effectue son jet avec 2 avantages.</p>",
+      "target": "Une créature à portée de votre allonge",
+      "duration": "1 min ; voir l’effet"
+    },
+    "duc5LMZJjuX4iayM": {
+      "name": "Bonneteau",
+      "description": "<p>Quatre doubles illusoires apparaissent dans des espaces dégagés à portée de votre allonge. Pendant la durée de l’effet, ces doubles se déplacent avec vous et changent continuellement de place pour qu’un observateur ne puisse savoir où vous êtes réellement. Les déplacements des doubles ne déclenchent pas d’attaques gratuites.</p><p>Quand une créature obtient un succès sur un jet d’attaque contre votre Défense, votre Force ou votre Agilité, lancez [[/r 1d20]] pour savoir si elle vous affecte vous ou un de vos doubles. Si elle affecte un des doubles, réduisez leur nombre de 1. L’effet cesse quand le dernier double disparaît.</p>",
+      "duration": "1 h ; voir l’effet"
+    },
+    "e8HlvK2fCn4PoSUZ": {
+      "name": "Lier un génie de flammes",
+      "description": "<p>À la fin du round durant lequel vous avez lancé ce sort, le cube ciblé devient un génie des flammes de Gabarit 2. Vous ne pouvez pas révoquer volontairement ce sort. Quand le génie apparaît, effectuez un jet d’attaque de Volonté contre sa Volonté. En cas de réussite, le génie est contraint, pendant la durée de l’effet. En cas d’échec, il est hostile.</p>",
+      "target": "Un cube de feu de 2 m de côté, ayant pour origine un point jusqu’à portée longue.",
+      "duration": "1 min"
+    },
+    "eBldSNySIpTpQsot": {
+      "name": "Invocation de petit monstre",
+      "description": "<p>Un petit monstre contraint apparaît dans la zone d’effet.</p>",
+      "area": "Un cube de 1 m de côté à partir d’un point jusqu’à portée moyenne et apparaissant sur une surface solide.",
+      "duration": "1 min"
+    },
+    "ejGU2ECtvP95itzl": {
+      "name": "Magie sauvage",
+      "description": "<p>D’étranges lumières, des sons bizarres et d’autres choses curieuses affectent la zone d’effet. Lancez [[/r 1d20]] pour savoir ce qui se produit.</p><p>Magie sauvage :</p><ul><li>1 : [[/r 1d6]] petits démons apparaissent dans des espaces dégagés de la zone d’effet. Ils ne sont pas amicaux.</li><li>2–3 : Chaque créature dans la zone d’effet obtient 1 en Folie.</li><li>4–5 : Chaque créature dans la zone d’effet effectue ses jets d’attaque et ses tests avec 1 désavantage pendant 1 round.</li><li>6–8 : Chaque créature dans la zone d’effet subit [[/r 3d6 + 5]] dégâts ou la moitié en réussissant un test de Force.</li><li>9–13 : Vous regagnez une utilisation de ce sort.</li><li>14–15 : Chaque créature dans la zone d’effet soigne [[/r 3d6 + 5]] dégâts.</li><li>16–17 : Chaque créature dans la zone d’effet effectue ses jets d’attaque et ses tests avec 1 avantage pendant 1 round.</li><li>18–19 : Chaque créature dans la zone d’effet peut effectuer un tour supplémentaire avant la fin du prochain round.</li><li>20 : Vous regagnez une utilisation d’un sort de rang 3 ou inférieur.</li></ul>",
+      "area": "Une sphère avec un rayon égal à [[/r 1d6]] mètre centrée sur un point à portée de votre allonge."
+    },
+    "enMzORAJT1cOaf1w": {
+      "name": "Protection contre les sorts",
+      "description": "<p>Vous touchez la cible et lui octroyez une protection contre les sorts pendant la durée de l’effet. Tant que dure le sort, les créatures qui attaquent la cible avec des sorts effectuent leurs jets d’attaque avec 1 désavantage. De plus, la cible effectue ses tests pour y résister avec 1 avantage.</p>",
+      "target": "Une créature à portée de votre allonge",
+      "duration": "1 h"
+    },
+    "ev2q5NabzTbKRISX": {
+      "name": "Anéantir",
+      "description": "<p>Subissez 5 dégâts. La cible subit 30 dégâts.</p>",
+      "target": "Une créature ou un objet de Gabarit 3 ou inférieur que vous pouvez voir à portée moyenne."
+    },
+    "f4aKA9G14t7GrBOW": {
+      "name": "Monstre de l’ombre",
+      "description": "<p>Des filaments de ténèbres se concentrent dans la zone pour former un monstre moyen contraint avec le trait volant. Ce monstre peut avoir l’apparence de votre choix. S’il est neutralisé, l’effet cesse.</p><p>ÉCLAIRS NOIRS DU ROY AUME DES MORTS</p>",
+      "area": "Un cube de 1 m de côté ayant pour origine un point jusqu’à portée moyenne.",
+      "duration": "1 min"
+    },
+    "f66Pafzp8bO6mO5z": {
+      "name": "Évaporation",
+      "description": "<p>Subissez 4 dégâts. Faites un jet d’attaque de Volonté contre son Agilité. En cas de succès, elle commence à s’évaporer et subit [[/r 6d6]] dégâts. Un objet détruit par ces dégâts se transforme en une fine brume. Une créature neutralisée par ces dégâts meurt instantanément et devient un nuage pourpre qui obscurcit partiellement l’espace qu’elle occupait pendant 1 round. Jet d’attaque 20+. La cible subit [[/r 2d6]] dégâts supplémentaires.</p>",
+      "target": "Une créature avec un corps physique ou un objet à portée de votre allonge."
+    },
+    "f8Bs7Kd1HZcgPpxN": {
+      "name": "Invocation de mur",
+      "description": "<p>Un mur de pierre occupe la zone pendant la durée de l’effet ou jusqu’à ce qu’il soit détruit. Il offre un abri total pour tout ce qui se trouve derrière. Chaque section de 1 m du mur a une Défense de 5 et une Santé de 50 et disparaît quand elle est détruite.</p>",
+      "area": "Une ligne façonnable de 10 m de long, de 5 m de haut et de 2 m de large, à partir d’un point situé dans la direction de votre choix et jusqu’à maximum portée longue tant qu’au moins deux côtés du mur reposent sur une surface solide.",
+      "duration": "1 h ; voir l’effet"
+    },
+    "fcmhyiNgBX1kOu5Y": {
+      "name": "Odieuse défécation",
+      "description": "<p>Les tripes de la cible se tordent et gargouillent bruyamment. Si sa Santé est de 10 ou moins, elle meurt instantanément, des flots de sang et d’excréments se répandant par tous ses orifices. Si sa Santé est supérieure à 10, effectuez un jet d’attaque d’Intellect contre sa Force.</p><p>En cas de succès, elle subit [[/r 1d6 + 2]] dégâts et elle est étourdie pendant 1 round tandis qu’elle expulse violemment et de manière spectaculaire le contenu de son estomac. Si ces dégâts neutralisent la cible, ses excréments, ses organes et son sang explosent à l’intérieur de son corps ce qui la tue. Chaque créature dans un rayon de 2 m autour d’un point de l’espace occupé par la cible doit effectuer un test de Volonté ; en cas d’échec, la créature est affaiblie pendant 1 round. Jet d’attaque 20+. La cible subit [[/r 1d6]] dégâts supplémentaires.</p>",
+      "target": "Une créature vivante avec un corps physique jusqu’à portée moyenne."
+    },
+    "fdocycWzvCqVZJAh": {
+      "name": "Bond",
+      "description": "<p>Vous vous déplacez au double de votre Vitesse. À n’importe quel moment de votre déplacement, vous pouvez effectuer une attaque avec une arme naturelle ou à mains nues contre une cible à portée de votre allonge en utilisant la Volonté à la place de l’attribut normalement utilisé pour cette attaque. En cas de succès, la cible subit les dégâts de l’attaque plus [[/r 4d6]] dégâts supplémentaires et tombe à terre.</p>",
+      "requirements": "Vous devez être sous l’effet du sort bête intérieure."
+    },
+    "fhVPkZIQlmq4NNGM": {
+      "name": "Marteau divin",
+      "description": "<p>Un étincelant marteau doré apparaît à l’endroit ciblé et flotte dans les airs. Pendant la durée du sort, vous pouvez utiliser une action déclenchée à votre tour pour déplacer le marteau de 10 m et attaquer une créature à 1 m de lui. Effectuez un jet d’attaque de Volonté avec 1 avantage contre la Défense de la cible. En cas de succès, elle subit [[/r 2d6]] dégâts.</p><p>Jet d’attaque 20+. La cible subit [[/r 2d6]] dégâts supplémentaires.</p>",
+      "target": "Un point dans un espace situé à portée moyenne",
+      "duration": "1 min"
+    },
+    "frWctWohAMpiB0KL": {
+      "name": "Entrave",
+      "description": "<p>Effectuez un jet d’attaque d’Intellect contre la Force de la cible. En cas de succès, elle est ralentie pendant 1 min. Jet d’attaque 20+. La cible tombe à terre et ne peut plus se relever tant qu’elle est ralentie de cette manière.</p>",
+      "target": "Une créature vivante à portée courte"
+    },
+    "gFmulB1pKDMJeyCd": {
+      "name": "Lecture",
+      "description": "<p>En vous concentrant, vous lisez les lignes de la main de la cible. À la fin de la durée, vous lui révélez des éléments de son avenir. Cette cible gagne six intuitions qu’elle conserve pendant 1 h ou jusqu’à ce qu’elle les ait toutes dépensées. Si elle effectue un jet d’attaque ou un test, elle peut dépenser une intuition pour effectuer ce jet avec 2 avantages.</p>",
+      "target": "Une créature à portée de votre allonge",
+      "duration": "Concentration, jusqu’à 1 min"
+    },
+    "gPuu6krcHNEJWLMe": {
+      "name": "Cloué au sol",
+      "description": "<p>La gravité augmente soudain dans la zone d’effet qui devient un terrain difficile pendant toute la durée du sort. Chaque créature qui s’y trouve ou qui y pénètre doit effectuer un test de Force avec 1 désavantage ; en cas d’échec, elle tombe à terre et est immobilisée pendant toute la durée. Tant qu’elle est immobilisée de cette manière, la créature ne peut pas se relever. Si elle vole, elle tombe et les dégâts de chute sont doublés.</p>",
+      "area": "Un cube de 10 m de côté ayant pour origine un point jusqu’à portée longue.",
+      "duration": "1 min"
+    },
+    "gcnyRH2yaNb3jkvY": {
+      "name": "Sanctuaire",
+      "description": "<p>Vous touchez la cible qui est cachée de toutes les créatures jusqu’à la fin de l’effet. L’effet cesse immédiatement si elle attaque.</p>",
+      "target": "Une créature à portée de votre allonge",
+      "duration": "1 min ; voir l’effet"
+    },
+    "gdRiXCsDGjqFmLP3": {
+      "name": "Destruction",
+      "description": "<p>Subissez 1 dégât. La cible subit [[/r 1d6]] dégâts ; s’il s’agit d’une créature, elle doit réussir un test de Force ou être fatiguée pendant 1 min.</p>",
+      "target": "Une créature ou un objet à portée courte."
+    },
+    "gsgrPPGDuWo8eZnb": {
+      "name": "Mur d’épées",
+      "description": "<p>Un mur d’épées tranchantes se forme dans la zone et y demeure pendant toute la durée du sort. Il offre un abri total pour tout ce qui se trouve derrière. Quand le mur apparaît, tout ce qui se trouve dans la zone d’effet subit [[/r 5d6]] dégâts. Les créatures ne subissent que la moitié des dégâts si elles réussissent un test d’Agilité.</p><p>Les créatures peuvent traverser la zone en la considérant comme un terrain difficile. Quand une créature y entre, ou si elle s’y trouve à la fin du round, elle doit obtenir un succès à un test d’Agilité ou subir [[/r 3d6]] dégâts.</p>",
+      "area": "Une ligne de 20 m de long, 5 m de hauteur et 2 m de large ayant pour origine un point situé jusqu’à portée longue.",
+      "duration": "1 h"
+    },
+    "h17vRdd1UuAx5BD7": {
+      "name": "Appel d’un grand animal",
+      "description": "<p>Le sort fonctionne comme appel d’un petit animal mais c’est un grand animal contraint, un animal moyen ou un petit animal qui apparaît dans la zone d’effet. Un animal moyen ou petit peut avoir un des traits suivants : grimpeur, volant, venimeux ou nageur.</p>",
+      "area": "Un cube de 2 m de côté à partir d’un point jusqu’à portée moyenne et apparaissant sur une surface solide.",
+      "duration": "1 h"
+    },
+    "hLMa9uznXGtgGAKf": {
+      "name": "Rune de puissance",
+      "description": "<p>Une rune étincelante apparaît sur une cible là où vous la touchez. Pendant la durée du sort, elle effectue ses jets d’attaque et ses tests de Force avec 2 avantages et ses attaques avec des armes de mêlée infligent [[/r 2d6]] dégâts de plus.</p>",
+      "target": "Une créature à portée de votre allonge",
+      "duration": "1 min"
+    },
+    "hQzhpvrcOwjyIBOI": {
+      "name": "Feux célestes",
+      "description": "<p>Des flammes se déversent dans la zone d’effet et infligent [[/r 7d6]] dégâts à toutes les créatures qui s’y trouvent. Une créature qui obtient un succès à un test de Volonté subit la moitié des dégâts. Toute créature neutralisée par ces dégâts disparaît, effacée du tissu même de la réalité.</p>",
+      "area": "Un cylindre vertical de 25 m de hauteur et de 5 m de rayon centré sur un point au sol situé jusqu’à portée extrême."
+    },
+    "hXq6FuCWBJpTjnSD": {
+      "name": "Perception de la magie",
+      "description": "<p>Vous savez s’il y a des effets magiques actifs dans la zone et d’où ils proviennent.</p>",
+      "area": "Une sphère de 5 m de rayon centrée sur un point de votre espace."
+    },
+    "hgSuYs5iPSTNbtMy": {
+      "name": "Rune de pouvoir",
+      "description": "<p>Une rune étincelante apparaît sur une cible là où vous la touchez. Pendant la durée du sort, elle effectue ses jets d’attaque et ses tests avec 2 avantages, gagne un bonus de +20 en Santé et inflige [[/r 1d6]] dégâts supplémentaires avec ses attaques qui infligent des dégâts.</p>",
+      "target": "Une créature à portée de votre allonge",
+      "duration": "1 h"
+    },
+    "i98QyNI8Bjabgev1": {
+      "name": "Marque funeste",
+      "description": "<p>Effectuez un jet d’attaque d’Intellect contre l’Agilité de la cible. En cas de succès, vous la marquez d’une rune pendant 1 min. Une fois par round, pendant la durée du sort, quand la cible subit des dégâts, elle encaisse [[/r 1d6]] dégâts supplémentaires à cause de la rune.</p>",
+      "target": "Une créature vivante à portée courte",
+      "duration": "1 min"
+    },
+    "iZVPknG466qYJVW3": {
+      "name": "Chant d’inspiration",
+      "description": "<p>Quand vous lancez ce sort, et à chacun de vos tours pendant la durée de l’effet, choisissez une créature jusqu’à portée courte de vous qui peut vous entendre. La cible effectue son prochain jet d’attaque ou son prochain test avec 2 avantages. L’effet cesse immédiatement si vous cessez de chanter ou si vous lancez un autre sort.</p>",
+      "duration": "1 min"
+    },
+    "ibvaBTbP1h6yFO4v": {
+      "name": "Asser vissement",
+      "description": "<p>Effectuez un jet d’attaque d’Intellect contre la Volonté de la cible. Si vous, ou un membre de votre groupe avez attaqué la cible depuis la dernière fois que vous vous êtes reposé, vous effectuez le jet d’attaque avec 1 désavantage. En cas de succès, elle est charmée. Elle ne vieillit pas tant qu’elle est ainsi charmée. Quand elle subit des dégâts, elle peut effectuer un test de Volonté et elle se débarrasse de cette affliction si elle le réussit. Tant que vous êtes jusqu’à portée longue de la cible et qu’elle est charmée de cette manière, vous pouvez utiliser une action pour effectuer un jet d’attaque d’Intellect contre sa Volonté. En cas de succès, elle est contrainte pendant 1 min. Jet d’attaque 20+. Si le total du jet d’attaque initial est égal à 20 ou plus et qu’il excède le seuil de difficulté de 5, vous effectuez les jets d’attaque de Volonté secondaires contre la cible charmée avec 2 avantages.</p>",
+      "target": "Une créature à portée moyenne"
+    },
+    "ix6oK15WtBv5XBx4": {
+      "name": "Sceau piégé",
+      "description": "<p>Une rune apparaît au point d’origine et y demeure pendant la durée du sort. Quand une créature pénètre dans la zone, et à la fin de chaque round pendant la durée de l’effet, des éclairs jaillissent de la rune et infligent [[/r 2d6]] dégâts à tout ce qui s’y trouve. Toute créature présente dans la zone doit faire un test d’Agilité. Une créature est immobilisée pendant 1 round en cas d’échec ou subit juste la moitié des dégâts en cas de succès.</p>",
+      "area": "Un cercle de 4 m de rayon centré sur un point au sol situé jusqu’à portée moyenne.",
+      "duration": "1 min"
+    },
+    "j5ZwQNXIr8seDJPS": {
+      "name": "Variole",
+      "description": "<p>Effectuez un jet d’attaque d’Intellect contre la Force de la cible. En cas de succès, son corps se couvre de pustules vertes et suintantes. La cible subit [[/r 1d3]] dégâts à cause de la maladie et elle est effrayée pendant 1 round.</p><p>Jet d’attaque 20+. La cible est effrayée pendant 1 min.</p>",
+      "target": "Une créature vivante jusqu’à portée courte"
+    },
+    "jdfOw3nvfkeiQkZg": {
+      "name": "Souffle de feu",
+      "description": "<p>Des flammes jaillissent de votre main infligeant [[/r 3d6]] dégâts à tout ce qui se trouve dans la zone. Les créatures présentes subissent seulement la moitié des dégâts si elles réussissent un test d’Agilité.</p>",
+      "area": "Un cône de 3 m de long ayant pour origine un point à portée de votre allonge."
+    },
+    "jp9JcmWewsnlUCqS": {
+      "name": "Attaque amplifiée",
+      "description": "<p>Pour lancer ce sort, vous portez une attaque avec une arme. Vous effectuez le jet d’attaque avec 1 avantage et vous pouvez utiliser l’Intellect au lieu de votre attribut d’attaque normal.</p>"
+    },
+    "jrVoX0Lwn5CMriPP": {
+      "name": "Couleur de la magie",
+      "description": "<p>Un globe coloré jaillit de votre main vers une cible. Quand il atteint ce point, ou s’il rencontre une créature ou un objet solide avant, il explose. Des énergies chaotiques et colorées se dispersent dans une sphère de 1 m de rayon centrée sur la cible ou un point dans l’espace occupé par la créature ou l’objet. Tout ce qui se trouve dans la zone subit [[/r 1d6 + 1]] dégâts. Si vous avez obtenu un chiffre impair au dé de dégâts, tout ce qui se trouve dans la zone subit [[/r 3d6]] dégâts supplémentaires.</p>",
+      "target": "Un point dans un espace situé à portée moyenne"
+    },
+    "k59flp7Yyq9WAuVE": {
+      "name": "Division",
+      "description": "<p>Effectuez un jet d’attaque d’Intellect contre la Force de la cible. Si elle réussit, la cible subit [[/r 3d6]] dégâts. Si la cible est neutralisée par ces dégâts, son corps tombe en morceaux, ce qui la tue immédiatement.</p><p>Jet d’attaque 20+. La cible subit [[/r 1d6]] dégâts supplémentaires.</p>",
+      "target": "Une créature vivante que vous pouvez voir jusqu’à portée courte."
+    },
+    "k6agR6jLdAdwAnbp": {
+      "name": "Invisibilité",
+      "description": "<p>Vous touchez la cible qui devient invisible pour la durée du sort.</p>",
+      "target": "Une créature ou un objet à portée de votre allonge",
+      "duration": "1 min"
+    },
+    "k7Gm9mDF3Nx5ddbI": {
+      "name": "Perception de la vérité",
+      "description": "<p>Pendant la durée de ce sort, vous comprenez tous les langages parlés et vous savez reconnaître la vérité.</p>",
+      "duration": "1 h"
+    },
+    "kKSRM1moh0VZbakF": {
+      "name": "Éclair",
+      "description": "<p>Un éclair se propage de [[/r 5d6]] m le long de la zone d’effet. S’il rencontre un objet solide avant d’atteindre l’autre extrémité de la ligne, il rebondit et revient vers vous en ligne droite sur la distance qui lui reste à parcourir. L’éclair inflige [[/r 5d6]] dégâts à tout ce qui se trouve dans la zone. Chaque créature sur la trajectoire doit effectuer un test d’Agilité avec 1 désavantage si elle est constituée de métal ou en porte sur elle. Une créature sur la trajectoire d’un éclair qui rebondit effectue ce test deux fois. En cas de succès, elle subit la moitié des dégâts.</p>",
+      "area": "Une ligne de 30 m de long et de 1 m de large provenant d’un point situé à portée de votre allonge."
+    },
+    "keJRkeCNRnsGTbbv": {
+      "name": "Raccourci",
+      "description": "<p>Vous vous téléportez jusqu’à un espace dégagé que vous pouvez voir jusqu’à portée longue.</p>",
+      "triggered": "Vous pouvez utiliser une action déclenchée à votre tour pour lancer ce sort. Si vous le faites, l’espace dégagé doit se trouver jusqu’à portée moyenne."
+    },
+    "kkjelPNbArTSsmBR": {
+      "name": "Brise",
+      "description": "<p>Vous créez une légère brise dans la zone d’effet qui se déplace avec vous pendant la durée du sort. La brise éloigne les odeurs et la poussière, disperse les objets les plus légers comme le papier, éteint les bougies et fait danser et vaciller les plus grandes flammes. Les créatures dans la zone d’effet qui vous attaquent avec des armes de jet ou à distance effectuent leurs jets d’attaque avec 1 désavantage.</p>",
+      "area": "Une sphère de 2 m de rayon centrée sur un point à portée de votre allonge.",
+      "duration": "1 min"
+    },
+    "kttZTi6KtYFxLYDe": {
+      "name": "Accélération",
+      "description": "<p>Vous touchez une cible. Pendant la durée du sort, elle peut effectuer à chaque round un tour rapide et un tour lent. Quand l’effet cesse, la cible est fatiguée pendant [[/r 1d6]] minutes.</p>",
+      "target": "Une créature à portée de votre allonge",
+      "duration": "1 min"
+    },
+    "kzo53FbjzK2PGumm": {
+      "name": "Projection de glace",
+      "description": "<p>Vous projetez des fragments tranchants de glace qui infligent [[/r 2d6 + 2]] dégâts à tout ce qui se trouve dans la zone d’effet ou la moitié en cas de succès à un test d’Agilité. Le sol dans la zone devient un terrain difficile pendant 1 round.</p>",
+      "area": "Un cône de 3 m de long ayant pour origine un point à portée de votre allonge."
+    },
+    "lEbnPvzlX0I1QedZ": {
+      "name": "Air immobile",
+      "description": "<p>Pendant la durée de l’effet, aucun son ne peut pénétrer ou sortir de la zone d’effet. Les créatures dans la zone sont assourdies et sont immunisées contre les attaques basées sur le son comme le sort coup de tonnerre par exemple.</p>",
+      "area": "Une sphère de 4 m de rayon centrée sur un point situé jusqu’à portée moyenne.",
+      "duration": "1 h"
+    },
+    "lLzErO0xwVzrS6VM": {
+      "name": "Soins majeurs",
+      "description": "<p>Vous touchez une cible, ce qui la soigne d’un nombre de dégâts égal à trois fois sa vitesse de guérison.</p>",
+      "target": "Une créature à portée de votre allonge"
+    },
+    "lhPajUA9LYoVoDY3": {
+      "name": "Champ protecteur",
+      "description": "<p>Une barrière de protection immobile isole la zone pendant toute la durée de l’effet. Quand vous lancez ce sort, vous désignez un certain nombre de créatures jusqu’à portée moyenne de vous. Les créatures désignées peuvent librement se déplacer ou attaquer à travers la barrière. Aucune autre créature ne peut la franchir ou attaquer avec des armes de mêlée des cibles de l’autre côté.</p>",
+      "area": "Une sphère de 3 m de rayon centrée sur un point à portée de votre allonge.",
+      "duration": "1 min"
+    },
+    "lmBxUYhsWvZ1sVOP": {
+      "name": "Asservissement de l’esprit",
+      "description": "<p>Effectuez un jet d’attaque d’Intellect contre la Volonté de la cible. Si vous, ou un membre de votre groupe avez attaqué la cible depuis la dernière fois que vous vous êtes reposé, vous effectuez le jet d’attaque avec 1 désavantage. Sur un succès, elle est étourdie pendant 1 min ou jusqu’à ce qu’elle subisse des dégâts. Tant qu’elle est étourdie de cette manière, vous effectuez vos jets d’attaque avec 1 avantage pour interagir socialement avec elle.</p><p>Jet d’attaque 20+. La cible est stupéfaite tant qu’elle est étourdie de cette manière.</p>",
+      "target": "Une créature à portée moyenne qui peut vous voir et vous entendre"
+    },
+    "lrjLekIWL0uhWBDk": {
+      "name": "Soumission",
+      "description": "<p>Vous vous liez à l’âme de la victime. Effectuez un jet d’attaque d’Intellect contre sa Volonté. Sur un succès, pour la prochaine minute, la cible doit choisir à la fin de chaque round soit de subir [[/r 1d6]] dégâts soit d’être contrainte pendant 1 round.</p>",
+      "target": "Une créature vivante jusqu’à portée courte"
+    },
+    "m2OE2EmJwyGc7N61": {
+      "name": "Nova",
+      "description": "<p>Une lumière vive explose et se répand dans toute la zone. Chaque créature qui s’y trouve, excepté vous, subit [[/r 2d6 + 2]] dégâts et doit effectuer un test de Force. Une créature est aveuglée pendant 1 round en cas d’échec ou subit juste la moitié des dégâts en cas de succès.</p>",
+      "area": "Une sphère de 8 m de rayon centrée sur un point à portée de votre allonge."
+    },
+    "m4HWyRyQSkO1lSIB": {
+      "name": "Appel de la nature",
+      "description": "<p>Les cibles gagnent des traits bestiaux. Pendant la durée du sort, chacune d’elles bénéficie d’un bonus de +10 en Santé et de +2 en Vitesse et ses attaques à mains nues et avec ses armes naturelles infligent [[/r 1d6]] dégâts supplémentaires.</p>",
+      "target": "Jusqu’à cinq créatures à portée courte.",
+      "duration": "1 min"
+    },
+    "m9ZKNu8wcylgUdym": {
+      "name": "Fracture",
+      "description": "<p>Effectuez un jet d’attaque d’Intellect contre la Force de la cible. En cas de succès, elle subit [[/r 3d6 + 5]] dégâts. Si elle est neutralisée par ces dégâts, elle meurt instantanément et les os de son corps explosent dans un cône de 3 m de long provenant d’un point de son espace. Tout ce qui se trouve dans la zone d’effet subit [[/r 1d6]] dégâts ; une créature qui réussit un test d’Agilité ne subit aucun dégât.</p><p>Jet d’attaque 20+. La cible subit [[/r 2d6]] dégâts supplémentaires.</p>",
+      "target": "Une créature avec un squelette jusqu’à portée moyenne"
+    },
+    "mB4f5XQ2CTorVlpR": {
+      "name": "Bourrasque",
+      "description": "<p>Un vent rugissant disperse les vapeurs, le brouillard, la fumée et les gaz dans la zone d’effet. Les flammes non protégées sont soufflées et les objets légers sont repoussés jusqu’aux limites les plus proches de la zone. Chaque créature dans la zone d’effet doit réussir un test de Force ou être déplacée de [[/r 1d6]] mètres en s’éloignant du point d’origine. Les créatures volantes effectuent ce jet avec 1 désavantage.</p>",
+      "area": "Un cône de 3 m de long ayant pour origine un point situé à portée courte."
+    },
+    "mDVh9gJcP1SnPowx": {
+      "name": "Champ de force",
+      "description": "<p>Un champ de force invisible vous enveloppe et se déplace avec vous. Le champ a une Santé de 10. Pendant la durée du sort, si vous devez subir des dégâts, c’est le champ qui les absorbe. Si les dégâts encaissés par le champ sont égaux à sa Santé, l’effet cesse immédiatement.</p>",
+      "duration": "1 min ; voir l’effet"
+    },
+    "mU4xTmoBqmbcisBp": {
+      "name": "Éclat solaire",
+      "description": "<p>Vous projetez de votre main un rayon de lumière éclatante et incandescente qui inflige [[/r 3d6 + 3]] dégâts à tout ce qui se trouve dans la zone. Toute créature qui subit des dégâts de cette manière doit faire un test de Force. Une créature est aveuglée pendant 1 min en cas d’échec ou subit juste la moitié des dégâts en cas de succès.</p>",
+      "area": "Une ligne de 25 m de long et de 1 m de large provenant d’un point situé à portée de votre allonge."
+    },
+    "mYTV3TgzziSYwTip": {
+      "name": "Fantasme",
+      "description": "<p>Une illusion d’une créature, d’un objet ou d’une force qui semble en tous points réelle apparaît dans la zone. Si vous ne pouvez la voir à la fin du round, l’effet cesse immédiatement.</p><p>Si vous créez l’illusion d’une force dangereuse, comme du feu ou de l’eau bouillante, une créature se déplaçant dans cet espace doit réussir un test de Perception ou subir [[/r 3d6]] dégâts. Si vous créez l’illusion d’une créature, elle se déplace et se comporte de manière réaliste et utilise votre valeur d’Intellect pour ses caractéristiques, sa Défense et sa Santé. Elle ignore toutes les afflictions et disparaît quand elle est neutralisée, ce qui met un terme à l’effet. Pendant la durée du sort, vous pouvez utiliser une action pour déplacer l’illusion jusqu’à 10 m et attaquer une créature à 1 m d’elle qui peut la voir et qui pense qu’elle est réelle. Effectuez un jet d’attaque d’Intellect contre sa Perception. Sur un succès, la cible croit qu’elle a été blessée, brûlée ou affectée d’une autre manière par l’illusion et subit [[/r 4d6]] dégâts.</p><p>Jet d’attaque 20+. La cible subit [[/r 2d6]] dégâts supplémentaires.</p>",
+      "area": "Un cube de 4 m de côté ayant pour origine un point que vous pouvez voir jusqu’à portée longue.",
+      "duration": "1 h ; voir l’effet"
+    },
+    "mdxu5jEvUZPADqLI": {
+      "name": "Élan de vitalité",
+      "description": "<p>Chaque cible soigne un nombre de dégâts égal à sa vitesse de guérison.</p>",
+      "target": "Jusqu’à trois créatures à portée courte."
+    },
+    "mku1mksFvEZlF4Q2": {
+      "name": "Appel d’un petit animal",
+      "description": "<p>Un petit animal contraint, ou un animal très petit, apparaît dans la zone. Un animal très petit peut avoir un des traits suivants : grimpeur, volant, venimeux ou nageur.</p><p>L’animal est d’une espèce appropriée pour l’environnement dans lequel vous avez lancé le sort. Quand l’effet se termine, ou si l’animal est neutralisé, il retourne d’où il est venu.</p>",
+      "area": "Un cube de 1 m de côté à partir d’un point jusqu’à portée moyenne et apparaissant sur une surface solide.",
+      "duration": "1 h"
+    },
+    "mu5coOG6w1A5vu9j": {
+      "name": "Éveil du potentiel",
+      "description": "<p>Vous touchez une cible. Choisissez entre la Force, l’Agilité, l’Intellect ou la Volonté et lancez [[/r 1d6]]. Pendant la durée du sort, la cible gagne un bonus à l’attribut choisi égal au résultat obtenu sans pouvoir dépasser la valeur maximale de 20. Cette augmentation affecte également toutes les caractéristiques associées à l’attribut.</p>",
+      "target": "Une créature à portée de votre allonge",
+      "duration": "1 h"
+    },
+    "nAShjuhsCmvhcAue": {
+      "name": "Commander les morts-vivants",
+      "description": "<p>Effectuez un jet d’attaque d’Intellect contre la Volonté de la cible. En cas de succès, la cible est contrainte pendant la durée du sort.</p>",
+      "target": "Une créature morte-vivante jusqu’à portée courte",
+      "duration": "1 min"
+    },
+    "nHAV02xR8HWksiFl": {
+      "name": "Bouclier foudroyant",
+      "description": "<p>Vous créez un bouclier magique sur votre bras qui y reste pendant la durée du sort. Une fois par round, quand une créature réussit contre vous une attaque avec une arme de mêlée, le bouclier produit des étincelles et la créature attaquante doit effectuer un test d’Agilité. Si elle échoue, elle subit [[/r 1d6]] dégâts et elle est repoussée de [[/r 1d3]] mètres par rapport à vous avant de tomber à terre à la fin de ce déplacement.</p>",
+      "duration": "1 min"
+    },
+    "nJKetR9hW8EmjBKm": {
+      "name": "Flash",
+      "description": "<p>Un flash de lumière brillante apparaît devant la cible. Faites un jet d’attaque de Volonté contre la Perception de la cible. En cas de succès, la cible est aveuglée pendant 1 round. Jet d’attaque 20+. La cible est à la place aveuglée pendant 1 min.</p>",
+      "target": "Une créature dotée de la vue à portée courte"
+    },
+    "nNCUbUInrklmb868": {
+      "name": "Assaut météorique",
+      "description": "<p>Vous vous déplacez à deux fois votre Vitesse en ligne droite. Pendant ce déplacement, vous pouvez effectuer un jet d’attaque avec une arme contre chaque créature à portée de votre allonge mais pas plus d’une fois par créature. Pour chaque attaque après la première, vous effectuez votre jet d’attaque avec 1 désavantage et chaque attaque inflige [[/r 1d6]] dégâts supplémentaires. Vous pouvez utiliser l’Intellect au lieu de votre attribut d’attaque normal.</p>"
+    },
+    "nW8qWKmr946UnPRH": {
+      "name": "Rafistolage",
+      "description": "<p>Vous touchez la cible qui récupère de [[/r 1d6]] points de dégâts.</p>",
+      "target": "Un objet de Gabarit 2 ou plus petit qui a subi au moins 1 dégât, mais qui n’est pas détruit, et qui est à portée de votre allonge."
+    },
+    "nX35Od4wbwD7D9bN": {
+      "name": "Lance-flammes",
+      "description": "<p>Vous créez un lance-flammes avec six charges. Il apparaît dans vos mains ou à vos pieds si vous n’avez pas les mains libres. Une fois la dernière charge utilisée, le lance-flammes se démantèle en pièces détachées.</p><p>Une créature utilisant le lance-flammes peut utiliser une action pour dépenser une charge ; cela libère une ligne de feu de 5 m de long et de 1 m de large à partir d’un point à portée de l’allonge de la créature. Les flammes infligent [[/r 2d6]] dégâts à tout ce qui se trouve dans la zone ; une créature qui réussit un test d’Agilité ne subit que la moitié des dégâts.</p><p>Le lance-flammes explose si la créature qui l’utilise subit de dégâts de feu ou de foudre. Les flammes englobent une sphère de 5 m de rayon centrée sur un point dans l’espace de la créature, infligeant [[/r 1d6]] dégâts par charge non utilisée à tout ce qui se trouve dans la zone. Chaque créature affectée qui obtient un succès à un test d’Agilité subit la moitié des dégâts.</p>",
+      "duration": "Voir l’effet."
+    },
+    "nhImEj139wVnH9cQ": {
+      "name": "Lier un génie des eaux",
+      "description": "<p>À la fin du round durant lequel vous avez lancé ce sort, le cube devient un génie des eaux de Gabarit 2. Vous ne pouvez pas révoquer volontairement ce sort. Quand le génie apparaît, effectuez un jet d’attaque de Volonté contre sa Volonté. En cas de réussite, le génie est contraint, pendant la durée de l’effet. En cas d’échec, il est hostile.</p>",
+      "target": "Un cube de glace, de neige ou d’eau de 2 m de côté, ayant pour origine un point jusqu’à portée longue.",
+      "duration": "1 min"
+    },
+    "ntLicaLdiqoIkTTz": {
+      "name": "Impact massif",
+      "description": "<p>Vous volez à deux fois votre Vitesse avant d’atterrir. Quand vous atterrissez, une onde de choc se propage au sol dans un rayon de 4 m centré autour d’un point de votre espace. Chaque créature au sol doit faire un test d’Agilité. Une créature qui échoue subit [[/r 2d6]] dégâts et tombe à terre.</p>"
+    },
+    "oCBNF3Pxy1JfGWdB": {
+      "name": "Prolifération",
+      "description": "<p>Des plantes grimpantes et des mauvaises herbes se répandent dans toute la zone qui devient un terrain difficile pendant la durée du sort. Quand l’effet cesse, ces plantes flétrissent et meurent.</p>",
+      "area": "Un cercle de 10 m de rayon centré sur un point situé jusqu’à portée moyenne.",
+      "duration": "1 h"
+    },
+    "oUqUxUh8jJBU8RGJ": {
+      "name": "Présage",
+      "description": "<p>Pendant la durée de l’effet, quand la cible effectue un jet d’attaque ou un test et qu’elle peut vous entendre, elle effectue ce jet avec 3 avantages.</p>",
+      "target": "Une créature vivante que vous pouvez voir jusqu’à portée courte.",
+      "duration": "Concentration, jusqu’à 1 min."
+    },
+    "oW8Krb5QCaunNUBR": {
+      "name": "Avatar",
+      "description": "<p>Vous êtes submergé par la puissance divine. Pendant toute la durée du sort, vous ne subissez que la moitié des dégâts quelle que soit leur origine, vous effectuez vos jets d’attaque avec 1 avantage et vous infligez [[/r 2d6]] dégâts supplémentaires avec vos attaques avec des armes.</p>",
+      "duration": "1 min"
+    },
+    "p9Z8IyfAs172FmIc": {
+      "name": "Pétrification",
+      "description": "<p>Effectuez un jet d’attaque d’Intellect contre la Force de la cible ; effectuez ce jet avec 3 avantages si elle a une Santé de 50 ou moins. En cas de succès, elle subit [[/r 7d6 + 10]] dégâts et elle est ralentie pendant 1 min. Si la cible est neutralisée par ces dégâts, elle meurt instantanément et est transformée en statue de pierre. Jet d’attaque 20+. La cible subit [[/r 3d6]] dégâts supplémentaires.</p>",
+      "target": "Une créature jusqu’à portée moyenne qui a un corps physique."
+    },
+    "p9e5Bo6n8MJ2PeGj": {
+      "name": "Apparence trouble",
+      "description": "<p>Vous touchez une cible qui devient indistincte. Pour la durée du sort, quand la cible tente de se cacher, elle effectue le test d’Agilité avec 1 avantage et les créatures qui peuvent la voir et attaquer sa Défense ou son Agilité effectuent leurs jets d’attaque avec 1 désavantage.</p>",
+      "target": "Une créature à portée de votre allonge",
+      "duration": "1 min"
+    },
+    "pTj4dfOy35KTcpcR": {
+      "name": "Bouclier iridescent",
+      "description": "<p>Un champ coloré et étincelant apparaît autour de vous. Lancez [[/r 1d6]] et ajoutez le résultat en tant que bonus de Défense. À chaque fois qu’une créature effectue une attaque contre votre Défense, réduisez ce bonus de 1 jusqu’à un minimum de, 0 ce qui met un terme à cet effet.</p>",
+      "duration": "1 h ; voir l’effet"
+    },
+    "pVqFX06PyiYX1M1l": {
+      "name": "Puits de sombre puissance",
+      "description": "<p>Un glyphe apparaît sur le point désigné. Pendant toute la durée du sort, quand une créature dans la zone d’effet subit des dégâts, elle encaisse [[/r 2d6]] dégâts supplémentaires. SCEAU DES PORTES DU ROY AUME DES MORTS</p>",
+      "area": "Un cercle au sol de 5 m de rayon centré sur un point situé jusqu’à portée moyenne.",
+      "duration": "1 min"
+    },
+    "ppR56m87rTrbfgeR": {
+      "name": "Arme sorceliée",
+      "description": "<p>Vous touchez une arme à portée de votre allonge et vous l’imprégnez d’énergie magique pendant 4 h. Jusqu’à la fin du sort, vous gagnez les avantages suivants avec l’arme affectée.</p><ul><li>L’arme est considérée comme votre focale.</li><li>Vos jets d’attaques avec cette arme bénéficient de 1 avantage.</li><li>Si l’arme est à une distance maximale de 1 500 m de vous, vous pouvez utiliser une action pour la téléporter dans votre main ou à vos pieds si vous avez les mains prises.</li><li>Vous pouvez utiliser une action pour toucher l’arme affectée et annuler tous les dégâts qu’elle a subis même si elle a été détruite tant que vous avez au moins un morceau d’elle.</li></ul>",
+      "sacrifice": "Vous pouvez utiliser une action déclenchée pour dépenser une utilisation d’un sort. Jusqu’à la fin du round, vos attaques avec cette arme infligent des dégâts supplémentaires égaux à votre Puissance. jouer Sorcier La sorcellerie est aussi ancienne que l’humanité. Puisant ses origines dans la magie des fées, la sorcellerie est la première tentative de comprendre et de dompter la magie du monde. Les premiers pratiquants ont incorporé des croyances religieuses à leurs efforts pour contrôler la magie et c’est encore le cas aujourd’hui. Les sorciers maîtrisent une grande puissance magique mais ils le font par l’intermédiaire de rites et de cérémonies transmis à travers les siècles. Les sorciers qui ont commencé leur formation en tant que prêtres considèrent leur art comme l’expression de leur foi, tandis que ceux qui ont débuté en tant que magiciens privilégient souvent pour leurs pratiques religieuses une approche plus savante."
+    },
+    "prPRLkMgXK7R6BM0": {
+      "name": "Métamorphose porcine",
+      "description": "<p>Chaque créature doit effectuer un test de Force. En cas d’échec, une cible, ainsi que toutes ses affaires, est transformée en cochon (un petit animal) pendant la durée du sort. Tant qu’elle est transformée de cette manière, elle est effrayée et doit choisir un tour rapide à chaque tour, en utilisant une action pour vous fuir par le chemin le moins dangereux. L’effet cesse immédiatement si la cible subit des dégâts.</p>",
+      "target": "Jusqu’à trois créatures vivantes que vous pouvez voir jusqu’à portée moyenne.",
+      "duration": "1 min ; voir l’effet"
+    },
+    "q3Un7QqHubW0NgUX": {
+      "name": "Radiation",
+      "description": "<p>Une lueur verte tamisée se répand dans la zone d’effet, transformant les ténèbres en ombres pour la durée du sort. Tout ce qui se trouve dans la zone subit [[/r 1d6]] dégâts quand vous lancez le sort puis à la fin de chaque round pendant toute la durée du sort. Toute créature qui subit des dégâts de cette manière doit faire un test de Force. En cas d’échec, elle est fatiguée pendant 1 round et, tant qu’elle est fatiguée de cette manière, elle est aussi ralentie. En cas de succès, elle subit la moitié des dégâts.</p>",
+      "area": "Une sphère de 3 m de rayon centrée sur un point situé jusqu’à portée longue.",
+      "duration": "1 min"
+    },
+    "qI1MMfoqgsRnj20f": {
+      "name": "Amitié animale",
+      "description": "<p>Faites un jet d’attaque de Volonté contre sa Volonté. Vous effectuez le jet d’attaque avec 1 avantage si vous êtes sous l’effet du sort langue bestiale. Si la Santé de la cible est supérieure à la vôtre, le sort échoue et son utilisation est gâchée. En cas de succès, elle est charmée jusqu’à ce que vous vous reposiez. Elle vous accompagne pendant vos aventures et vous aide du mieux qu’elle peut, mais elle reste sous le contrôle du MJ. Vous pouvez avoir un nombre d’animaux ainsi charmés égal à votre valeur de Puissance. Si vous excédez ce nombre en lançant ce sort, l’effet cesse immédiatement pour l’animal le plus longuement affecté.</p><p>Jet d’attaque 20+. La cible est charmée de manière permanente.</p>",
+      "target": "Un animal que vous pouvez voir jusqu’à portée courte.",
+      "duration": "Jusqu’à ce que vous vous reposiez ; voir l’effet"
+    },
+    "qWAXAMrybnnszdpB": {
+      "name": "Flamme de sainte Astrid",
+      "description": "<p>Des flammes vertes inoffensives enveloppent chaque cible pendant la durée du sort. Chacune d’elles dégage de la lumière dans un rayon de 1 m et ne peut devenir invisible ou se cacher des créatures qui la voient. De plus, les créatures effectuent leurs jets d’attaque contre ces cibles avec 1 avantage.</p>",
+      "target": "Un maximum de trois créatures ou objets jusqu’à portée courte.",
+      "duration": "1 min"
+    },
+    "qYnZ1l86WfRw72Zo": {
+      "name": "Éclairs noirs du royaume des morts",
+      "description": "<p>Trois projectiles de ténèbres crépitantes jaillissent de votre main, que vous répartissez comme bon vous semble entre les cibles. Pour chaque missile, faites un jet d’attaque d’Intellect contre l’Agilité de la cible désignée. En cas de succès, elle subit [[/r 2d6]] dégâts et elle est éloignée de vous de [[/r 1d6]] m. Jet d’attaque 20+. La cible subit [[/r 1d6]] dégâts supplémentaires.</p>",
+      "target": "Jusqu’à trois créatures à portée moyenne."
+    },
+    "qlzv9zPMeefvLene": {
+      "name": "Faveur chaotique",
+      "description": "<p>Pendant la durée du sort, vous lancez un dé du chaos (d6) à chaque fois que vous effectuez un test ou un jet d’attaque. Appliquez un résultat impair comme malus au d20 et un résultat pair comme bonus à ce jet.</p>",
+      "duration": "1 min"
+    },
+    "qoofnGWqnpVyzEqD": {
+      "name": "Vignes entravantes",
+      "description": "<p>Des vignes jaillissent sous les cibles. Chacune d’elles doit réussir un jet d’Agilité ou être immobilisée pendant 1 min. Une cible peut utiliser une action pour se débarrasser de cette affliction en arrachant les vignes.</p>",
+      "target": "Jusqu’à cinq créatures à portée moyenne."
+    },
+    "qrA9aNOZqQvLyevv": {
+      "name": "Chute céleste",
+      "description": "<p>Un grain de lumière blanche apparaît n’importe où à portée et file vers la cible. Quand il atteint ce point, ou s’il rencontre une créature ou un objet solide avant, il explose. Les flammes se répandent dans une sphère de 3 m de rayon centrée sur la cible ou autour d’un point dans l’espace occupé par la créature ou l’objet, infligeant [[/r 2d6 + 2]] dégâts à tout ce qui se trouve dans la zone. Toute créature présente doit faire un test de Force. Une créature est affaiblie pendant 1 round en cas d’échec ou subit juste la moitié des dégâts en cas de succès.</p>",
+      "target": "Un point dans un espace situé à portée moyenne"
+    },
+    "r5iYRZ1CVwtsjhas": {
+      "name": "Double illusoire",
+      "description": "<p>Une copie illusoire de vous apparaît dans la zone d’effet. Cette copie est identique à vous à tous points de vue. Elle utilise vos attributs et vos caractéristiques. Cependant, elle ignore toutes les afflictions et disparaît quand elle est neutralisée, ce qui met un terme à l’effet.</p><p>Quand vous vous déplacez, vous pouvez déplacer votre copie à votre Vitesse dans n’importe quelle direction et avec un mode de déplacement que vous pouvez utiliser. Vous pouvez choisir de lancer des sorts à partir de votre espace ou de celui de votre copie.</p><p>Quand une créature obtient un succès à un jet d’attaque contre vous, vous pouvez utiliser une action déclenchée pour changer immédiatement de position avec votre copie et en faire la cible de l’attaque à votre place.</p>",
+      "area": "Un cube suffisamment volumineux pour accommoder une créature de votre Gabarit, ayant pour origine un point jusqu’à portée courte.",
+      "duration": "1 h ; voir l’effet"
+    },
+    "r8bT7Uluig3LLnx9": {
+      "name": "Lier un génie de la terre",
+      "description": "<p>À la fin du round durant lequel vous avez lancé ce sort, le cube ciblé devient un génie de la terre de Gabarit 2. Vous ne pouvez pas révoquer volontairement ce sort. Quand l’effet cesse, le génie se désagrège, transformant le sol de son espace en terrain difficile.</p><p>Quand le génie apparaît, effectuez un jet d’attaque de Volonté contre sa Volonté. En cas de réussite, le génie est contraint, pendant la durée de l’effet. En cas d’échec, il est hostile.</p>",
+      "target": "Un cube de terre de 2 m de côté, ayant pour origine un point jusqu’à portée longue.",
+      "duration": "1 min"
+    },
+    "rDh1RrMJhFzsX2vi": {
+      "name": "Réécriture de l’instant",
+      "description": "<p>Une fois par round pendant la durée du sort, quand vous lancez un dé, vous pouvez ignorer le résultat et le relancer. Vous devez utiliser le second résultat obtenu.</p>",
+      "duration": "1 min"
+    },
+    "rulNNc7lJFcqCCuk": {
+      "name": "Fléchettes explosives",
+      "description": "<p>Vous projetez du bout des doigts trois fléchettes magiques que vous répartissez comme vous le souhaitez entre différentes cibles. Chaque fléchette touche automatiquement tant qu’il n’y a aucun obstacle entre vous et la cible. Chaque fléchette inflige 1 dégât à sa cible puis explose dans une zone d’effet de 1 m de rayon centrée sur un point de l’espace occupé par la cible. Tout ce qui se trouve dans la zone subit [[/r 1d6 + 1]] dégâts ou la moitié en réussissant un test d’Agilité.</p>",
+      "target": "Jusqu’à trois créatures ou objets jusqu’à portée longue."
+    },
+    "rx6NrMfzQS0m8ofA": {
+      "name": "Armure de pierre",
+      "description": "<p>De la roche se répand sur votre corps pour vous envelopper entièrement. Pour la durée du sort, les jets d’attaque contre votre Défense, votre Force ou votre Agilité sont effectués avec 1 désavantage et les armes vous infligent moitié dégâts.</p><p>Quand l’effet cesse, la roche qui vous enveloppe explose dans une sphère de 1 m de rayon centrée autour d’un point à portée de votre allonge, infligeant à tout ce qui se trouve dans la zone, à part vous, [[/r 1d6]] dégâts par round de concentration au moment de lancer le sort. Chaque autre créature dans la zone doit effectuer un test d’Agilité et, en cas de réussite, elle ne subit que la moitié des dégâts.</p>",
+      "duration": "Concentration, jusqu’à 1 min"
+    },
+    "s4zh2KKwAipbpsvU": {
+      "name": "Replier l’espace",
+      "description": "<p>Lancez [[/r 2d6]]. Vous vous téléportez vers un espace dégagé de votre choix à une distance en mètres égale au total du jet de dés.</p>",
+      "triggered": "Vous pouvez utiliser une action déclenchée pour utiliser ce sort à votre tour. Si vous le faites, lancez [[/r 1d6]] au lieu de [[/r 2d6]] pour déterminer la distance de téléportation."
+    },
+    "sK4GHDXVxPQuvWJs": {
+      "name": "Glyphe d’emprisonnement",
+      "description": "<p>Un anneau de glyphes ardents entoure la cible pendant toute la durée du sort. Si la cible quitte cet espace et traverse les runes, elle doit effectuer un test de Force avec 1 désavantage. Si elle échoue, elle subit [[/r 6d6]] dégâts ou la moitié si elle réussit.</p>",
+      "target": "Une créature vivante que vous pouvez voir jusqu’à portée moyenne.",
+      "duration": "1 min"
+    },
+    "sNFEF4psBHpHJqar": {
+      "name": "Leurre",
+      "description": "",
+      "triggered": "Vous pouvez utiliser une action déclenchée pour lancer ce sort quand une créature obtient un succès à un jet d’attaque contre vous. Le succès devient un échec et vous vous téléportez sur un espace dégagé de votre choix jusqu’à portée courte."
+    },
+    "seJGnZjAGSV8SaKM": {
+      "name": "Guérison supérieure",
+      "description": "<p>Vous touchez chaque cible et octroyez un des avantages suivants (vous pouvez en choisir un différent pour chacune d’elles) :</p><ul><li>Vous la débarrassez d’une des afflictions suivantes : malade, fatigué, affaibli ou empoisonné.</li><li>Vous réduisez sa Folie de 1.</li><li>Vous la débarrassez de tout malus à sa Santé.</li><li>Cette cible soigne un nombre de dégâts égal à sa vitesse de guérison.</li></ul>",
+      "target": "Jusqu’à trois créatures à portée de votre allonge."
+    },
+    "stbxOx5eA3Nsc0N0": {
+      "name": "Effroi",
+      "description": "<p>Effectuez un jet d’attaque d’Intellect contre la Volonté de la cible. En cas de succès, elle est effrayée pendant 1 min. Tant qu’elle est effrayée de cette manière, elle peut utiliser une action pour effectuer un test de Volonté et se débarrasser de cette affliction en cas de succès.</p><p>Jet d’attaque 20+. Tant qu’elle est effrayée de cette manière, la cible est également affaiblie.</p>",
+      "target": "Une créature à portée courte qui peut vous voir"
+    },
+    "tIA6XQoGF5PNviqb": {
+      "name": "Boule de feu",
+      "description": "<p>Vous projetez une sphère de feu. Quand elle atteint la cible, ou si elle rencontre une créature ou un objet solide avant, elle explose. Les flammes se répandent dans une sphère de 5 m de rayon centrée sur la cible ou autour d’un point dans l’espace occupé par la créature ou l’objet, infligeant [[/r 5d6]] dégâts à tout ce qui se trouve dans la zone. Les créatures présentes subissent seulement la moitié des dégâts si elles réussissent un test d’Agilité.</p>",
+      "target": "Un point dans un espace situé à portée longue"
+    },
+    "tbgbIaQ5Cfmlulxv": {
+      "name": "Froid intense",
+      "description": "<p>Un froid mortel se répand dans la zone d’effet gelant instantanément l’eau et les liquides à base d’eau, y compris les potions. Le froid inflige [[/r 7d6]] dégâts à tout ce qui se trouve dans la zone. Chaque créature dans la zone d’effet qui obtient un succès à un test de Force subit la moitié des dégâts. Une créature neutralisée par ces dégâts est congelée et meurt instantanément.</p>",
+      "area": "Un cône de 8 m de long ayant pour origine un point à portée de votre allonge."
+    },
+    "thb6LG9BkKaOb4Ls": {
+      "name": "Envoûtement",
+      "description": "<p>Effectuez un jet d’attaque d’Intellect contre celui de la cible. En cas de succès, elle est déplacée de sa Vitesse.</p><p>Jet d’attaque 20+. Vous regagnez une utilisation de ce sort.</p>",
+      "target": "Une créature qui peut vous voir jusqu’à portée longue."
+    },
+    "thl1IAWrv4HthQC1": {
+      "name": "Expulsion",
+      "description": "<p>Effectuez un jet d’attaque d’Intellect contre l’Agilité de la cible. En cas de succès, vous la touchez et elle est téléportée vers un espace dégagé sur une surface solide que vous pouvez voir jusqu’à portée moyenne.</p><p>Jet d’attaque 20+. L’espace dégagé est situé jusqu’à portée extrême.</p>",
+      "target": "Une créature à portée de votre allonge"
+    },
+    "u8NfRVCi3Pt757sM": {
+      "name": "Forme d’objet",
+      "description": "<p>Vous prenez la forme d’un objet de votre Gabarit ou plus petit pendant la durée du sort ; il est impossible de vous différencier physiquement d’un objet similaire. Vous prenez toutes les décisions concernant l’apparence de votre nouvelle forme. Jusqu’à la fin de l’effet, vous ne pouvez pas parler et vous ne pouvez utiliser qu’une action pour vous concentrer sur ce sort. Cependant, vos percevez les choses en utilisant vos sens normaux. L’effet cesse si vous subissez des dégâts.</p>",
+      "duration": "Concentration, jusqu’à 8 h"
+    },
+    "v0RJw0b3gvPJXxSd": {
+      "name": "Geyser",
+      "description": "<p>Une colonne d’eau bouillante jaillit dans la zone et s’élève de [[/r 2d6]] mètres avant de retomber en pluie dans un rayon égal à la moitié de cette hauteur hors de la zone d’effet. Cela éteint toutes les flammes non protégées.</p><p>La force de l’eau déplace tous les objets non sécurisés de Gabarit 1 ou inférieur de [[/r 1d6]] mètres à l’opposé du point d’origine ; de plus chaque créature dans la zone subit [[/r 2d6 + 2]] dégâts à cause l’eau chaude et doit effectuer un test d’Agilité. Si une créature échoue, elle tombe à terre ou subit juste la moitié des dégâts si elle réussit.</p>",
+      "area": "Un cercle de 5 m de rayon centré sur un point au sol situé jusqu’à portée moyenne."
+    },
+    "vdO1SJZwVSHuR3IL": {
+      "name": "Metallicus",
+      "description": "<p>Votre corps devient comme du métal. Pendant la durée du sort, votre Défense est de 20, vous gagnez un bonus de +10 en Santé, vous êtes immunisé contre les afflictions endormi, aveuglé, assourdi, malade, fatigué et empoisonné et vous ne pouvez pas être déplacé contre votre volonté. De plus, les armes, le feu et le froid vous infligent demi-dégâts. Cependant, vous êtes ralenti et vous ne pouvez pas manger, boire ou nager.</p>",
+      "duration": "1 min"
+    },
+    "vhtItcCOAR1VkN8g": {
+      "name": "Permutation d’âmes",
+      "description": "<p>Vous saisissez l’âme des cibles. Effectuez un jet d’attaque d’Intellect contre la Volonté de chacune d’elles. En cas de succès, la cible est étourdie pendant 1 min.</p><p>Jet d’attaque 20+. La cible est également stupéfaite tant qu’elle est étourdie de cette manière.</p><p>Spécial. Si vous obtenez un succès contre les deux cibles, la permutation d’âme est permanente. Chacune d’elles cumule [[/r 1d6]] en Folie. Chaque âme apporte les éléments suivants à son nouveau corps et, pour le reste, utilise les attributs, caractéristiques et capacités de son hôte :</p><ul><li>Toutes les langues et professions</li><li>Valeurs d’Intellect et de volonté (recalculer sa Perception si nécessaire)</li><li>Valeurs de Folie et de Corruption</li><li>Tous les talents gagnés grâce aux voies</li><li>Toutes les traditions découvertes et tous les sorts connus</li></ul>",
+      "target": "Deux créatures mortelles vivantes jusqu’à portée moyenne."
+    },
+    "viFMkIY2rTrK77Lj": {
+      "name": "Saut temporel",
+      "description": "<p>Vous faites un saut dans l’avenir et disparaissez de l’espace que vous occupez. À n’importe quel moment pendant la durée du sort, vous pouvez réapparaître dans l’espace que vous avez quitté ou, si ce n’est pas possible, dans l’espace dégagé le plus proche. Sinon, vous réapparaissez à la fin du round durant lequel l’effet cesse.</p>",
+      "duration": "1 min"
+    },
+    "vnZPPhYC8RybzWJT": {
+      "name": "Source de vie",
+      "description": "<p>Des énergies curatives se répandent dans la zone d’effet qui se déplace avec vous pendant la durée du sort. Quand une créature vivante dans la zone d’effet soigne des dégâts, elle soigne en plus autant de dégâts que votre Puissance.</p>",
+      "area": "Une sphère de 2 m de rayon centrée sur un point à portée de votre allonge.",
+      "duration": "1 min"
+    },
+    "w6tnOgpFoTzQwDhR": {
+      "name": "Mirage",
+      "description": "<p>Un terrain illusoire apparaît dans la zone d’effet et y reste pendant toute la durée du sort. Il semble réel à tous points de vue. Vous pouvez complètement modifier l’aspect du terrain actuel ou incorporer ses éléments dans l’illusion. L’illusion peut totalement masquer n’importe quel élément du terrain réel et dissimuler ses effets visuels. Par exemple, vous pouvez rendre un feu invisible et complètement masquer la lumière qu’il émet ; cependant, il dégage toujours de la chaleur et inflige des dégâts aux créatures qui entrent en contact avec lui.</p>",
+      "area": "Un cylindre de 5 m de hauteur et de 10 m de rayon centré sur un point situé jusqu’à portée longue.",
+      "duration": "Jusqu’à ce que vous vous soyez reposé.",
+      "sacrifice": "Vous pouvez dépenser une utilisation de ce sort pour lancer fantasme.",
+      "permanence": "Si vous lancez ce sort dans la même zone tous les jours pendant un mois et un jour, l’effet devient permanent."
+    },
+    "w9DeGjzkjncjYEzZ": {
+      "name": "Brouillard givrant",
+      "description": "<p>Un brouillard se répand et obscurcit partiellement la zone pendant la durée de l’effet ou jusqu’à ce qu’il soit dispersé par le vent. Le sol dans la zone devient glissant et est considéré comme un terrain difficile jusqu’à la fin du sort. Pendant toute la durée de l’effet, toute créature présente dans la zone quand vous lancez ce sort ou à la fin d’un round doit effectuer un test de Force. Une créature qui échoue subit [[/r 1d3]] dégâts et elle est ralentie pendant 1 round.</p>",
+      "area": "Un cylindre de 3 m de hauteur et de 5 m de rayon centré sur un point situé jusqu’à portée moyenne.",
+      "duration": "1 min ; voir l’effet"
+    },
+    "w9Kvq8Nl0fIEnyin": {
+      "name": "Pommes de pin incandescentes",
+      "description": "<p>Vous touchez les cibles que vous imprégnez de magie pendant la durée du sort ou jusqu’à ce qu’une créature attaque avec. Un objet imprégné de magie dégage de la lumière dans un rayon de 5 m. Une créature attaque avec en le jetant sur une cible ou un objet à portée moyenne et en effectuant un jet d’attaque d’Agilité contre l’Agilité de cette cible. En cas de succès, la cible subit [[/r 1d6]] dégâts et tout ce qui se trouve à 1 m d’elle subit [[/r 1d3]] dégâts à cause des projections enflammées.</p><p>Jet d’attaque 20+. La cible de l’attaque subit [[/r 1d6]] dégâts supplémentaires.</p>",
+      "target": "Jusqu’à 5 pommes de pin, noisettes ou graines à portée de votre allonge.",
+      "duration": "8 h ; voir l’effet"
+    },
+    "wN0IgYPr297PKyM0": {
+      "name": "Fantasmagorie",
+      "description": "<p>Une illusion visuelle et auditive d’une créature, d’un objet ou d’une force quelconque apparaît dans la zone d’effet. Si vous ne pouvez la voir à la fin du round, l’effet cesse immédiatement.</p><p>Si vous créez l’illusion d’une force dangereuse, comme du feu ou de l’eau bouillante, une créature se déplaçant dans cet espace doit réussir un test de Perception ou subir [[/r 2d6]] dégâts. Si vous créez l’illusion d’une créature, elle se déplace et se comporte de manière réaliste et utilise votre valeur d’Intellect pour ses caractéristiques, sa Défense et sa Santé. Elle ignore toutes les afflictions et disparaît quand elle est neutralisée, ce qui met un terme à l’effet. Pendant la durée du sort, vous pouvez utiliser une action pour déplacer l’illusion jusqu’à 10 m et attaquer une créature à 1 m d’elle qui peut la voir et qui pense qu’elle est réelle. Effectuez un jet d’attaque d’Intellect contre sa Perception. Sur un succès, la cible croit qu’elle a été blessée, brûlée ou affectée d’une autre manière par l’illusion et subit [[/r 2d6]] dégâts.</p><p>Jet d’attaque 20+. La cible subit [[/r 2d6]] dégâts supplémentaires.</p>",
+      "area": "Un cube de 2 m de côté ayant pour origine un point que vous pouvez voir jusqu’à portée courte.",
+      "duration": "1 h ; voir l’effet"
+    },
+    "wa7WVlkqWOxPK04Q": {
+      "name": "Lumière",
+      "description": "<p>Vous touchez la cible et elle irradie de la lumière dans un rayon de 5 m pendant la durée du sort.</p>",
+      "target": "Un objet à portée de votre allonge",
+      "duration": "1 h"
+    },
+    "wcJx3Rf1iV4i3S9p": {
+      "name": "Colère de la nature",
+      "description": "<p>Des vignes comme des fouets jaillissent et infligent [[/r 3d6]] dégâts à chaque cible. Chacune d’elles doit effectuer un test d’Agilité. En cas d’échec, elle est déplacée de 6 m dans la direction de votre choix et immobilisée pendant 1 min. Une cible peut utiliser une action pour se débarrasser de cette affliction en réussissant un test de Force avec 1 désavantage.</p>",
+      "target": "Jusqu’à cinq créatures à portée moyenne."
+    },
+    "xhbSkyImSlDlj9pM": {
+      "name": "Chant de torpeur",
+      "description": "<p>Quand vous lancez ce sort, et quand vous utilisez une action pour vous concentrer dessus, choisissez une créature jusqu’à portée courte de vous qui peut vous entendre. La cible doit effectuer un test de Volonté. Si elle réussit, elle est immunisée contre cette utilisation du sort ; si elle échoue, elle est ralentie pendant la durée de l’effet. Tant qu’elle est ainsi ralentie, la créature est aussi fatiguée. Si la créature ne peut pas vous entendre à la fin d’un round, elle se débarrasse de ces afflictions. Si la cible est déjà ralentie, à la place elle s’endort pendant 1 h.</p>",
+      "duration": "Concentration, jusqu’à 1 min"
+    },
+    "xlXEOJkmXlVw2Zkr": {
+      "name": "Verrou magique",
+      "description": "<p>La cible se ferme et se verrouille. Pendant la durée du sort, elle ne peut être ouverte par des moyens non magiques par une autre créature que vous mais elle peut être détruite.</p>",
+      "target": "Un objet à portée courte qui peut être ouvert ou fermé comme une porte, un coffre ou une fenêtre.",
+      "duration": "1 min"
+    },
+    "xvg2UxeDkwcgPT21": {
+      "name": "Protection contre les flammes",
+      "description": "<p>Vous touchez une cible. Pour toute la durée de l’effet, elle ne subit que la moitié des dégâts du feu.</p>",
+      "target": "Une créature à portée de votre allonge",
+      "duration": "1 h"
+    },
+    "xxnYFDQxE482EBW5": {
+      "name": "Forme animale améliorée",
+      "description": "<p>Vous prenez la forme d’un grand animal, d’un animal moyen, d’un petit animal ou d’un animal très petit pendant la durée du sort. Si vous prenez la forme d’un animal petit ou très petit, vous pouvez gagner un des traits suivants : grimpeur, volant ou nageur.</p>",
+      "duration": "1 h"
+    },
+    "xzgBSRjXkfeSuY4n": {
+      "name": "Malléabilité",
+      "description": "<p>Vous touchez une cible. Pendant la durée de l’effet, elle peut se déplacer à pleine Vitesse sur les terrains difficiles, traverser des espaces occupés par d’autres créatures quel que soit leur Gabarit et franchir librement des ouvertures d’au moins 2,5 cm de large. De plus, pendant la durée de l’effet, la cible ne peut tomber à terre et elle est immunisée contre les afflictions saisi, immobilisé et ralenti.</p>",
+      "target": "Une créature à portée de votre allonge",
+      "duration": "1 h"
+    },
+    "y3oUC6MwiCCIAOai": {
+      "name": "Zone sanctifiée",
+      "description": "<p>Un dôme transparent et immobile scintille pendant toute la durée du sort. Rien de ce qui se trouve à l’extérieur ne peut le franchir et la zone à l’intérieur n’est pas prise en compte pour les effets de zone de sorts. Les créatures et les objets à l’intérieur sont cachés de tout ce qui se trouve à l’extérieur sauf vous. Une créature à l’intérieur peut librement quitter le dôme, mais elle ne peut plus y entrer. L’effet cesse immédiatement si une créature à l’intérieur du dôme effectue une attaque.</p>",
+      "area": "Un hémisphère de 3 m de rayon centré sur un point au sol situé jusqu’à portée courte.",
+      "duration": "Concentration, jusqu’à 1 min ; voir l’effet"
+    },
+    "y4CGE5XAElOiFQcA": {
+      "name": "Pluie acide",
+      "description": "<p>Une pluie acide verte tombe de nuages qui couvrent la zone et y demeurent pendant la durée du sort. La zone d’effet est également partiellement obscurcie par ce phénomène. Quand vous lancez le sort, et à la fin de chaque round pendant toute sa durée, la pluie inflige [[/r 5d6]] dégâts à tout ce qui se trouve dans la zone et qui ne bénéficie pas d’un abri. Chaque créature qui subit des dégâts de cette manière doit effectuer un test de Force et, en cas de réussite, elle ne subit que la moitié des dégâts.</p>",
+      "area": "Un cylindre de 2 m de hauteur et de 5 m de rayon centré sur un point situé jusqu’à portée longue.",
+      "duration": "1 min"
+    },
+    "yCQTweW3toyHD2dR": {
+      "name": "Portails de gloire",
+      "description": "<p>Un portail de 1 m de large s’ouvre au centre de chaque cube et y reste pendant la durée du sort. Les portails n’ont aucune épaisseur ; tout ce qui est placé dans l’un ressort instantanément par l’autre. Quand l’effet cesse, les portails se ferment, tranchant tout ce qui pourrait se trouver entre eux (à la discrétion du MJ).</p>",
+      "area": "Deux cubes, d’un mètre de côté chacun, jusqu’à portée moyenne",
+      "duration": "1 min"
+    },
+    "yG4X5Q1qRsmI3ZRo": {
+      "name": "Puissance entropique",
+      "description": "<p>Subissez 3 dégâts. Pendant la durée du sort, les créatures qui subissent des dégâts à cause d’un sort d’attaque encaissent [[/r 1d6]] dégâts supplémentaires.</p>",
+      "duration": "1 min",
+      "triggered": "Quand vous lancez un sort d’attaque qui inflige des dégâts, vous pouvez utiliser une action déclenchée pour lancer ce sort, qui se termine à la fin du round. Si la cible subit des dégâts à cause de votre sort, elle encaisse [[/r 2d6]] dégâts supplémentaires."
+    },
+    "yIuwiEEekv7laUOk": {
+      "name": "Réparation",
+      "description": "<p>Vous touchez la cible et réparez tous les dégâts qu’elle a subis.</p>",
+      "target": "Un objet de Gabarit 3 ou plus petit qui a subi au moins 1 dégât, mais qui n’est pas détruit, et qui est à portée de votre allonge."
+    },
+    "yOoP7050heaXqsuU": {
+      "name": "Immolation",
+      "description": "<p>La créature se consume et menace de prendre feu. Faites un jet d’attaque de Volonté contre son Agilité. Si l’attaque réussit, elle subit [[/r 4d6]] dégâts et prend feu.</p><p>Jet d’attaque 20+. La cible subit [[/r 2d6]] dégâts supplémentaires.</p>",
+      "target": "Une créature ou un objet à portée moyenne."
+    },
+    "yRIpEI567UxwX8y5": {
+      "name": "Pas bondissant",
+      "description": "<p>Pendant la durée du sort, vous gagnez un bonus de +4 en Vitesse et vous pouvez utiliser une action pour sauter de [[/r 3d6]] mètres en retombant sur vos pieds sans problème.</p>",
+      "duration": "1 min"
+    },
+    "yYwBTsem1Tk1W4SR": {
+      "name": "Contrôle des flammes",
+      "description": "<p>La cible prend feu ou vous éteignez le feu qui la consume.</p>",
+      "target": "Un objet inflammable de Gabarit 1 ou inférieur jusqu’à portée courte."
+    },
+    "ygAynMFSv01BfCoD": {
+      "name": "Fuite",
+      "description": "<p>Vous vous déplacez à quatre fois votre Vitesse sans déclencher d’attaques gratuites</p>",
+      "triggered": "Vous pouvez utiliser une action déclenchée pour lancer ce sort quand vous subissez des dégâts. Si vous le faites, à la place, vous vous déplacez au double de votre Vitesse sans déclencher d’attaques gratuites."
+    },
+    "ytAOfocsajMh7jek": {
+      "name": "Site sécurisé",
+      "description": "<p>Un champ invisible apparaît autour de la zone d’effet. Pendant la durée du sort, vous savez si une créature de Gabarit 1/2 ou supérieur entre dans la zone. Cela vous réveille si vous êtes endormi.</p>",
+      "area": "Une sphère de 10 m de rayon centrée sur un point à portée de votre allonge.",
+      "duration": "6 h"
+    },
+    "yy9tKS109MKBM5Ed": {
+      "name": "Champ miroir",
+      "description": "<p>Une barrière semblable à un miroir occupe la zone d’effet pendant la durée du sort, obscurcissant totalement ce qui se trouve derrière. Quand une créature entre dans son espace, lancez [[/r 1d6]]. Sur un résultat pair, la créature se déplace de 1 m à travers la barrière vers un espace dégagé de l’autre côté (elle choisit la direction). Sur un résultat impair, la créature est téléportée vers un espace dégagé de votre choix sur une surface horizontale solide située à un nombre de mètres égal au résultat obtenu.</p>",
+      "area": "Une ligne façonnable de 10 m de long, 5 m de hauteur et 1 m de large ayant pour origine un point situé jusqu’à portée moyenne.",
+      "duration": "1 min"
+    },
+    "zHljZgUOEApFCv0d": {
+      "name": "Déguisement",
+      "description": "<p>Vous touchez la cible pour lui conférer un déguisement illusoire qui dure pendant la durée du sort. Vous décidez à quoi ressemble ce déguisement. Vous pouvez augmenter ou réduire la taille et le poids apparents de la cible de 25 %. Vous pouvez modifier l’apparence des vêtements et des équipements mais l’effet ne masque pas le bruit qu’ils font normalement.</p>",
+      "target": "Une créature à portée de votre allonge",
+      "duration": "1 h"
+    },
+    "zIFSf54kIjpBBxhO": {
+      "name": "Double temporel",
+      "description": "<p>Vous faites apparaître une version future de vous-même dans la zone et elle y reste pendant toute la durée du sort. Jusqu’à la fin de l’effet, vous et votre double temporel pouvez chacun effectuer un tour à chaque round mais le paradoxe provoqué par votre coexistence vous impose 1 désavantage à vos jets d’attaque et à vos tests.</p><p>Vous avez des attributs et des caractéristiques identiques. Bien que vous puissiez agir séparément, vous ne comptez que pour une seule créature en ce qui concerne les effets que vous pouvez subir ou les ressources dont vous disposez. Ainsi, si l’un subit des dégâts ou cumule de la Folie, cela s’applique aux deux personnages. Si l’un dépense l’utilisation d’un sort, cette utilisation est dépensée pour les deux. Si l’un de vous subit une affliction ou bénéficie d’un effet persistant, l’affliction, ou l’effet, s’applique au deux.</p><p>Votre double temporel dispose des mêmes équipements que vous portez ou que vous transportez, avec deux exceptions. Premièrement, si vous ou votre double dépensez ou consommez un objet, comme une potion de soins, cet objet est perdu pour tous les deux. De plus, si vous avez une relique, vous devez indiquer lequel des deux en est équipé. Si vous ou votre double temporel êtes neutralisé, l’autre l’est aussi. Si vous mourez, votre double disparaît.</p><p>Quand l’effet cesse, vous disparaissez tous les deux. Vous réapparaissez 1 min plus tard dans l’espace occupé par votre double futur ou, si ce n’est pas possible, dans l’espace le plus proche</p>",
+      "area": "Un cube suffisamment grand pour contenir une créature de votre Gabarit à partir d’un point situé jusqu’à un nombre de mètres égal à votre Vitesse.",
+      "duration": "1 min ; voir l’effet"
+    },
+    "zNEqFr6yHEc9yDY5": {
+      "name": "Fusion",
+      "description": "<p>Effectuez un jet d’attaque d’Intellect contre la Volonté de la cible. Sur un succès, elle est téléportée sur un espace dégagé dans une surface solide avec laquelle elle fusionne partiellement jusqu’à portée moyenne de vous. Elle subit [[/r 6d6]] dégâts et elle est immobilisée. Le seul moyen de se débarrasser de cette affliction est soit de détruire l’objet avec lequel la cible a fusionné, soit d’utiliser une action pour trancher le membre emprisonné (ce qui inflige des dégâts à la cible égaux à deux fois sa vitesse de guérison).</p><p>Jet d’attaque 20+. La cible subit [[/r 2d6]] dégâts supplémentaires et elle est également stupéfaite pendant 1 round.</p>",
+      "target": "Une créature à portée moyenne"
+    },
+    "zPbljRJ3cFcr7A3s": {
+      "name": "Choc",
+      "description": "<p>Faites un jet d’attaque de Volonté contre son Agilité. Vous effectuez le jet d’attaque avec 1 avantage si elle est constituée de métal ou si elle en porte sur elle. S’il réussit, la cible subit [[/r 1d6]] dégâts. Jet d’attaque 20+. La cible est également étourdie jusqu’à la fin du round.</p>",
+      "target": "Une créature vivante à portée courte"
+    }
+  },
+  "mapping": {
+    "description": "system.description",
+    "target": "system.target",
+    "area": "system.area",
+    "duration": "system.duration",
+    "triggered": "system.triggered",
+    "requirements": "system.requirements",
+    "sacrifice": "system.sacrifice",
+    "permanence": "system.permanence"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "label": "Demonlord - Macros Joueur",
+  "folders": {},
+  "entries": {
+    "01XhF99RNUqVwMiW": {
+      "name": "Soin",
+      "command": "// Soigne le jeton sélectionné selon le Taux de guérison complet ou la moitié.\nlet applyChanges = false;\nnew Dialog({\n    title: game.i18n.localize('DL.MacroHealTitle'),\n    content: `\n    <form>\n      <div class=\"form-group\">\n        <label>` + game.i18n.localize('DL.MacroHealChoose') + `</label><br/>\n</div>\n<div class=\"form-group\">\n<table>\n<tr>\n<td>\n<input type=\"radio\" name=\"healingrate\" id=\"true\" checked />\n                        <label for=\"true\">` + game.i18n.localize('DL.MacroHealHealingRate') + `</label>\n<td/>\n</tr>\n<tr>\n<td>\n<input type=\"radio\" name=\"healingrate\" id=\"false\" />\n                        <label for=\"false\">` + game.i18n.localize('DL.MacroHealHalfHealingRate') + `</label>\n<td/>\n</tr>\n</table>\n                        \n                        \n</div>\n    </form>\n    `,\n    buttons: {\n        yes: {\n            icon: \"<i class='fas fa-check'></i>\",\n            label: game.i18n.localize('DL.MacroHealApplyHealing'),\n            callback: () => applyChanges = true\n        },\n        no: {\n            icon: \"<i class='fas fa-times'></i>\",\n            label: game.i18n.localize('DL.MacroCancel')\n        },\n    },\n    default: \"yes\",\n    close: html => {\n        if (applyChanges) {\n            let fullHealingRate = html.find('[name=\"healingrate\"]')[0].checked || false;\n            canvas.tokens.controlled.forEach(t => t.actor.applyHealing(fullHealingRate))\n        }\n    }\n}).render(true);"
+    },
+    "5Bom3CgdNePXO8gj": {
+      "name": "Jet de Perception",
+      "command": "// Sélectionnez votre jeton et lancez un jet de Perception (test de caractéristique)\r\ngame.demonlord.rollAttributeMacro(\"perception\");"
+    },
+    "64PseoFypvhm8CAB": {
+      "name": "Jet d’Intellect",
+      "command": "// Sélectionnez votre jeton et lancez un jet d’Intellect (test de caractéristique)\ngame.demonlord.rollAttributeMacro(\"intellect\");"
+    },
+    "95dWImeE0NQD0A1d": {
+      "name": "Jet d’Initiative",
+      "command": "// Pour les joueurs. Permet de choisir un tour rapide ou lent.\n\ngame.demonlord.rollInitMacro();"
+    },
+    "EpDNdwKLSf8dqkmm": {
+      "name": "Jet de Force",
+      "command": "// Sélectionnez votre jeton et lancez un jet de Force (test de caractéristique)\ngame.demonlord.rollAttributeMacro(\"strength\");"
+    },
+    "SRjQKReHFabSgwKL": {
+      "name": "Jet d’Agilité",
+      "command": "// Sélectionnez votre jeton et lancez un jet d’Agilité (test de caractéristique)\ngame.demonlord.rollAttributeMacro(\"agility\");"
+    },
+    "bqWQeb7LGa0whHQD": {
+      "name": "Repos",
+      "command": "// Fait se reposer le personnage. Réinitialise les utilisations de talents, de sorts et vous soigne selon votre Taux de guérison.\n\nfor (let token of canvas.tokens.controlled) {\n    token.actor.restActor();\n}"
+    },
+    "nZs1QCHXS5Uv7Qlr": {
+      "name": "Jet de Défi",
+      "command": "// Outil joueur.\n// Permet de choisir l’attribut à tester et d’ajouter des bonus/malus.\n\ngame.demonlord.macros.makeChallengeRollMacro()"
+    },
+    "qukXqHLYYWZZ63Qx": {
+      "name": "Jet de Volonté",
+      "command": "// Sélectionnez votre jeton et lancez un jet de Volonté (test de caractéristique)\r\ngame.demonlord.rollAttributeMacro(\"will\");"
+    }
+  }
+}

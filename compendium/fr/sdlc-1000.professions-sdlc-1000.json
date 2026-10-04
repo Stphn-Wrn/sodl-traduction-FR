@@ -1,0 +1,319 @@
+{
+  "label": "Professions - Core",
+  "folders": {
+    "Religious": "Religious",
+    "Common": "Common",
+    "Academic": "Academic",
+    "Criminal": "Criminal",
+    "Martial": "Martial",
+    "Wilderness": "Wilderness"
+  },
+  "entries": {
+    "1kyZvSWb7gtMsJHA": {
+      "name": "Hermit"
+    },
+    "1vWAvN2s39vydSbY": {
+      "name": "Murderer"
+    },
+    "29wgrQAfkmS13cUI": {
+      "name": "Science"
+    },
+    "2At7GKgfXGBmwavw": {
+      "name": "Spy"
+    },
+    "2GenoMaKe5ddOc2s": {
+      "name": "Nomad or vagabond"
+    },
+    "2W78F2qJJUDaO5Zv": {
+      "name": "Forger"
+    },
+    "2h1RX0OenNM2GAzX": {
+      "name": "Woodcutter"
+    },
+    "30AxngRqH3ptZnBc": {
+      "name": "Musicien"
+    },
+    "3SHxwQPIElgh175E": {
+      "name": "Drover or herder"
+    },
+    "4HcRWfJqqLiLgny3": {
+      "name": "Etiquette & customs"
+    },
+    "4KRrraqxMJUXfnPx": {
+      "name": "Pirate"
+    },
+    "4Nn604M7j0SSS0f6": {
+      "name": "Slave"
+    },
+    "51wkSOPKNCTtmUzz": {
+      "name": "Hunter"
+    },
+    "5t3YY7EjuVUKnPRP": {
+      "name": "Beggar"
+    },
+    "6FFgIsEf2qDoE3iN": {
+      "name": "Constable"
+    },
+    "8mwaz0PC62Nbvgdv": {
+      "name": "Engineering"
+    },
+    "9C4Ndh2NTqOWeRhq": {
+      "name": "Merchant"
+    },
+    "9qcPuBq2I7xjcwnk": {
+      "name": "Politics"
+    },
+    "AH4GD2YzjWR0bFDR": {
+      "name": "Peasant conscript"
+    },
+    "Au6faWuwtTS6VYX6": {
+      "name": "Prostitute"
+    },
+    "Az1BletP9YxmYhsz": {
+      "name": "Barbarian"
+    },
+    "BH5IolgZAaXRkQd9": {
+      "name": "Sailor"
+    },
+    "CLz4wbLP05WdDEE4": {
+      "name": "Temple Ward"
+    },
+    "DvZ6H8dOsJj73FkT": {
+      "name": "Cultist"
+    },
+    "ESk8rSvVEcx7sKJh": {
+      "name": "Detective"
+    },
+    "EjarsbMqErAB29dL": {
+      "name": "Astrology"
+    },
+    "Ey6tIGRkVxUEiksD": {
+      "name": "Fisher or whaler"
+    },
+    "FtE8HPZKFwk7sZ00": {
+      "name": "Boatman or ferryman"
+    },
+    "GBcparXim4K9xJFW": {
+      "name": "Heretic"
+    },
+    "GYkN3y6XDdFLTxjA": {
+      "name": "Geography"
+    },
+    "GiQqnMSAoMmz7Mdo": {
+      "name": "Architecture"
+    },
+    "H5MeH1GktNZkab9m": {
+      "name": "Marine"
+    },
+    "I4NxWhHOKUiALiAr": {
+      "name": "Shopkeeper"
+    },
+    "IZJ7Dbz4VV2XYbPZ": {
+      "name": "Pickpocket"
+    },
+    "Il3B1zoATqLmG7uy": {
+      "name": "Thug"
+    },
+    "JEPzgvzHJBq6xruH": {
+      "name": "Pilgrim"
+    },
+    "JNWlby5ARgBRKwY9": {
+      "name": "Guide"
+    },
+    "Jv2dhSZ37rLw8XTt": {
+      "name": "History"
+    },
+    "KIWzBdciMP3LgAMO": {
+      "name": "Tracker"
+    },
+    "Lo4xmgV3CKC5fIrh": {
+      "name": "Heraldry"
+    },
+    "LwL8PfC1cHAevxTL": {
+      "name": "Medicine"
+    },
+    "M3PdDFm7nSwdlhNC": {
+      "name": "Urchin"
+    },
+    "MVyoLX8MAatCPfGz": {
+      "name": "Pioneer"
+    },
+    "MorKfAbcyFMjxvPZ": {
+      "name": "Trapper"
+    },
+    "N0722zaYAWxSPJeQ": {
+      "name": "War"
+    },
+    "NDUMsNE6i2MS7E82": {
+      "name": "Charlatan or confidence artist"
+    },
+    "Nvyne09Tzdm0hZQQ": {
+      "name": "Gatherer"
+    },
+    "ODmqFqkJ7Qey9G8g": {
+      "name": "Initiate of the Old Faith"
+    },
+    "OGGPPhlTBak6ALBj": {
+      "name": "Prospector"
+    },
+    "Oj35NtimBzv3GjAx": {
+      "name": "Carouser or rake"
+    },
+    "PFi3wfqexkCFLgjI": {
+      "name": "Philosophy"
+    },
+    "QzePuhknJZbn5x5o": {
+      "name": "Minister"
+    },
+    "Rn33Yxqb3XiJqJAe": {
+      "name": "Servant or valet"
+    },
+    "S8D0G7V8AhvCJTO5": {
+      "name": "Agitator"
+    },
+    "T1XKZNKkmpzZX4jd": {
+      "name": "Burglar"
+    },
+    "T4Xtfk2nGpSc4XZC": {
+      "name": "Animal trainer"
+    },
+    "THnPZj7r42Kt2GK4": {
+      "name": "Fence"
+    },
+    "U729P2MuerMs1MAz": {
+      "name": "Bandit, brigand, or highway robber"
+    },
+    "UhiOXXaMQQEkY4ue": {
+      "name": "Gambler"
+    },
+    "UssLYtD89mI0FWti": {
+      "name": "Artisan"
+    },
+    "V5CjhVIAiUvvrBAQ": {
+      "name": "Groom"
+    },
+    "VL1PLF5trFihR8XZ": {
+      "name": "Poacher or rustler"
+    },
+    "VS8JL9zYuE7VT1p0": {
+      "name": "Street Preacher"
+    },
+    "WD4g33JtqwQazAVV": {
+      "name": "Folklore"
+    },
+    "YgDhyZsviiMfsVzr": {
+      "name": "Farmer"
+    },
+    "ZiNW0JpbuamYPYA8": {
+      "name": "Cook"
+    },
+    "ZmHzvQVyV4dYxZsS": {
+      "name": "Artist"
+    },
+    "bvsefOmWf3hDTDhE": {
+      "name": "Literature"
+    },
+    "dbpadZTsPUUPpA6F": {
+      "name": "Squire"
+    },
+    "dswNLxhiUCobDpso": {
+      "name": "Magic"
+    },
+    "dzQrd3s9aoaekV40": {
+      "name": "Refugee"
+    },
+    "ePdmZhAITlD75Ykm": {
+      "name": "Butcher"
+    },
+    "fNOlpnBYg6W8lHA2": {
+      "name": "Law"
+    },
+    "fT4oNMm5kQYeLDHn": {
+      "name": "Teamster"
+    },
+    "fZulS7yq2finKiAE": {
+      "name": "Outlaw"
+    },
+    "gB5myqAkVb4zNZ3g": {
+      "name": "Occult"
+    },
+    "h5nRigPRooOGC7QI": {
+      "name": "Grave robber"
+    },
+    "hKt4DEAgFpugFMSH": {
+      "name": "Fanatic"
+    },
+    "hkUNwiNFY0iFnZvP": {
+      "name": "Devotee"
+    },
+    "hmhbtL2EZXghErYa": {
+      "name": "Exile"
+    },
+    "iO0hpao37IrNHgw6": {
+      "name": "Jailer"
+    },
+    "j3dl7ynQFBtfjzu5": {
+      "name": "Torturer"
+    },
+    "jKn4J4MVXNh9qOB9": {
+      "name": "Patroller"
+    },
+    "k3hNFYyxu23yq5ET": {
+      "name": "Saboteur"
+    },
+    "kGveGCMu6coMDO6i": {
+      "name": "Laborer"
+    },
+    "kdXzEFIHYRvcb0oz": {
+      "name": "Militia member"
+    },
+    "kdcjQb9A4VS9U69z": {
+      "name": "Acolyte of the New God"
+    },
+    "n3m1gaIOnlcAp64I": {
+      "name": "Informant"
+    },
+    "py6TFHLi2oCruG6C": {
+      "name": "Inquisitor's Henchman"
+    },
+    "rS9ddNH4LaxkJCJ0": {
+      "name": "Evangelist"
+    },
+    "rsPeTvKvomSvxEjI": {
+      "name": "Apothecary or healer"
+    },
+    "s6yFBi0FbJMimikk": {
+      "name": "Miner"
+    },
+    "sqFpGpSfNvHd8Vyg": {
+      "name": "Entertainer"
+    },
+    "t3h7AenMK5CW19e0": {
+      "name": "Navigation"
+    },
+    "tDMeLivpaHgzXESZ": {
+      "name": "Nature"
+    },
+    "ujAsZh2FWJ1YRU1a": {
+      "name": "Mercenary"
+    },
+    "vnS4XKjdtCnc25xy": {
+      "name": "Soldier"
+    },
+    "y37ckxF2hXjTCvwC": {
+      "name": "Religion"
+    },
+    "yOKmStiXx1mAzQX7": {
+      "name": "Officer"
+    },
+    "yXFFnIHcGzhrIwC9": {
+      "name": "Spelunker"
+    },
+    "yoNgxOfgoIJ58029": {
+      "name": "Guard"
+    },
+    "zVOGP62jFE3FxsKP": {
+      "name": "Rebel or terrorist"
+    }
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "label": "Paths - Core",
+  "folders": {
+    "novice": "novice",
+    "expert": "expert",
+    "master": "master"
+  },
+  "entries": {
+    "0BROB8qBZmVNMA2h": {
+      "name": "Théurge"
+    },
+    "0OPTG3TIgAwqH5TZ": {
+      "name": "Protecteur"
+    },
+    "0TGo2K6D9JhZfWEb": {
+      "name": "Infiltrateur"
+    },
+    "0jtKCJacJgQbzqX5": {
+      "name": "Enchanteur"
+    },
+    "1GL0qk16YiNEsxAv": {
+      "name": "Voyageur"
+    },
+    "1HQmPYAY37Fb5oU4": {
+      "name": "Sorcelieur"
+    },
+    "1HvWBgc1OEozDeqV": {
+      "name": "Forgerunes"
+    },
+    "1e4k5ZM52TxFCMcT": {
+      "name": "Empoisonneur"
+    },
+    "212fWSGkx3IjOkJd": {
+      "name": "Technomancien"
+    },
+    "3bWphmfLbdRNVEzr": {
+      "name": "Templier"
+    },
+    "3tvUrSsJlfsAJksw": {
+      "name": "Guérisseur"
+    },
+    "5gEMp10AytIUkiW9": {
+      "name": "Roublard"
+    },
+    "5uvMqoph6oT53twW": {
+      "name": "Géomancien"
+    },
+    "842Fxc6FpkwKCLMw": {
+      "name": "Voleur"
+    },
+    "8gmTtTl1UDz48blJ": {
+      "name": "Seigneur de l'orage"
+    },
+    "90PjDr2yMVQ3yYeI": {
+      "name": "Cuirassé"
+    },
+    "9AYZBijkl4EROcga": {
+      "name": "Aumônier"
+    },
+    "AZ9nNkZCtf4gEwHf": {
+      "name": "Paladin"
+    },
+    "Ahjkk1RjuRohGCFJ": {
+      "name": "Ténébriste"
+    },
+    "Aon7mikpiC3onRyS": {
+      "name": "Brute"
+    },
+    "DLqDV7muW6WJ7Iq9": {
+      "name": "Cavalier"
+    },
+    "DNryAkjRFpU2iai5": {
+      "name": "Barde"
+    },
+    "E04iSpO6WN1KHB0w": {
+      "name": "Berserker"
+    },
+    "EyWxBU6s0EqK84Y6": {
+      "name": "Pyromancien"
+    },
+    "I3fC6T5ajvlRep3k": {
+      "name": "Combattant"
+    },
+    "IDJZ66CYT66X7t5u": {
+      "name": "Illusionniste"
+    },
+    "JeCtxBEZ0aXvqaKX": {
+      "name": "Inquisiteur"
+    },
+    "KMPygnqbmUTiMfHw": {
+      "name": "Semeur de mort"
+    },
+    "L1wnXNdEvy1NcMdA": {
+      "name": "Derviche"
+    },
+    "LagNmlKKmTRTWo1w": {
+      "name": "Exécuteur"
+    },
+    "MroRn0smPmylempt": {
+      "name": "Ingénieur"
+    },
+    "N78w7W3AI1KUDa0l": {
+      "name": "Mage"
+    },
+    "NSkT4MhYjGrqUdEr": {
+      "name": "Lame"
+    },
+    "OECPoYwbai5N264q": {
+      "name": "Arcaniste"
+    },
+    "OfWqQyi7EYeaLU0M": {
+      "name": "Savant"
+    },
+    "P1K1JQqQsKphbxS1": {
+      "name": "Conquérant"
+    },
+    "PAgdqxb8ZK60wKyn": {
+      "name": "Astromancien"
+    },
+    "PHs20JVjo3RVY4Io": {
+      "name": "Champion"
+    },
+    "Pk3e2lepjxe91a57": {
+      "name": "Apocalypte"
+    },
+    "Qfe7aRF5KNhJ2s21": {
+      "name": "Fléaumancien"
+    },
+    "RWkk4tobNTHhAXHh": {
+      "name": "Rôdeur"
+    },
+    "RsCC2TodGxmLGgaM": {
+      "name": "Maraudeur"
+    },
+    "TB0mqFAgSXfGYZiw": {
+      "name": "Chronomancien"
+    },
+    "TdOeEqHpmlEkuSCm": {
+      "name": "Faiseur de miracles"
+    },
+    "WFJo9Z1FXCDbw3k7": {
+      "name": "Transmuteur"
+    },
+    "XqORA8B9UJXrvI8w": {
+      "name": "Abjurateur"
+    },
+    "XqZ8Q445wBNnUukO": {
+      "name": "Sorcier"
+    },
+    "ZMQqNxTmu55Dvv9q": {
+      "name": "Magicien"
+    },
+    "ZMiA4XYAwo4HJfKr": {
+      "name": "Chevalier-mage"
+    },
+    "ZugjcL3ZwVzoFGFG": {
+      "name": "Invocateur"
+    },
+    "bfZXm5EkTr432WBI": {
+      "name": "Sentinelle"
+    },
+    "dbvegbZA1dFlFWI3": {
+      "name": "Pistolero"
+    },
+    "e81LWznMpgT3IIrB": {
+      "name": "Maître d'armes"
+    },
+    "eAUHU9SFi1t4T3NK": {
+      "name": "Druide"
+    },
+    "eVPgsFw5GtiFm01r": {
+      "name": "Zélote"
+    },
+    "fVOBhFLzrHbDGG7v": {
+      "name": "Myrmidon"
+    },
+    "fsWoIY0obvc3c7y9": {
+      "name": "Diplomate"
+    },
+    "gpPKNgJgauptrCPR": {
+      "name": "Vengeur"
+    },
+    "gpPp4iLOu3QakPLJ": {
+      "name": "Aéromancien"
+    },
+    "hBWxHkubPFIYMU64": {
+      "name": "Hydromancien"
+    },
+    "jk2IfS4zLDJjglIB": {
+      "name": "Explorateur"
+    },
+    "jk3yIU1Mryt8Nei7": {
+      "name": "Acrobate"
+    },
+    "js7eekQNbDcBS3Fj": {
+      "name": "Imprécateur"
+    },
+    "l1N3oBRsMTFcv4iP": {
+      "name": "Oracle"
+    },
+    "md3wSMoLc0PHBDue": {
+      "name": "Métamorphe"
+    },
+    "pgsu7dS1CPg9Hiyc": {
+      "name": "Mécamancien"
+    },
+    "pzCMULiVbfcHEBBO": {
+      "name": "Destructeur"
+    },
+    "r8EgnjuMTIulwdTV": {
+      "name": "Éclaireur"
+    },
+    "rOJ7pz0pPy3RipVT": {
+      "name": "Tireur d'élite"
+    },
+    "rUCPfM48CfIWDLhR": {
+      "name": "Augure"
+    },
+    "t4pBy99GeiIo1wq4": {
+      "name": "Guerrier"
+    },
+    "tXUBZQRpDFQctnOz": {
+      "name": "Thaumaturge"
+    },
+    "tYluyW4rD8X7h7Mm": {
+      "name": "Homme des bois"
+    },
+    "tg8XShhG9XecnV7E": {
+      "name": "Magus"
+    },
+    "wJdxMy3y1Lph2bBy": {
+      "name": "Maître des bêtes"
+    },
+    "x16TNdDxa9GlSsCu": {
+      "name": "Duelliste"
+    },
+    "x7MW5OgHDYybnI0O": {
+      "name": "Ecclésiastique"
+    },
+    "xHbCb2XQ6muSgghF": {
+      "name": "Gladiateur"
+    },
+    "xvJUuT1eXSoqi213": {
+      "name": "Touche-à-tout"
+    },
+    "y5KRufomMXTY0EkC": {
+      "name": "Ensorceleur"
+    },
+    "y6D9m1VyB1PnK5w1": {
+      "name": "Exorciste"
+    },
+    "yCPIPeKhjSlA5Pmw": {
+      "name": "Assassin"
+    },
+    "yypz01puZVaCaAT7": {
+      "name": "Prêtre"
+    },
+    "zswNP3XswWRyUWAj": {
+      "name": "Nécromancien"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "label": "Demonlord - Macros MJ",
+  "folders": {},
+  "entries": {
+    "6PMGvBHfkWXTsLJV": {
+      "name": "Demander un Jet de Défi",
+      "command": "// Outil MJ\n// Permet de demander un jet de défi aux jetons sélectionnés. Chaque joueur reçoit un message privé l’invitant à effectuer le jet.\n\ngame.demonlord.macros.requestChallengeRollMacro()"
+    },
+    "FrOEtPO0X0FtNn31": {
+      "name": "Modifier la Vision des Jetons",
+      "command": "// Outil MJ\n// Modifie les paramètres de vision de tous les jetons sélectionnés.\n\ngame.demonlord.macros.applyVisionMacro()"
+    },
+    "LpxoIW6QlGVq7CAq": {
+      "name": "Gestionnaire de Richesse",
+      "command": "// Gestionnaire de richesse\n\ngame.demonlord.macros.wealthManagerMacro()"
+    },
+    "m3RJhHOGDUTIQkuU": {
+      "name": "Demander un Jet d’Initiative",
+      "command": "// Outil MJ\n// Permet de demander un jet d’initiative aux jetons sélectionnés. Chaque joueur reçoit un message privé l’invitant à effectuer le jet.\n\ngame.demonlord.macros.requestInitiativeRollMacro()"
+    }
+  }
+}

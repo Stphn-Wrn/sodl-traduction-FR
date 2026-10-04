@@ -1,0 +1,2460 @@
+{
+  "label": "Creatures - Core",
+  "folders": {},
+  "entries": {
+    "0B4n2SXi0Vt9GYJe": {
+      "name": "Medium Monster",
+      "tokenName": "Medium Monster",
+      "items": {
+        "QcTSiXuklcH2UL51": {
+          "name": "Immunité"
+        },
+        "gKBO95YrtIQ4AO4L": {
+          "name": "Frenzied Attack"
+        },
+        "HTBTqheJqq7FR0eX": {
+          "name": "Armes Naturelles"
+        }
+      }
+    },
+    "0RiKNTSHLoDaSLPn": {
+      "name": "Large Spider",
+      "tokenName": "Large Spider",
+      "items": {
+        "bNSIyw5T3uZKdTdR": {
+          "name": "Scuttle"
+        },
+        "0pMN8dfB4RIYdDVm": {
+          "name": "Crocs"
+        },
+        "71gog3fNWiNush1Q": {
+          "name": "Poison (effect)"
+        }
+      }
+    },
+    "0T7hKfhO3sgSa3Bd": {
+      "name": "Basilisk",
+      "tokenName": "Basilisk",
+      "items": {
+        "DhgZxVs6CV1TShbS": {
+          "name": "Captivating Appearance"
+        },
+        "koOvFqKQMkm7D6di": {
+          "name": "Killing Gaze"
+        },
+        "hasvyBZg5z6qdhXg": {
+          "name": "Crocs"
+        },
+        "oftpIzWZ3agRB5TG": {
+          "name": "Poison (effect)"
+        }
+      }
+    },
+    "0vkbkvbxtxgbscVt": {
+      "name": "Jack-O'-Lantern",
+      "tokenName": "Jack-O'-Lantern",
+      "items": {
+        "fVeGMIAKkvoTu0Pm": {
+          "name": "Immunité"
+        },
+        "J1b7e3t2OuZOqGK0": {
+          "name": "Vulnérabilité au Fer"
+        },
+        "P8uv8YR6tXj50XCz": {
+          "name": "Mind-Bending Horror"
+        },
+        "cpQ343rLWZ6ZaipU": {
+          "name": "Burst of Flame"
+        },
+        "UmjMofFAh4TLrSve": {
+          "name": "Fey Fire"
+        },
+        "3ZCiqA7QNGhH6j13": {
+          "name": "Elude"
+        }
+      }
+    },
+    "1HYh33ZUvntfNa8B": {
+      "name": "Rot Maiden",
+      "tokenName": "Rot Maiden",
+      "items": {
+        "YnZUHPtl80jnnmD5": {
+          "name": "Immunité"
+        },
+        "uU0z8P7wsbkbpXuP": {
+          "name": "Enticing Spores"
+        },
+        "APzhnU9lTKqcKaSA": {
+          "name": "Double Attaque"
+        },
+        "6bUJdhjKhMp3ZLnJ": {
+          "name": "Part the Veil"
+        },
+        "z2j5nlZOp5uMSBS8": {
+          "name": "Filament"
+        },
+        "sQKsXM8LqTSpSWO1": {
+          "name": "Poison (effect)"
+        }
+      }
+    },
+    "1OjNx9uWn02TFnDE": {
+      "name": "Tomb Scarab Swarm",
+      "tokenName": "Tomb Scarab Swarm",
+      "items": {
+        "F65dAzM1Sol1Efzz": {
+          "name": "Immunité"
+        },
+        "rOQ5ZysuBRYEdOEH": {
+          "name": "Multitude"
+        },
+        "YwZxPsV6D6MmQlV3": {
+          "name": "Revulsion"
+        },
+        "Zbd2c9hVJ8a2jkKV": {
+          "name": "Swarming Scarabs"
+        },
+        "vc9QZ5qDMrNNBbda": {
+          "name": "Mandibles"
+        },
+        "eInNiwwoM9pS2zcq": {
+          "name": "Invasion (effect)"
+        }
+      }
+    },
+    "1gkGT7YOjeGK59cS": {
+      "name": "Harpy",
+      "tokenName": "Harpy",
+      "items": {
+        "QQiofcPnwKf09GXe": {
+          "name": "Vulnérabilité au Fer"
+        },
+        "XDVuLmCAoablqdxO": {
+          "name": "Seductive Song"
+        },
+        "xgBIF2N9200sTqrj": {
+          "name": "Talons and Teeth"
+        },
+        "GhUNe3mJwMiZIufg": {
+          "name": "Painful Compulsion (effect)"
+        }
+      }
+    },
+    "2OljzwRKTg0dVbwc": {
+      "name": "Chainbound",
+      "tokenName": "Chainbound",
+      "items": {
+        "FZbcUWdoDfxI2zYA": {
+          "name": "Immunité"
+        },
+        "3vP4r7okhrtmAHxw": {
+          "name": "Spawn Corp Animés"
+        },
+        "6tDc6rcxIZ9EytYq": {
+          "name": "Stench"
+        },
+        "IBZeKRgjvno9ooZc": {
+          "name": "Double Attaque"
+        },
+        "pFcfAH05k7Pg2KPA": {
+          "name": "Chain"
+        },
+        "UqpeBefmKHzbnZB5": {
+          "name": "Drag (effect)"
+        }
+      }
+    },
+    "2VQp6AfmTUBljW30": {
+      "name": "Huge Animal",
+      "tokenName": "Huge Animal",
+      "items": {
+        "zkwSgPusURRkqVlE": {
+          "name": "Armes Naturelles"
+        }
+      }
+    },
+    "2ixYszSxjHl1jaO4": {
+      "name": "Goblin",
+      "tokenName": "Goblin",
+      "items": {
+        "ib6IQxVo2NOry2ev": {
+          "name": "Immunité"
+        },
+        "Fd9LqdC7OUkrFPAf": {
+          "name": "Vulnérabilité au Fer"
+        },
+        "v0gxERjGtICGZMNF": {
+          "name": "Sneaky"
+        },
+        "IKW5PIIDvDDg5bjp": {
+          "name": "Spring Away"
+        },
+        "ZCTOSsSuIxyRZYzd": {
+          "name": "Arc"
+        },
+        "Dfh1XC6QHpN5MCvR": {
+          "name": "Spear"
+        }
+      }
+    },
+    "2sUoPBc2St7FnyZr": {
+      "name": "Emerald Darter",
+      "tokenName": "Emerald Darter",
+      "items": {
+        "6yGDCMvCdnYRKrHz": {
+          "name": "Darting Bite"
+        },
+        "GlZuobrgBylJ2BMx": {
+          "name": "Mandibles"
+        }
+      }
+    },
+    "3cGwT6uNPWYYEqNn": {
+      "name": "Manticore",
+      "tokenName": "Manticore",
+      "items": {
+        "x1Ed8Rh9MijeSpV7": {
+          "name": "Immunité"
+        },
+        "bz6AMkIqygbGDEUF": {
+          "name": "Rend"
+        },
+        "OS407QZOfMiSn1X6": {
+          "name": "Swift Sting"
+        },
+        "hwYeeOkPqXqig1ts": {
+          "name": "Griffe"
+        },
+        "mByTGF2z3gfdCaLo": {
+          "name": "Teeth"
+        },
+        "oQmI1Ecpukgj94Sd": {
+          "name": "Stinger"
+        },
+        "exG1YyH33of1jmkL": {
+          "name": "Poison (effect)"
+        }
+      }
+    },
+    "4dXkRgBCPJSRltaJ": {
+      "name": "Stone Worm",
+      "tokenName": "Stone Worm",
+      "items": {
+        "C8FM3StVtKCFW3iz": {
+          "name": "Immunité"
+        },
+        "pPkgD21wSTyqN2vi": {
+          "name": "Vomit"
+        },
+        "SUSZxitknfbpqSpC": {
+          "name": "Tunnel"
+        },
+        "CDN10KUaaW9ooPjU": {
+          "name": "Teeth"
+        },
+        "hvgnSl7Yde8nP0hh": {
+          "name": "Swallow (effect)"
+        }
+      }
+    },
+    "4pIXPJLiLMSEVLvl": {
+      "name": "Elf",
+      "tokenName": "Elf",
+      "items": {
+        "d9MSL78GiWdMbguU": {
+          "name": "Immunité"
+        },
+        "06vWETi2WqEoIlUf": {
+          "name": "Spell Defense"
+        },
+        "adBpYmXR0g8IRnQj": {
+          "name": "Vulnérabilité au Fer"
+        },
+        "OwO5OJOoOszstMoR": {
+          "name": "Swift Shot"
+        },
+        "bosXhCM4wyQS6UNe": {
+          "name": "Twin Strike"
+        },
+        "Ru9NBT01I0fYeXm6": {
+          "name": "Countless Doors"
+        },
+        "nTNxugWKjYFjaicV": {
+          "name": "Bone Scimitar"
+        },
+        "SqlvDxZf3bXDV4hq": {
+          "name": "Arc"
+        },
+        "ivmtFTizWAlM9sBk": {
+          "name": "Arc"
+        },
+        "fzodJbZXctxTQoBE": {
+          "name": "Bone Long Knife"
+        }
+      }
+    },
+    "77LjlAIm4xbo6fka": {
+      "name": "Medium Construct",
+      "tokenName": "Medium Construct",
+      "items": {
+        "ofdGBwAWLufwBTtj": {
+          "name": "Immunité"
+        },
+        "9NoBaI4ZqtLlJ5Z7": {
+          "name": "Double Attaque"
+        },
+        "YkeIiH7LiIPw0Xz3": {
+          "name": "Appendage"
+        }
+      }
+    },
+    "7W5gFlRT5Fzvom0v": {
+      "name": "Warg",
+      "tokenName": "Warg",
+      "items": {
+        "expnRgwgHAM7Zyyy": {
+          "name": "Vicious Bite"
+        },
+        "iE0GIKmF6FZBwDUx": {
+          "name": "Battleaxe"
+        },
+        "n83VY1LNNDq3whBl": {
+          "name": "Spear"
+        }
+      }
+    },
+    "9rirbbdsn6YQwrLM": {
+      "name": "Vampire",
+      "tokenName": "Vampire",
+      "items": {
+        "ogiRLlWLt1eD6Fo7": {
+          "name": "Immunité"
+        },
+        "6UMTtGtjaksoeJok": {
+          "name": "Résilience"
+        },
+        "MZBTtF5RFQpU8yzE": {
+          "name": "Celestial Vulnerability"
+        },
+        "6XVIpGUh19RdsPaf": {
+          "name": "Peur des Dieux"
+        },
+        "5ySuOfkomTa4pSJO": {
+          "name": "Pass for Human"
+        },
+        "OkXERVdn41e6VwJR": {
+          "name": "Brûler par le Soleil"
+        },
+        "TOMTW4w2CRmEHSD0": {
+          "name": "Double Attaque"
+        },
+        "MqXWlgY7CsclvAw3": {
+          "name": "Blood Drain"
+        },
+        "82IM5c9H1TI8jkbY": {
+          "name": "Flowing Mist"
+        },
+        "YbCBHrehWS7xiuWU": {
+          "name": "Crocs"
+        },
+        "oQXo7Xg6LfINun2S": {
+          "name": "Griffes"
+        }
+      }
+    },
+    "BHwIvUiUBzYMGh0C": {
+      "name": "Medium Demon",
+      "tokenName": "Medium Demon",
+      "items": {
+        "p8iqTebtaKFSSAy2": {
+          "name": "Immunité"
+        },
+        "WPS6VnAv2FQYGDVI": {
+          "name": "Spell Defense"
+        },
+        "DlOK5AGGh5lbHiLW": {
+          "name": "Demonic Shadows"
+        },
+        "g8oF1FmwtkKhWhzo": {
+          "name": "Demonic Talent"
+        },
+        "7yqqwL0lGkQ277DL": {
+          "name": "Frenzied Attack"
+        },
+        "IqpSKRiVezCye4mJ": {
+          "name": "Void Step"
+        },
+        "yo00uibBb7pwxNg1": {
+          "name": "Armes Naturelles"
+        }
+      }
+    },
+    "BfMtmN9GTQ9Buk4y": {
+      "name": "Broodling",
+      "tokenName": "Broodling",
+      "items": {
+        "plynan4tSgNZRbKR": {
+          "name": "Immunité"
+        },
+        "R2DIImVPfyC2DtMm": {
+          "name": "Swarm Form"
+        },
+        "RoTBBEiWHlmfIFOD": {
+          "name": "Stinging Cloud"
+        },
+        "asyN5pdc142yVUgI": {
+          "name": "Biting Cloud"
+        },
+        "Gy7VyqGGaKUP4cRB": {
+          "name": "Sudden Dissolution"
+        },
+        "zcfx4SdYkNhsuGgQ": {
+          "name": "Touch"
+        },
+        "Wv4wQ3CzBqUBjv2g": {
+          "name": "Shed Skin"
+        }
+      }
+    },
+    "D6HbXUviLbG0QpwY": {
+      "name": "Shrieking Eel",
+      "tokenName": "Shrieking Eel",
+      "items": {
+        "qR8tcTHJUkk5fTKL": {
+          "name": "Shriek"
+        },
+        "yEUH16NXNZwHUlX4": {
+          "name": "Crocs"
+        }
+      }
+    },
+    "DhH1sA7L1TNyehxc": {
+      "name": "Huge Demon",
+      "tokenName": "Huge Demon",
+      "items": {
+        "G5swBKomg2gM2b7P": {
+          "name": "Immunité"
+        },
+        "UGQ4AX7xmc2buG2L": {
+          "name": "Spell Defense"
+        },
+        "0Sdu6OskSKE31EnW": {
+          "name": "Demonic Shadows"
+        },
+        "IMsmjMVTvY4Yy3Um": {
+          "name": "Demonic Talent"
+        },
+        "z4Pd0z5bZ7N7fJPz": {
+          "name": "Frenzied Attack"
+        },
+        "caJuhUsziDPyw6D6": {
+          "name": "Void Step"
+        },
+        "TbrqZj7HhCCwqGmT": {
+          "name": "Armes Naturelles"
+        }
+      }
+    },
+    "EBPZTakVp3EOaOsn": {
+      "name": "Automate",
+      "tokenName": "Automate",
+      "items": {
+        "61QgA4R7e8hJq3jz": {
+          "name": "Immunité"
+        },
+        "4wNDiIJHH1Gq2PFT": {
+          "name": "Clef"
+        },
+        "gLpCHRlTg8oZCbE2": {
+          "name": "Grind the Gears"
+        },
+        "th4VHv9qi2NBFjVv": {
+          "name": "Epée"
+        }
+      }
+    },
+    "EVxAGn1cjOhK61WF": {
+      "name": "Ogre",
+      "tokenName": "Ogre",
+      "items": {
+        "El3qSnaIeqBi2MJZ": {
+          "name": "Devour"
+        },
+        "Fjf3HYPvP1dORgYv": {
+          "name": "Vomit"
+        },
+        "JnXNxVgS4roMiiGI": {
+          "name": "Morningstar"
+        }
+      }
+    },
+    "Ez3YCIVU7bpmRXtW": {
+      "name": "Golem",
+      "tokenName": "Golem",
+      "items": {
+        "wSmXImBTIChAfJE7": {
+          "name": "Immunité"
+        },
+        "10BA59sinttrrZCl": {
+          "name": "Résistance aux Dégats"
+        },
+        "zbpPVx67ptC4Trn4": {
+          "name": "Spell Defense"
+        },
+        "ccdJhgCQ56BfKyUZ": {
+          "name": "Unstoppable Advance"
+        },
+        "OXrYcThZUjYVExMk": {
+          "name": "Double Attaque"
+        },
+        "UHcMwYi7k7tCcO5e": {
+          "name": "Fist"
+        }
+      }
+    },
+    "FKNbfF2VVJKzNk91": {
+      "name": "Zombie",
+      "tokenName": "Zombie",
+      "items": {
+        "2Wdmdo81hPKNehhX": {
+          "name": "Immunité"
+        },
+        "5xxM3Qh7OLcM1pCP": {
+          "name": "Tir dans la tête"
+        },
+        "uh6eIMIJnb218KF0": {
+          "name": "Sluggish"
+        },
+        "6CnUSKaA5HpXreBV": {
+          "name": "Shuffling Advance"
+        },
+        "Rnr0doPVKcjAT6Hr": {
+          "name": "Grasping Hands"
+        },
+        "2CGsKmNdb1t30SNY": {
+          "name": "Teeth"
+        },
+        "rpGBpyc7AL0gYM57": {
+          "name": "Zombie Plague (effect)"
+        }
+      }
+    },
+    "FpGJ29BVJk88ztyv": {
+      "name": "Vampire Bat",
+      "tokenName": "Vampire Bat",
+      "items": {
+        "iNA8NKpZMdWsqiWO": {
+          "name": "Teeth"
+        },
+        "Ta2SvMxGhsje0UYj": {
+          "name": "Bleed (effect)"
+        },
+        "7NOCMNOU4vnVDuNc": {
+          "name": "Blood Drain (effect)"
+        }
+      }
+    },
+    "GIbcof7RDNwnkWdw": {
+      "name": "Cockatrice",
+      "tokenName": "Cockatrice",
+      "items": {
+        "4rxlkVnu4nuYZZfo": {
+          "name": "Beak"
+        },
+        "tWViUxueifnTs2nW": {
+          "name": "Petrify (effect)"
+        }
+      }
+    },
+    "GW3GFhOMWHXIhyHF": {
+      "name": "Promethean",
+      "tokenName": "Promethean",
+      "items": {
+        "7YLZlQdjYROmsuvA": {
+          "name": "Immunité"
+        },
+        "0vm3zlr6eGWJo4vQ": {
+          "name": "Spell Defense"
+        },
+        "SSagrxydTQvYG2K0": {
+          "name": "Empowered by Lightning"
+        },
+        "Nq9E9Fd9XvtZSj8m": {
+          "name": "Enrage"
+        },
+        "ghZTfOt5QhpbhQ8A": {
+          "name": "Double Attaque"
+        },
+        "7Wkl8Ag042DWH98X": {
+          "name": "Fist"
+        }
+      }
+    },
+    "Ggn0pLJJUSzR0QC5": {
+      "name": "Large Animal",
+      "tokenName": "Large Animal",
+      "items": {
+        "j1aXgmwTuIxVICCz": {
+          "name": "Armes Naturelles"
+        }
+      }
+    },
+    "Gkd8oz2xMLkMfOut": {
+      "name": "Tiny Demon",
+      "tokenName": "Tiny Demon",
+      "items": {
+        "UCU5KT5oHKxwKgJM": {
+          "name": "Immunité"
+        },
+        "IKqlieha5cMQsawL": {
+          "name": "Spell Defense"
+        },
+        "ddkbtnnanPbd6y96": {
+          "name": "Demonic Shadows"
+        },
+        "ggx7KKfmnf7ViHdl": {
+          "name": "Frenzied Attack"
+        },
+        "r9DV7IL9gfnzI48f": {
+          "name": "Void Step"
+        },
+        "oD62O6ellMJY0Drl": {
+          "name": "Armes Naturelles"
+        }
+      }
+    },
+    "H61e3wK3G3dJjfZC": {
+      "name": "Stranglevine",
+      "tokenName": "Stranglevine",
+      "items": {
+        "BT3yVW9sSNonb6MO": {
+          "name": "Immunité"
+        },
+        "riLCBNwWZiTKNGDa": {
+          "name": "Fire Vulnerability"
+        },
+        "mxcTy2MOUsh6w91U": {
+          "name": "Intoxicating Scent"
+        },
+        "3xuvIFbXtIIcf2xQ": {
+          "name": "Storm of Vines"
+        },
+        "m26MuiEN8KtdgEld": {
+          "name": "Vines"
+        }
+      }
+    },
+    "HT73Sby9g7elahqG": {
+      "name": "Spriggan",
+      "tokenName": "Spriggan",
+      "items": {
+        "WgdFVVsAxDuZoVgO": {
+          "name": "Immunité"
+        },
+        "eUB1DDnt772Fz8gQ": {
+          "name": "Fire Vulnerability"
+        },
+        "dxoBzQg4Lqs7jxNH": {
+          "name": "Thorny Vine"
+        },
+        "TIBEjTjSPNeXYN1D": {
+          "name": "Camouflage"
+        },
+        "Ecvp2WHb6d639AVv": {
+          "name": "Griffe"
+        },
+        "o5Oux7dOmrcqUj8M": {
+          "name": "Thorn"
+        }
+      }
+    },
+    "IZaT8kU70FCLkH3W": {
+      "name": "Hood",
+      "tokenName": "Hood",
+      "items": {
+        "eTktSVb37kJgDPDs": {
+          "name": "Hide in Shadows"
+        },
+        "fRO1EsgEE8gZ5XaC": {
+          "name": "Shadow Step"
+        },
+        "2LZO34yd3JwY4bMB": {
+          "name": "Long Knife"
+        },
+        "4iLzwWj8TixF6UMV": {
+          "name": "Hand Arbalète"
+        },
+        "JjNvFbDqR0Gebeni": {
+          "name": "Dagger"
+        },
+        "BgYlAMVfXTWgXs8w": {
+          "name": "Nightfall Blade"
+        },
+        "LweKSZSJEry9HdGX": {
+          "name": "Darkness"
+        },
+        "wip0MqwFhl1JdBUU": {
+          "name": "Shadow Dart"
+        },
+        "6sHkQpCkdq5v4SP4": {
+          "name": "Shadow Poison (effect)"
+        }
+      }
+    },
+    "IwNiVQzUHTcwoXFY": {
+      "name": "Large Demon",
+      "tokenName": "Large Demon",
+      "items": {
+        "OYveNaXGSLQZIKcM": {
+          "name": "Immunité"
+        },
+        "TC51jrXs9SfADWzf": {
+          "name": "Spell Defense"
+        },
+        "skVnEWfeG5fSdlNG": {
+          "name": "Demonic Shadows"
+        },
+        "kIyo1rT27eSKUm8p": {
+          "name": "Demonic Talent"
+        },
+        "xYrOQty8Dxjc9cJk": {
+          "name": "Frenzied Attack"
+        },
+        "116R01qs0gm6V1Ad": {
+          "name": "Void Step"
+        },
+        "7mAlTlWrQ6gaBaTr": {
+          "name": "Armes Naturelles"
+        }
+      }
+    },
+    "J3HKCeNf1UMBGxUF": {
+      "name": "Cheval de guerre",
+      "tokenName": "Cheval de guerre",
+      "items": {
+        "jmohB6NmD8WYXFLf": {
+          "name": "Immunité"
+        },
+        "hxnbUF6ZNOl77zIE": {
+          "name": "Galop"
+        },
+        "NgD4v9OPj6XXV7DN": {
+          "name": "Sabots et Dents"
+        }
+      }
+    },
+    "JUYTzl75uzSHfS0u": {
+      "name": "Ours",
+      "tokenName": "Ours",
+      "items": {
+        "6XNAGTtDmeWKIkra": {
+          "name": "Maul"
+        },
+        "tpMyA5llBxOdpRVC": {
+          "name": "Griffe"
+        }
+      }
+    },
+    "KkflSN9xmEmIOjuC": {
+      "name": "Redcap",
+      "tokenName": "Redcap",
+      "items": {
+        "jJ76MeZL8AQkIx6g": {
+          "name": "Immunité"
+        },
+        "ePFYdVAiTwiA3WRy": {
+          "name": "Spell Defense"
+        },
+        "T65d6Wi2RwJbdlxU": {
+          "name": "Vulnérabilité au Fer"
+        },
+        "acpQJgOR1j9mmpIO": {
+          "name": "Speedy Boots"
+        },
+        "Mnv8WcoCTbxkK2xj": {
+          "name": "Murderous Pursuit"
+        },
+        "wzdyvw6ySAHVB6z9": {
+          "name": "Rasoir"
+        }
+      }
+    },
+    "Lp8jGNLKI8Lhcaqp": {
+      "name": "Reen",
+      "tokenName": "Reen",
+      "items": {
+        "BJjK61jidX084JzA": {
+          "name": "Immunité"
+        },
+        "JVW4P3O4oe5EREGA": {
+          "name": "Detonation"
+        },
+        "IXtumcOe1Ere24iN": {
+          "name": "Tentacle Flurry"
+        },
+        "rCSD5aLVd8KwA40X": {
+          "name": "Evade and Strike"
+        },
+        "Gtk66eVXoLd1WFxc": {
+          "name": "Tentacle"
+        }
+      }
+    },
+    "MvYySASm4CcvtbRl": {
+      "name": "Corp Animé",
+      "tokenName": "Corp Animé",
+      "items": {
+        "R2W5QZ9BCKgwrzYu": {
+          "name": "Immunité"
+        },
+        "5urAnqV3fl8CbIWY": {
+          "name": "Fist"
+        }
+      }
+    },
+    "N9xwKU3MQDq7JC5Y": {
+      "name": "Nain",
+      "tokenName": "Nain",
+      "items": {
+        "k8rup9CiIEbKjBnl": {
+          "name": "Constitution Robuste"
+        },
+        "mHWT3OfZpNBY0AVL": {
+          "name": "Shake It Off"
+        },
+        "I1FtCrCkD3wCZkHQ": {
+          "name": "Pick"
+        },
+        "EHQ5i1VXlkUnTrnz": {
+          "name": "Arbalète"
+        }
+      }
+    },
+    "OZo3b9I8WGByn5Uw": {
+      "name": "Fury",
+      "tokenName": "Fury",
+      "items": {
+        "DktzJq15OSplWG76": {
+          "name": "Immunité"
+        },
+        "C4UpxcFqvxdyVslO": {
+          "name": "Spell Defense"
+        },
+        "6MTGtTLLvsAd896a": {
+          "name": "Vulnérabilité au Fer"
+        },
+        "Af7UFBHdtVuJroij": {
+          "name": "Dread"
+        },
+        "dYgLFqYkVjKCvYl3": {
+          "name": "Twin Strike"
+        },
+        "FGVPrg6YqWCA6PNU": {
+          "name": "Oath of Ruin"
+        },
+        "lrUFCG3a4MExldXT": {
+          "name": "Blazing Blade"
+        },
+        "KxU6XsRZutD5OsQK": {
+          "name": "Burning Arc"
+        }
+      }
+    },
+    "P0dEdWCaAhXDU7cM": {
+      "name": "Changelin",
+      "tokenName": "Changelin",
+      "items": {
+        "kB8MkEdatnypToiJ": {
+          "name": "Immunité"
+        },
+        "S38tKPNKCfvmTVFa": {
+          "name": "Vulnérabilité au Fer"
+        },
+        "AZnnbiOIE1aAqQpX": {
+          "name": "Steal Identity"
+        },
+        "XHxqGm4eZPH59GaX": {
+          "name": "Cimeterre de Bronze"
+        },
+        "390lWPynVPyImROM": {
+          "name": "Arc"
+        }
+      }
+    },
+    "PBYg59QjCdgEce9w": {
+      "name": "Manes",
+      "tokenName": "Manes",
+      "items": {
+        "5A0KscNsjAzLoJRp": {
+          "name": "Immunité"
+        },
+        "S6Dd8uOXPWJR4zhg": {
+          "name": "Eternal"
+        },
+        "3oFiOnjZksjsW13J": {
+          "name": "Griffes and Teeth"
+        }
+      }
+    },
+    "PggaPUhS0EVjOVXO": {
+      "name": "Dragon",
+      "tokenName": "Dragon",
+      "items": {
+        "Gfja92INHH8L8nvB": {
+          "name": "Immunité"
+        },
+        "OSO8b7sC4RrsYCev": {
+          "name": "Spell Defense"
+        },
+        "nDSKcbRoCHq6Lafa": {
+          "name": "Flurry of Attacks"
+        },
+        "SLgewqrVXslUBfat": {
+          "name": "Spew Fire"
+        },
+        "Ebh5ddatxIs1qiQ1": {
+          "name": "Griffes"
+        },
+        "nN4FvVnWDQQeTems": {
+          "name": "Teeth"
+        }
+      }
+    },
+    "QFq8rvkQH3U7Yyhn": {
+      "name": "Dread Mother",
+      "tokenName": "Dread Mother",
+      "items": {
+        "u0m8N5pMU5ct2S8T": {
+          "name": "Flutter"
+        },
+        "Up1lPFkZUzgMRWCE": {
+          "name": "Implant Eggs"
+        },
+        "zP895fOB2WG44s4U": {
+          "name": "Tongue"
+        },
+        "P3819dUKU7iv2iKj": {
+          "name": "Poison (effect)"
+        }
+      }
+    },
+    "QU3qyPjzRRRDQbBU": {
+      "name": "Gorgon",
+      "tokenName": "Gorgon",
+      "items": {
+        "Ll7nIkXqBG3wcVPr": {
+          "name": "Immunité"
+        },
+        "w9bdVDDFZpalaBqW": {
+          "name": "Petrifying Appearance"
+        },
+        "9F3Zk7kvVStht2G0": {
+          "name": "Epic Recovery"
+        },
+        "oKr6FBaHhd1x3cy8": {
+          "name": "Petrifying Gaze"
+        },
+        "Mx3P4WoXIaiZi7Dv": {
+          "name": "Epic Adversary"
+        },
+        "13t6kRjPbIRuD1XU": {
+          "name": "Twin Strike"
+        },
+        "OvZzJrBHq7zSb1oG": {
+          "name": "Serpent Hair"
+        },
+        "ZAP4ctaci0QHlyPx": {
+          "name": "LongArc"
+        },
+        "JtZaxS5wdYrayPXj": {
+          "name": "Scimitar"
+        }
+      }
+    },
+    "QohpL5g0yFpAVEMO": {
+      "name": "Leshy",
+      "tokenName": "Leshy",
+      "items": {
+        "jq9nRlA3aobdOiol": {
+          "name": "Immunité"
+        },
+        "CXJdH9pVAYXZ4wnA": {
+          "name": "Fire Vulnerability"
+        },
+        "GZTkLYq7dXoWJoI8": {
+          "name": "Tree Form"
+        },
+        "pgFKGAavbiNTVleK": {
+          "name": "Double Attaque"
+        },
+        "UsOJPd1AhJ9d2v5c": {
+          "name": "Awaken the Forest"
+        },
+        "Vr5X4VV0UykFI1LL": {
+          "name": "Branch"
+        },
+        "ZaixkBvOLhBYkwnT": {
+          "name": "Boulder"
+        }
+      }
+    },
+    "RMznVGlLbuvnf2V2": {
+      "name": "Grave Thrall",
+      "tokenName": "Grave Thrall",
+      "items": {
+        "7iI2i8CCZwLqfhyB": {
+          "name": "Immunité"
+        },
+        "ODTiM9nlzK8qmPC7": {
+          "name": "Sunlight Weakness"
+        },
+        "ibDgfdlllsvgL8IN": {
+          "name": "Epée"
+        }
+      }
+    },
+    "Rd209aSiXtYX0x7n": {
+      "name": "Orc",
+      "tokenName": "Orc",
+      "items": {
+        "Hup6JjRPlrxqsDmb": {
+          "name": "Rising Fury"
+        },
+        "q13t0kV9M5qhrTbO": {
+          "name": "Battleaxe"
+        },
+        "jOoDlfvEjznnLirB": {
+          "name": "Spear"
+        }
+      }
+    },
+    "RdkmO4bjUbtqZ52g": {
+      "name": "Large Monster",
+      "tokenName": "Large Monster",
+      "items": {
+        "aCj3aLnOghlROuj3": {
+          "name": "Immunité"
+        },
+        "j2kCoRYnrh0K56K9": {
+          "name": "Frenzied Attack"
+        },
+        "SO2XG0GgRtQyqKdY": {
+          "name": "Massive Attack"
+        },
+        "bFCgSPL3GKETG9B8": {
+          "name": "Armes Naturelles"
+        }
+      }
+    },
+    "Rpwbyoqn2fI1gl1r": {
+      "name": "Horned Ogre",
+      "tokenName": "Horned Ogre",
+      "items": {
+        "uA8CMkP8haiuOfSG": {
+          "name": "Immunité"
+        },
+        "6w1HGqzxudeTb5zB": {
+          "name": "Double Attaque"
+        },
+        "aRc0ue8SyXfp34NF": {
+          "name": "Devour"
+        },
+        "bZ3lcd2qMYYGmAXB": {
+          "name": "Vomit"
+        },
+        "dFkFEN2sMSe2MtFB": {
+          "name": "Hammer"
+        },
+        "A9uQlIEqUKy6sM5J": {
+          "name": "Long Blade"
+        },
+        "bR2jTdscJZF7WksK": {
+          "name": "Stagger (effect)"
+        }
+      }
+    },
+    "TE3UWq50xGD3Gl3b": {
+      "name": "Wraith",
+      "tokenName": "Wraith",
+      "items": {
+        "Mqrzw7XR0GFPkfbc": {
+          "name": "Immunité"
+        },
+        "LnJzNFzS29zF99Yv": {
+          "name": "Insubstantial"
+        },
+        "JIOfBYzzKMqzI6cm": {
+          "name": "Brûler par le Soleil"
+        },
+        "MnJHxKkUV8YROknN": {
+          "name": "Ethereal Wind"
+        },
+        "ltfn3f8ABHKF5CRc": {
+          "name": "Shadow Blade"
+        },
+        "tPgDT2JGhBzVypj5": {
+          "name": "Lasting Harm (effect)"
+        }
+      }
+    },
+    "TOxPpKiizpSr4FfT": {
+      "name": "Killing Mist",
+      "tokenName": "Killing Mist",
+      "items": {
+        "rHtufirlz17OmgYu": {
+          "name": "Immunité"
+        },
+        "ITo8G3A9gWpeYEEG": {
+          "name": "Misty Form"
+        },
+        "VrHiYPZvwylvBj6G": {
+          "name": "Flowing Fog"
+        },
+        "MqcR9iCSbNuG2XLJ": {
+          "name": "Bewildering Mist"
+        },
+        "VMa1hq0pq3L4eSLH": {
+          "name": "Feed"
+        }
+      }
+    },
+    "UUcLJVH6eMqHYIp9": {
+      "name": "Ooze",
+      "tokenName": "Ooze",
+      "items": {
+        "5Cwcq1a5t3Ilo6wO": {
+          "name": "Immunité"
+        },
+        "Sf6Mko3jTw8rjZ8i": {
+          "name": "Split"
+        },
+        "5i1clLeXhpmuxjeS": {
+          "name": "Amorphouse"
+        },
+        "OW8sFMZSw2BkLzLg": {
+          "name": "Swift Attack"
+        },
+        "8dc00CyEOMPPfnRD": {
+          "name": "Elude"
+        },
+        "UzsBdDHVHF5l1DXS": {
+          "name": "Pseudopod"
+        }
+      }
+    },
+    "UnAffYFYocnfVwPL": {
+      "name": "Huge Construct",
+      "tokenName": "Huge Construct",
+      "items": {
+        "77nz7QYAa3vkf80h": {
+          "name": "Immunité"
+        },
+        "jGqrsE4ZPExaZOqt": {
+          "name": "Double Attaque"
+        },
+        "UkDva3kpKnLzKXKo": {
+          "name": "Appendage"
+        }
+      }
+    },
+    "UvwQCa6z6gid4iHw": {
+      "name": "Bone Machine",
+      "tokenName": "Bone Machine",
+      "items": {
+        "3Oc9V3AEkM1FR2ee": {
+          "name": "Immunité"
+        },
+        "mK0nSKA3CRmeIbjO": {
+          "name": "Flying Bones"
+        },
+        "LEtetL9sqtIBDLsb": {
+          "name": "Malleable Body"
+        },
+        "pAfCnW0BChTtCE0T": {
+          "name": "Triple Attack"
+        },
+        "01OyUKAq5zGevqMl": {
+          "name": "Assimilate Bones"
+        },
+        "I63gyVsS6j5MpQMt": {
+          "name": "Jagged Bones"
+        }
+      }
+    },
+    "VENE4xORdqyNZLGl": {
+      "name": "Barghest",
+      "tokenName": "Barghest",
+      "items": {
+        "1EP0WFTQDqeZfDv6": {
+          "name": "Immunité"
+        },
+        "zBHJN07oCXrswAyS": {
+          "name": "Résilience"
+        },
+        "qbyDyKsspsifZGq3": {
+          "name": "Spell Defense"
+        },
+        "Bd6GuFB1auXo6NZc": {
+          "name": "Vulnérabilité au Fer"
+        },
+        "VGwfl4BBzWAiMFOp": {
+          "name": "Consumed by Hellfire"
+        },
+        "k7919FlTmnwU2oaV": {
+          "name": "Life Sense"
+        },
+        "SOMerCkWBBxnhNxs": {
+          "name": "Brûler par le Soleil"
+        },
+        "gq2pjPHvE3Ak6eyV": {
+          "name": "Hell Awaits"
+        },
+        "rIUfFf1aTsYFs6Y3": {
+          "name": "Fires of Hell"
+        },
+        "BEKMHzxPPXOafRMf": {
+          "name": "Hound of Hell"
+        },
+        "djqc3kc5jahtpwW5": {
+          "name": "Teeth"
+        }
+      }
+    },
+    "VMr1AEdwnAqdX2Yq": {
+      "name": "Huge Monster",
+      "tokenName": "Huge Monster",
+      "items": {
+        "XEk0aXeaqtGd3ug1": {
+          "name": "Immunité"
+        },
+        "TTMpxRtKNaSYMytd": {
+          "name": "Frenzied Attack"
+        },
+        "27EYKFbiDMvrOSA4": {
+          "name": "Massive Attack"
+        },
+        "GzBWAz1QQTeht1Js": {
+          "name": "Armes Naturelles"
+        }
+      }
+    },
+    "Vc6MacnxKkVeMK2H": {
+      "name": "Boggart",
+      "tokenName": "Boggart",
+      "items": {
+        "tYfnjz80W04hE06f": {
+          "name": "Immunité"
+        },
+        "0EMSfA4a5wzNn4Rl": {
+          "name": "Fist of Fury"
+        },
+        "edbWyEOSwZ9xsgY8": {
+          "name": "Fist"
+        }
+      }
+    },
+    "W0nWdHhQ8l87rlkN": {
+      "name": "Fomor",
+      "tokenName": "Fomor",
+      "items": {
+        "l5b4LUfBPPE0Oi47": {
+          "name": "Craven"
+        },
+        "Cai5RUePlH5d7p5b": {
+          "name": "Spear"
+        },
+        "oWdOhfUH0bcE3axv": {
+          "name": "Pack Fighting"
+        }
+      }
+    },
+    "WGBbsLVOCP3yGuug": {
+      "name": "Muttering Maw",
+      "tokenName": "Muttering Maw",
+      "items": {
+        "eMCx1gwd8SnfwVl7": {
+          "name": "Immunité"
+        },
+        "42nqupz7xH0hUOOB": {
+          "name": "Infestation of Maws"
+        },
+        "dX7KrYSjeJZmnYJA": {
+          "name": "Maw"
+        },
+        "3yqgJyCU1zfrwpx4": {
+          "name": "Fist"
+        }
+      }
+    },
+    "WTxLqnT7878QNeaj": {
+      "name": "Small Construct",
+      "tokenName": "Small Construct",
+      "items": {
+        "ek7VkacC6FyTISB9": {
+          "name": "Immunité"
+        },
+        "g4dZdktrgm9hSHu3": {
+          "name": "Appendage"
+        }
+      }
+    },
+    "X7xNFjzqIlL6FljE": {
+      "name": "Hag",
+      "tokenName": "Hag",
+      "items": {
+        "cz4QutE2rfXEji59": {
+          "name": "Immunité"
+        },
+        "vzI1jPLeSv9Lw9I1": {
+          "name": "Spell Defense"
+        },
+        "pmvRxYwhe1ik2aAQ": {
+          "name": "Vulnérabilité au Fer"
+        },
+        "BQDvEOaj2VvqFBSQ": {
+          "name": "Mind-Bending Horror"
+        },
+        "GG7olFYwag68Kuoz": {
+          "name": "See Magic"
+        },
+        "TzJG6cOZBkp8Tsv0": {
+          "name": "Epic Recovery"
+        },
+        "vHbUoNZSRV5fI12c": {
+          "name": "Epic Adversary"
+        },
+        "T7nPJQPnTrmx2TV2": {
+          "name": "Double Attaque"
+        },
+        "zWnWtIb3RvZTlWAc": {
+          "name": "Accursed Eye"
+        },
+        "QAZRfIqbtGug4JhZ": {
+          "name": "Accursed Sleep"
+        },
+        "5BQWavTBEyIjY5M3": {
+          "name": "Wychfire"
+        },
+        "JbeHJihyJmOc1OwT": {
+          "name": "Change Shape"
+        },
+        "wVXIeJObvvmGWNoC": {
+          "name": "Streaming Smoke"
+        },
+        "fQWePKd2jHuxUV37": {
+          "name": "Griffes"
+        },
+        "c7jjp9eqUD6J45f8": {
+          "name": "Hex"
+        },
+        "PepiuVS4oeRQRiHM": {
+          "name": "Frighten"
+        },
+        "nP2HLDXs3Ggf9Svj": {
+          "name": "Weakness"
+        },
+        "4IqYABj2rdv8YeHl": {
+          "name": "Swine"
+        },
+        "RyfkiPm5atv9o9fb": {
+          "name": "Presence"
+        },
+        "guQN0rfDB4bbxHKB": {
+          "name": "Bewitch"
+        },
+        "pFQhQ5AEKAk8A6TW": {
+          "name": "Charm"
+        },
+        "cVwfVwb5mNreiBWL": {
+          "name": "Compel"
+        },
+        "tdScAJNX3hstsmFD": {
+          "name": "Harm"
+        },
+        "cQZSzxuoWrfBfoJw": {
+          "name": "Hateful Defecation"
+        },
+        "1cLakr75ifT9GcbH": {
+          "name": "Tongue Rip"
+        },
+        "b44EzQVnnvKIBJtD": {
+          "name": "Desire's End"
+        },
+        "vr2WywUdnkk8aJzO": {
+          "name": "Soul Exchange"
+        }
+      }
+    },
+    "X8vRBZsXvePR6ZhE": {
+      "name": "Tear Thief",
+      "tokenName": "Tear Thief",
+      "items": {
+        "ZYNpKHCY62qzwYpv": {
+          "name": "Immunité"
+        },
+        "o4CO7AxLOeWyZvnV": {
+          "name": "Hide in Shadows"
+        },
+        "Xfb41tWGZoysmjPk": {
+          "name": "Skittering Dance"
+        },
+        "AwlAWOxWdJLyrv5M": {
+          "name": "Long Knife"
+        },
+        "c6M33nGoLVCmi71F": {
+          "name": "Extract Tears (effect)"
+        }
+      }
+    },
+    "XPoliQrfWlLg7bC6": {
+      "name": "Catoblepas",
+      "tokenName": "Catoblepas",
+      "items": {
+        "oRuplyb9vuPB3WhU": {
+          "name": "Poisonous Cloud"
+        },
+        "gYJhIV0YVR7yOCqW": {
+          "name": "Horns"
+        }
+      }
+    },
+    "XYvoGzytpmVkyni3": {
+      "name": "Halfling",
+      "tokenName": "Halfling",
+      "items": {
+        "Y66MciBKVGHcNYOp": {
+          "name": "Good Fortune"
+        },
+        "oxs1W3lhDydqZXSp": {
+          "name": "Uncommon Courage"
+        },
+        "Ievl5YrZ3s3QhySz": {
+          "name": "Arc"
+        },
+        "AcAxMHnTHq2oV5hT": {
+          "name": "Arc"
+        },
+        "SRXTAIWLL8pL0tTI": {
+          "name": "Spear"
+        }
+      }
+    },
+    "XjTbbdfY4uN2oL85": {
+      "name": "Poltergeist",
+      "tokenName": "Poltergeist",
+      "items": {
+        "ttfyPtoJ2GJopN1P": {
+          "name": "Immunité"
+        },
+        "cfNpH36rNnbJbhRC": {
+          "name": "Insubstantial"
+        },
+        "xoneQmTmEik489JG": {
+          "name": "Naturally Invisible"
+        },
+        "6vQ4pFiLpeJPUuTX": {
+          "name": "Hurl Object"
+        },
+        "ImYqfuLCWHxQ8aJR": {
+          "name": "Manifestation"
+        },
+        "NQWyzW6tOMVCocML": {
+          "name": "Telekinetic Slam"
+        }
+      }
+    },
+    "YKRKIjpW1NXV4gDg": {
+      "name": "Lizardman",
+      "tokenName": "Lizardman",
+      "items": {
+        "Hvrs9F0QbgvjRHoG": {
+          "name": "Immunité"
+        },
+        "01uKkVZphQcl2akq": {
+          "name": "Rising Fury"
+        },
+        "JWcA1Nn0w7xsAoqF": {
+          "name": "Snapping Crocs"
+        },
+        "ikpyZxPG2RnaUfL0": {
+          "name": "Spear"
+        }
+      }
+    },
+    "abMEPtfQPhCCDcMP": {
+      "name": "Fungal Hulk",
+      "tokenName": "Fungal Hulk",
+      "items": {
+        "li9KQq6Ym6FjQa8V": {
+          "name": "Immunité"
+        },
+        "kvLCx2panfQwuZf8": {
+          "name": "Corrosive Spores"
+        },
+        "Set3MHhDxzTx8ses": {
+          "name": "Double Attaque"
+        },
+        "J0Zv9xfKS7wzthns": {
+          "name": "Appendage"
+        }
+      }
+    },
+    "atJpdspWrQghVPUI": {
+      "name": "Griffon",
+      "tokenName": "Griffon",
+      "items": {
+        "ywFweNindHVDOm23": {
+          "name": "Griffes and Beak"
+        }
+      }
+    },
+    "bD6rPVAViYd5Rxhr": {
+      "name": "Water Genie",
+      "tokenName": "Water Genie",
+      "items": {
+        "8haiDBs7CFMEHyuK": {
+          "name": "Immunité"
+        },
+        "TuWAKVrp7tVs8uTO": {
+          "name": "Watery Form"
+        },
+        "3BaOsAYoQeOS0acp": {
+          "name": "Fire Vulnerability"
+        },
+        "naxrjch5OdWWXs3a": {
+          "name": "Amorphous"
+        },
+        "R7XFH6uYKsOm3sP5": {
+          "name": "Empowered by Water"
+        },
+        "xtuIz1QhXhrBYq1d": {
+          "name": "Tidal Forces"
+        },
+        "lEoLhSZDDEJOF5O0": {
+          "name": "Fist"
+        },
+        "PUUGgrNhIOKInIcp": {
+          "name": "Smash (effect)"
+        }
+      }
+    },
+    "bROblOg6qEgxXuSy": {
+      "name": "Burrowing Centipede",
+      "tokenName": "Burrowing Centipede",
+      "items": {
+        "ezJKD0D6XHPyRGAq": {
+          "name": "Mandibles"
+        },
+        "v80kguQndOVthDmX": {
+          "name": "Burrow (effect)"
+        }
+      }
+    },
+    "beLClTLQGsYxNg9L": {
+      "name": "Living Tar",
+      "tokenName": "Living Tar",
+      "items": {
+        "ffoQpq4fnnJEVT0o": {
+          "name": "Immunité"
+        },
+        "SzwhTxTCcjNLCnsu": {
+          "name": "Corrosive Body"
+        },
+        "TpVvZWF2GIOxbuhr": {
+          "name": "Division"
+        },
+        "Htdzv2ApBy9Wxx4N": {
+          "name": "Amorphous"
+        },
+        "cBVX0M4827w3TOx7": {
+          "name": "Dissolve Metal and Wood"
+        },
+        "dvbetFiWpauLpbTA": {
+          "name": "Pseudopod"
+        },
+        "4LOc9X74OJ0Usurf": {
+          "name": "Dissolve Armor (effect)"
+        }
+      }
+    },
+    "bfNyTKGP7EwIfWxb": {
+      "name": "Phantom",
+      "tokenName": "Phantom",
+      "items": {
+        "kzf1w34LYk7ELzRV": {
+          "name": "Immunité"
+        },
+        "doG5saT0hCx8BU9f": {
+          "name": "Insubstantial"
+        },
+        "zKcU4hlqzeC0pVKz": {
+          "name": "Naturally Invisible"
+        },
+        "VYSoBk6syYtGTQ7N": {
+          "name": "Manifestation"
+        },
+        "SDo2pKD0vVLaY6Xf": {
+          "name": "Phantom Weapon"
+        }
+      }
+    },
+    "cnDYchKfeACk6KeH": {
+      "name": "Ghoul",
+      "tokenName": "Ghoul",
+      "items": {
+        "8nlxz7xniU0DT6tt": {
+          "name": "Immunité"
+        },
+        "8KP5JCHANe7SW1Q9": {
+          "name": "Peur des Dieux"
+        },
+        "j3G2KQYJOCxOSNEZ": {
+          "name": "Unholy Feast"
+        },
+        "ajQbcS5aeDIBLFCO": {
+          "name": "Griffes"
+        },
+        "5dJE7p6pThTNo2Hn": {
+          "name": "Drink Blood (effect)"
+        }
+      }
+    },
+    "cuR3uu265KncCAbx": {
+      "name": "Tiny Monster",
+      "tokenName": "Tiny Monster",
+      "items": {
+        "aediT1qOu6pR7XQ7": {
+          "name": "Immunité"
+        },
+        "ZEOn8fpQg80IvgEw": {
+          "name": "Leaping Attack"
+        },
+        "HYkGy1jW98Rc0T9f": {
+          "name": "Armes Naturelles"
+        }
+      }
+    },
+    "dUbsvOv5RnEAYm0v": {
+      "name": "Eidolon",
+      "tokenName": "Eidolon",
+      "items": {
+        "JaujqU1QvUtDlluP": {
+          "name": "Immunité"
+        },
+        "RIFnZSHcuqk75Z8h": {
+          "name": "Spare Parts"
+        },
+        "B6l2Pbani63A1thP": {
+          "name": "Appendage"
+        }
+      }
+    },
+    "fJZlWRVyV36Fae6e": {
+      "name": "Small Animal",
+      "tokenName": "Small Animal",
+      "items": {
+        "EaNsEN26CQhdRIpz": {
+          "name": "Armes Naturelles"
+        }
+      }
+    },
+    "fv8zG2a6rtfDofB2": {
+      "name": "Small Demon",
+      "tokenName": "Small Demon",
+      "items": {
+        "9iMNgPRtWSCpRnKf": {
+          "name": "Immunité"
+        },
+        "EvUtEUD1um83Sanr": {
+          "name": "Spell Defense"
+        },
+        "za3K2mcSSELWrrh9": {
+          "name": "Demonic Shadows"
+        },
+        "1KifYbERpui4fneI": {
+          "name": "Frenzied Attack"
+        },
+        "7OtCtsyx6vqwu5cB": {
+          "name": "Void Step"
+        },
+        "UVxDCPORwLqnEA1K": {
+          "name": "Armes Naturelles"
+        }
+      }
+    },
+    "gaiixIHycU8I8pae": {
+      "name": "Nisse",
+      "tokenName": "Nisse",
+      "items": {
+        "Iiqrl420pBcwo72o": {
+          "name": "Immunité"
+        },
+        "PsVGRL0VLY4YsdQZ": {
+          "name": "Spell Defense"
+        },
+        "YQfdgIpwIdszZA3R": {
+          "name": "Vulnérabilité au Fer"
+        },
+        "q5Mo3Dn9kCsfQlcC": {
+          "name": "Bigger and Bigger"
+        },
+        "7J4iPehxn0u3VGrf": {
+          "name": "Massue"
+        },
+        "k9GFJYx9JPlYGLef": {
+          "name": "Teeth"
+        },
+        "RzYOGczd4zRecoaa": {
+          "name": "Clamor"
+        },
+        "gRlX2GXKojMHAKMD": {
+          "name": "Figment"
+        },
+        "sX60cj8CJ5KCjfvP": {
+          "name": "Thimblerig"
+        },
+        "kgNyJqW5fn6ndQPz": {
+          "name": "Glamer"
+        },
+        "RyD001olYajN5xSA": {
+          "name": "Invisibility"
+        },
+        "jTVVGjTYDKZ7tIbC": {
+          "name": "Phantasm"
+        },
+        "FShyNYYlElLsQnXn": {
+          "name": "Gibbering Drool (effect)"
+        }
+      }
+    },
+    "iDdILztdzb4aCeMZ": {
+      "name": "Animal Swarm",
+      "tokenName": "Animal Swarm",
+      "items": {
+        "APhnJhCe7NT1eLff": {
+          "name": "Immunité"
+        },
+        "qkipcpO0bl9cAuOf": {
+          "name": "Multitude"
+        },
+        "UOVEBTTckaGB6CSS": {
+          "name": "Revulsion"
+        },
+        "hZLCJhnb0Os4NOCS": {
+          "name": "Swarming Animals"
+        },
+        "bauKORixefqMc5dv": {
+          "name": "Armes Naturelles"
+        }
+      }
+    },
+    "iNl2D25cXeMBVti6": {
+      "name": "Void Larva",
+      "tokenName": "Void Larva",
+      "items": {
+        "jjthMcdRD6gLqqYz": {
+          "name": "Immunité"
+        },
+        "EoPVFAk7OWxryJB2": {
+          "name": "Spit Acid"
+        },
+        "nSoii9aSWNz1GE6B": {
+          "name": "Dripping Teeth"
+        }
+      }
+    },
+    "jGdZLildDHajPh38": {
+      "name": "Hell Swine",
+      "tokenName": "Hell Swine",
+      "items": {
+        "cb7izqHZEIdEMzxZ": {
+          "name": "Ferocious"
+        },
+        "69BRSM2Rrjn5iuZE": {
+          "name": "Vicious Rebuke"
+        },
+        "PetULNsgPjUmmAji": {
+          "name": "Tusks"
+        }
+      }
+    },
+    "jWBeRb4qZIGPVJaP": {
+      "name": "Organ Filch",
+      "tokenName": "Organ Filch",
+      "items": {
+        "GlkJAQdYRq7LmM0W": {
+          "name": "Immunité"
+        },
+        "hfqGmgCLkzY6hIBx": {
+          "name": "Extract Organ"
+        },
+        "Lx5TGUagpRKRn4sP": {
+          "name": "Skittering Dance"
+        },
+        "CgI7FtSUsMbTyArR": {
+          "name": "Scalpel"
+        }
+      }
+    },
+    "jbNB6Toabr6KGP2a": {
+      "name": "Tiny Animal",
+      "tokenName": "Tiny Animal",
+      "items": {
+        "ob9AQRJKAEQfVyHu": {
+          "name": "Distract"
+        },
+        "oZR5SIUkvG9BR0rx": {
+          "name": "Armes Naturelles"
+        }
+      }
+    },
+    "jdnKMQTQBkIFjELK": {
+      "name": "Lash Crawler",
+      "tokenName": "Lash Crawler",
+      "items": {
+        "TUhnXWAjNVROBpUC": {
+          "name": "Immunité"
+        },
+        "ofDTYEMLalDlNPgN": {
+          "name": "Warping Gaze"
+        },
+        "1fh8CNkIuswEMd6C": {
+          "name": "Extract Eye"
+        },
+        "YxZSOz6MLdRn4kB2": {
+          "name": "Spring Away"
+        },
+        "IgwnteQOs606e0fH": {
+          "name": "Tendril"
+        }
+      }
+    },
+    "kEvZwlAtngQXHwd3": {
+      "name": "Shadow",
+      "tokenName": "Shadow",
+      "items": {
+        "p1IPBFDOCfr4aKMB": {
+          "name": "Immunité"
+        },
+        "JfcF7GFvHZoICugZ": {
+          "name": "Insubstantial"
+        },
+        "9MOmcx65t4ZkrVIM": {
+          "name": "Become the Night"
+        },
+        "nn8mM0qMzmRiEPHU": {
+          "name": "Brûler par le Soleil"
+        },
+        "tYSYYRi6u958dJSP": {
+          "name": "Draining Touch"
+        },
+        "KKJVGaXk20YKBz0i": {
+          "name": "Drain (effect)"
+        }
+      }
+    },
+    "kQF5RY7n4pXC2y8L": {
+      "name": "Flame Genie",
+      "tokenName": "Flame Genie",
+      "items": {
+        "afXK2Mg9ZBxXe6mW": {
+          "name": "Immunité"
+        },
+        "6eaxIT7jiXPGt4Rs": {
+          "name": "Fiery Form"
+        },
+        "3zjzM0GGdkityoFC": {
+          "name": "Water Vulnerability"
+        },
+        "LZvkQx3M0Z6hKXJb": {
+          "name": "Fire Leap"
+        },
+        "zDLVMQ6EfvhX5a20": {
+          "name": "Empowered by Fire"
+        },
+        "qNd1LL1YlfecJ8Aw": {
+          "name": "Heat Shimmer"
+        },
+        "DyaYjN30H78SxFZU": {
+          "name": "Fiery Touch"
+        },
+        "xAJXHeTEwo0tcJ9Y": {
+          "name": "Ignite (effect)"
+        }
+      }
+    },
+    "kWjNEgzMiVflw4i3": {
+      "name": "Great Cat",
+      "tokenName": "Great Cat",
+      "items": {
+        "1mQaqAr37R4Hr1he": {
+          "name": "Pounce"
+        },
+        "EF1PvRoVdAi8kyHM": {
+          "name": "Swift Attack"
+        },
+        "43nR9929CFirvKXD": {
+          "name": "Griffes and Teeth"
+        }
+      }
+    },
+    "lDNMM6Pq1MGBB5XJ": {
+      "name": "Small Monster",
+      "tokenName": "Small Monster",
+      "items": {
+        "ny90sz7ybGguPKeW": {
+          "name": "Immunité"
+        },
+        "DIhfHU5z6YWvwRl8": {
+          "name": "Frenzied Attack"
+        },
+        "8jVjyCITRKRDzTRQ": {
+          "name": "Armes Naturelles"
+        }
+      }
+    },
+    "lkm1x16zVOiWZSmc": {
+      "name": "Skinchanger",
+      "tokenName": "Skinchanger",
+      "items": {
+        "z5YcnBfCsDYRpiVX": {
+          "name": "Silver Vulnerability"
+        },
+        "Afe22dpW5bh4qktu": {
+          "name": "Regeneration"
+        },
+        "6NJAU9QwNtehgVCS": {
+          "name": "Change Form"
+        },
+        "kwHgm78gI6XwDce2": {
+          "name": "Teeth"
+        },
+        "7ziguyO7H8mwYWRw": {
+          "name": "Skinchanger Curse (effect)"
+        }
+      }
+    },
+    "mCSNcDqo7ohnPx1M": {
+      "name": "Oculus",
+      "tokenName": "Oculus",
+      "items": {
+        "zsAQX3StWv8NSwL8": {
+          "name": "Immunité"
+        },
+        "trcAfpQZZvYwm0he": {
+          "name": "Mind-Blasting Horror"
+        },
+        "htvdve4kJKJY1laZ": {
+          "name": "Amorphous"
+        },
+        "NUwlJsFCquOoAHBf": {
+          "name": "Creep"
+        },
+        "vEB9hWnbqJit9Akb": {
+          "name": "Dripping Appendage"
+        }
+      }
+    },
+    "muIUVrEAjz6PCbs3": {
+      "name": "Earth Genie",
+      "tokenName": "Earth Genie",
+      "items": {
+        "ZbBQOt6kwDpcP0fZ": {
+          "name": "Immunité"
+        },
+        "vrYxiDgDQwRpR4IL": {
+          "name": "Résilience"
+        },
+        "MoWmVBfg0T1J7cwX": {
+          "name": "Air Vulnerability"
+        },
+        "VQBYqETJy3Z9gF7L": {
+          "name": "Earth Stride"
+        },
+        "y74TToWFI8x6spqL": {
+          "name": "Empowered by Earth"
+        },
+        "Z39quysm3mjo7Wxm": {
+          "name": "Unruly Earth"
+        },
+        "Gzd7EYd8D3kB347r": {
+          "name": "Fist"
+        }
+      }
+    },
+    "nR8zZaDi0yhspAS9": {
+      "name": "Ghastly Chorus",
+      "tokenName": "Ghastly Chorus",
+      "items": {
+        "OE6mi2ev6glO9aUM": {
+          "name": "Immunité"
+        },
+        "LXAdoSUE1MHTAy4L": {
+          "name": "Amorphouse"
+        },
+        "XQCeJeo45HRZHr9j": {
+          "name": "Dazing Horror"
+        },
+        "5WjrrsH2IIYDI7I0": {
+          "name": "Creep"
+        },
+        "I1D5dHJqBunAli0P": {
+          "name": "Mournful Song"
+        },
+        "bfiEyhRQqP0x2AUx": {
+          "name": "Mouths"
+        },
+        "krNMV238g22AU63y": {
+          "name": "Crushing Grab (effect)"
+        }
+      }
+    },
+    "nscdAfy4nFIz3MHO": {
+      "name": "Barrow Wight",
+      "tokenName": "Barrow Wight",
+      "items": {
+        "Q02c9iTLmpWfJGwS": {
+          "name": "Immunité"
+        },
+        "4nq5K6Ac5oeMQU6H": {
+          "name": "Sunlight Vulnerability"
+        },
+        "sFI4xO5x72fjIv5L": {
+          "name": "Griffes"
+        },
+        "NReSGrY6t0vfpdlT": {
+          "name": "Life Drain (effect)"
+        }
+      }
+    },
+    "olLYbGqj9DmT9fzz": {
+      "name": "Lurk",
+      "tokenName": "Lurk",
+      "items": {
+        "jpupoZlcCwi3K8gd": {
+          "name": "Flickering Form"
+        },
+        "wjLF6DH36AQUQcNV": {
+          "name": "Void Leap"
+        },
+        "gjbtN9GjwAch0zuX": {
+          "name": "Griffes"
+        }
+      }
+    },
+    "pdFrcPAmx7cP8Bzw": {
+      "name": "Large Construct",
+      "tokenName": "Large Construct",
+      "items": {
+        "tF10dvtN3Boj4QqI": {
+          "name": "Immunité"
+        },
+        "ksgKeXBAc4GIexv0": {
+          "name": "Double Attaque"
+        },
+        "Tl2SpmzAvCKXxwKw": {
+          "name": "Appendage"
+        }
+      }
+    },
+    "pw7nkGCVo8fCHitV": {
+      "name": "Ettin",
+      "tokenName": "Ettin",
+      "items": {
+        "cfZBEHlfecTF5hNt": {
+          "name": "Immunité"
+        },
+        "6yARNAoBxPBGcWt1": {
+          "name": "Two Heads"
+        },
+        "kuVRMFSzV4bWxEFw": {
+          "name": "Devour"
+        },
+        "zSsXqdcs1tswtihZ": {
+          "name": "Vomit"
+        },
+        "buqyAE2iIV4SpI66": {
+          "name": "Flail"
+        }
+      }
+    },
+    "q2pKrpDa1BbcgMQD": {
+      "name": "Hobgoblin",
+      "tokenName": "Hobgoblin",
+      "items": {
+        "v3Kaj49U5G1fhBoq": {
+          "name": "Immunité"
+        },
+        "KSZBbNAR1Aoi2fvB": {
+          "name": "Vulnérabilité au Fer"
+        },
+        "ktXThqzFwi4hhlUz": {
+          "name": "Frenzy"
+        },
+        "7sQdhsHR3YBPRUjv": {
+          "name": "Cleaver"
+        }
+      }
+    },
+    "q69mNqrNrccF4elL": {
+      "name": "Wind Genie",
+      "tokenName": "Wind Genie",
+      "items": {
+        "MEVDl0Q5bWNgkWqt": {
+          "name": "Immunité"
+        },
+        "WE2iJAMnlxiuKzmb": {
+          "name": "Résilience"
+        },
+        "SKwTYVjy42tDB4xD": {
+          "name": "Earth Vulnerability"
+        },
+        "2huXzzrOvLrlDgFR": {
+          "name": "Amorphous"
+        },
+        "CnsB3M9jpZf1cR61": {
+          "name": "Empowered by Air"
+        },
+        "fSB1d2KxqWqfxKbc": {
+          "name": "Deafening Winds"
+        },
+        "lt0mCo2Y6UdV5DM0": {
+          "name": "Howling Wind"
+        },
+        "97SPchwXtnLjBOBe": {
+          "name": "Fist"
+        },
+        "YjamrstYWVYJgs7y": {
+          "name": "Scatter (effect)"
+        }
+      }
+    },
+    "qB7yzphe1RVf2gRs": {
+      "name": "Fungal Mite",
+      "tokenName": "Fungal Mite",
+      "items": {
+        "L4SDAhayz4Jfy7sy": {
+          "name": "Immunité"
+        },
+        "oe4uKiP5ojHnniu9": {
+          "name": "Appendage"
+        }
+      }
+    },
+    "qNsp9LdHIiM7JhcD": {
+      "name": "Troglodyte",
+      "tokenName": "Troglodyte",
+      "items": {
+        "ow7fiYhBBiGsao52": {
+          "name": "Sunlight Weakness"
+        },
+        "lXJmLfPfELLwv2E9": {
+          "name": "Strength from Pain"
+        },
+        "ZzmCAWHyPR9NXHCa": {
+          "name": "Hide in Shadows"
+        },
+        "Y2Ia4fwXUZmflrvA": {
+          "name": "Pick"
+        }
+      }
+    },
+    "qf8JCLe9W7tE3mLP": {
+      "name": "Medium Animal",
+      "tokenName": "Medium Animal",
+      "items": {
+        "xmTaCt2eguNdozuV": {
+          "name": "Armes Naturelles"
+        }
+      }
+    },
+    "rBxbMke4AOw2bpjC": {
+      "name": "Troll",
+      "tokenName": "Troll",
+      "items": {
+        "10NTWcnZ1c6sFZpf": {
+          "name": "Hatred"
+        },
+        "99VVVdsbkZyQasBV": {
+          "name": "Petrified by Sunlight"
+        },
+        "SLCcpEB9Rcyuds0a": {
+          "name": "Regeneration"
+        },
+        "ajpyY87szrcblwPg": {
+          "name": "Double Attaque"
+        },
+        "FRdJvsBrUU7BpL9g": {
+          "name": "Fist"
+        },
+        "ODvSv4AboKLAnnYB": {
+          "name": "Grab and Bite (effect)"
+        }
+      }
+    },
+    "rPJWDi3uOeLERTHk": {
+      "name": "Giant",
+      "tokenName": "Giant",
+      "items": {
+        "uz8keMsiJ2Wjhcgw": {
+          "name": "Stupidity"
+        },
+        "DI1s0xfPXLIotQ9V": {
+          "name": "Crushing Footfalls"
+        },
+        "HLwEiwlR2FmqL59e": {
+          "name": "Giantfall"
+        },
+        "90pXhZ4pBA1mU15E": {
+          "name": "Fist"
+        },
+        "o4k63Xxt6rC0RV6q": {
+          "name": "Boulder"
+        }
+      }
+    },
+    "s0HJ1BsRGpN4b5KW": {
+      "name": "Drake",
+      "tokenName": "Drake",
+      "items": {
+        "x6h43IsZfqSPcqDo": {
+          "name": "Immunité"
+        },
+        "scPhabkAQdYbnkb2": {
+          "name": "Spew Poison"
+        },
+        "JOipCgXG2zTzn32L": {
+          "name": "Crocs"
+        },
+        "0Fdx17YrvGZvjlwR": {
+          "name": "Poison (effect)"
+        }
+      }
+    },
+    "tDEi0Fegzo7iX1gl": {
+      "name": "Bloody Bones",
+      "tokenName": "Bloody Bones",
+      "items": {
+        "Oc3S1CONq9LiWCpF": {
+          "name": "Immunité"
+        },
+        "xluWHgQ6MRDTOFiw": {
+          "name": "Vulnérabilité au Fer"
+        },
+        "DjB1P3lWp1VND2x7": {
+          "name": "Slippery Body"
+        },
+        "FWW30R119g9BSCvs": {
+          "name": "Frenzied Attack"
+        },
+        "nnfiCrABnBvCVgEV": {
+          "name": "Griffes"
+        },
+        "V0ZxGBAcBhUicusD": {
+          "name": "Flay (effect)"
+        }
+      }
+    },
+    "uBQsu95pG07G6VpA": {
+      "name": "Dryad",
+      "tokenName": "Dryad",
+      "items": {
+        "E7EXnlH4Namyu1LW": {
+          "name": "Immunité"
+        },
+        "Qw9PiXLdUTelQbGq": {
+          "name": "Vulnérabilité au Fer"
+        },
+        "bbwEXb0iDPJdlqdg": {
+          "name": "Treebound"
+        },
+        "LAqbHQgZFiv3lIxO": {
+          "name": "Charming Beauty"
+        },
+        "CG15j16o5Kr8gsg1": {
+          "name": "Lure"
+        },
+        "21P0KiwfLTleOdOE": {
+          "name": "Tree to Tree"
+        },
+        "55SphLXnNxdOwMJh": {
+          "name": "Rooting Touch"
+        },
+        "wOWNSfdyo2grHWff": {
+          "name": "Presence"
+        },
+        "rrakn3IEAn73FJlz": {
+          "name": "Charm"
+        },
+        "ow4T3HJUmweyTA01": {
+          "name": "Mind Bondage"
+        },
+        "XIpEaHFPgsg3ZQdB": {
+          "name": "Magic Acorns"
+        },
+        "XbJZGBK3tSCGTv6z": {
+          "name": "Overgrowth"
+        },
+        "noRublK5WJg8BsA2": {
+          "name": "Ensnaring Vines"
+        },
+        "CCx2SaYJ5t1i6iL0": {
+          "name": "Brambles"
+        },
+        "1Ct0yWp4RYOkG1nA": {
+          "name": "Form of the Oak Guardian"
+        }
+      }
+    },
+    "vOX7VMaK3uDRDBMq": {
+      "name": "Amphisbaena",
+      "tokenName": "Amphisbaena",
+      "items": {
+        "2XIYWHT01uZNNveU": {
+          "name": "Immunité"
+        },
+        "TuORaBpbbV5mH8Vb": {
+          "name": "Two Heads"
+        },
+        "Y1sTUDafFj3HMhZn": {
+          "name": "Pinning Gaze"
+        },
+        "LraKwUOah9pS5aXw": {
+          "name": "Crocs"
+        },
+        "OoTfFnE9UXXoRZlw": {
+          "name": "Poison (effect)"
+        }
+      }
+    },
+    "vXIiZurAygIN2R4A": {
+      "name": "Boneguard",
+      "tokenName": "Boneguard",
+      "items": {
+        "4xbPuv1rwdYTHRj7": {
+          "name": "Immunité"
+        },
+        "IufBSGOGdt3NKQcx": {
+          "name": "Twin Strike"
+        },
+        "p7NDsnYlwvCQbQj8": {
+          "name": "Swift Strike"
+        },
+        "1TdkDMdrP926XFYy": {
+          "name": "Scimitar"
+        },
+        "kJuThSmdwj3xX8Mv": {
+          "name": "Arc"
+        }
+      }
+    },
+    "vqbVrJBPMv894Fr6": {
+      "name": "Minotaur",
+      "tokenName": "Minotaur",
+      "items": {
+        "viKZSgxfkkQb47AF": {
+          "name": "Uncanny Accuracy"
+        },
+        "MzEHrsIE0aB8HzHi": {
+          "name": "Bull Rush"
+        },
+        "zpC0GLcHQ64E1XUK": {
+          "name": "Sweeping Horns"
+        },
+        "SUFKCVYfIMpoPoNd": {
+          "name": "Greataxe"
+        },
+        "qP7miQ9oPunNu4Ns": {
+          "name": "Horns"
+        }
+      }
+    },
+    "w0TPgRNqYlniqCnj": {
+      "name": "Horse",
+      "tokenName": "Horse",
+      "items": {
+        "ZZcieCUMjjySUV0H": {
+          "name": "Galop"
+        },
+        "3OahKfWwP9NcGjSv": {
+          "name": "Hooves"
+        }
+      }
+    },
+    "wJYH0kQfO8IVjBty": {
+      "name": "Dire Wolf",
+      "tokenName": "Dire Wolf",
+      "items": {
+        "3i4BorL6duRZlOm1": {
+          "name": "Immunité"
+        },
+        "rpj73pMqTAVDro8a": {
+          "name": "Vulnérabilité au Fer"
+        },
+        "51BMTbFXzZMgUPKG": {
+          "name": "Darting Attack"
+        },
+        "Glm0LQOlqd5Gk7nf": {
+          "name": "Teeth"
+        },
+        "W76ramEakSOTjJbB": {
+          "name": "Trip (effect)"
+        }
+      }
+    },
+    "yRCqD8eBnLsZmjGc": {
+      "name": "Gremlin",
+      "tokenName": "Gremlin",
+      "items": {
+        "k9yMUCUuWOZFq2AI": {
+          "name": "Immunité"
+        },
+        "6tzHJ07IYcXfe6Bz": {
+          "name": "Spell Defense"
+        },
+        "xbSSnC6xHlvAAPzc": {
+          "name": "Vulnérabilité au Fer"
+        },
+        "mdNjREiiRYiHToIo": {
+          "name": "Vexing Presence"
+        },
+        "bBW15YO1p8nuz932": {
+          "name": "Jinx"
+        },
+        "Vb26FNePs7KdhMzO": {
+          "name": "Break"
+        },
+        "nqtneLfJEeRtyL2t": {
+          "name": "Teeth"
+        },
+        "4IeWRjkkvlK3KOOj": {
+          "name": "Curse (effect)"
+        }
+      }
+    },
+    "ywqkTQMUNlGv6omR": {
+      "name": "Shadow Weaver",
+      "tokenName": "Shadow Weaver",
+      "items": {
+        "ChXjYX3kQHdh88P0": {
+          "name": "Immunité"
+        },
+        "N5nLX5mDqsaLiRlw": {
+          "name": "Cocoon"
+        },
+        "v6JEBuUifA5H0ytS": {
+          "name": "Descend"
+        },
+        "nkzpekPIHBcbwqqj": {
+          "name": "Shadow Blend"
+        },
+        "BlGcuoj3juuL4CR3": {
+          "name": "Crocs"
+        },
+        "FkVjfFxODcaadhRK": {
+          "name": "Corrupting Poison (effect)"
+        }
+      }
+    }
+  }
+}

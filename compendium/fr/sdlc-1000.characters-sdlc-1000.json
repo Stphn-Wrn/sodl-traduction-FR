@@ -1,0 +1,246 @@
+{
+  "label": "PNJ Humain - Core",
+  "folders": {},
+  "entries": {
+    "2fycdrkYOOasPPtv": {
+      "name": "Apprenti Mage",
+      "tokenName": "Apprenti Mage",
+      "items": {
+        "hk9GtIpMrJ5lrkuJ": {
+          "name": "Bâton"
+        },
+        "mdQ4G9U2815NqRkz": {
+          "name": "Armure Arcanique"
+        },
+        "uEAfgCArl3llP0AI": {
+          "name": "Bouclier Arcanique"
+        },
+        "Dg77ioKeynWTpfLd": {
+          "name": "Vision Arcanique"
+        },
+        "vSht8P1pd3KG0s3i": {
+          "name": "Projectile de feu"
+        },
+        "pCk4amvynAJqxBRq": {
+          "name": "Souffle de feu"
+        },
+        "HKyUm5IbtQOW66tW": {
+          "name": "Site Sécurisé"
+        }
+      }
+    },
+    "89f5jgM8ECyWx37C": {
+      "name": "Tueur à Gages",
+      "tokenName": "Tueur à Gages",
+      "items": {
+        "iTZ5XuO8M85sGmVx": {
+          "name": "Long Couteau"
+        }
+      }
+    },
+    "A8OHPguGLgoPHlPb": {
+      "name": "Pickpocket",
+      "tokenName": "Pickpocket",
+      "items": {
+        "ZHFyNhZjzkmYSeNa": {
+          "name": "Ruse"
+        },
+        "jqHLoR2MvuYdjeDf": {
+          "name": "Menaces"
+        },
+        "ESR3epPY1WB84rdH": {
+          "name": "Petite Epée"
+        },
+        "lAd5DdkTCL366RRo": {
+          "name": "Dague"
+        }
+      }
+    },
+    "B8g6cqnns16FMdOt": {
+      "name": "Roturier ou Professionel",
+      "tokenName": "Roturier ou Professionel",
+      "items": {
+        "nCosKNqc7j9sdguA": {
+          "name": "Bâton"
+        },
+        "GHK7RlqT8Sbs0LH4": {
+          "name": "Dague"
+        }
+      }
+    },
+    "Bmlxj1IuAVeXJRsI": {
+      "name": "Brigand",
+      "tokenName": "Brigand",
+      "items": {
+        "u3KzOpor1Uuq59ER": {
+          "name": "Epée"
+        },
+        "RJTbiJl0YuRiahGA": {
+          "name": "Arbalète"
+        }
+      }
+    },
+    "Cs4ihGJw2gb9i855": {
+      "name": "Apprenti Sorcier",
+      "tokenName": "Apprenti Sorcier",
+      "items": {
+        "tLGbBNP1ZBwhAZLw": {
+          "name": "Bâton"
+        },
+        "eIelmsw1TuJRzloF": {
+          "name": "Malédiction"
+        },
+        "grNUgYydY5VFr0Ph": {
+          "name": "Indiscrétion"
+        },
+        "Co7QKmRFBWtJFGBb": {
+          "name": "Augure"
+        },
+        "8fR038DFx48PjOXF": {
+          "name": "Présence"
+        },
+        "qtHw4ycAug3X9qMU": {
+          "name": "Charme"
+        },
+        "mc0XnfSkrqRtcbwH": {
+          "name": "Soin Mineur"
+        }
+      }
+    },
+    "HuXb90NlR3mwnfHt": {
+      "name": "Initité de la Vieille Foi",
+      "tokenName": "Initité de la Vieille Foi",
+      "items": {
+        "rlnCPMpqpOQ5Qga8": {
+          "name": "Prière"
+        },
+        "naxbeVlGtUDbh4cu": {
+          "name": "Cimeterre"
+        },
+        "96a7teut1rppyqh6": {
+          "name": "Soin Mineur"
+        },
+        "4xUeCUFtTLukGXkS": {
+          "name": "Guérison"
+        },
+        "yrQqjKZv9gmoOk4Y": {
+          "name": "Elan de Vitalité"
+        },
+        "7vn0SyT7kUNBDk5h": {
+          "name": "Glands Magique"
+        },
+        "Xq92baTupgUqx0jf": {
+          "name": "Prolifération"
+        }
+      }
+    },
+    "NvrBQi4juRGNAScW": {
+      "name": "Vétéran",
+      "tokenName": "Vétéran",
+      "items": {
+        "guONIsT2oOmtgROL": {
+          "name": "Epée"
+        },
+        "Y3X5r4Fx2Hu5vMyt": {
+          "name": "Arc Long"
+        }
+      }
+    },
+    "YkUybxs2HySj9sJM": {
+      "name": "Patrouilleur",
+      "tokenName": "Patrouilleur",
+      "items": {
+        "sRVxTeHDoCZVLSDI": {
+          "name": "Lance"
+        },
+        "Il5M41t0iab7ETnM": {
+          "name": "Torche"
+        }
+      }
+    },
+    "ZgzcZU7v7PwS4ENP": {
+      "name": "Cultiste",
+      "tokenName": "Cultiste",
+      "items": {
+        "u2J0f4NndIFwQpWw": {
+          "name": "Folle certitude"
+        },
+        "T5bc3GgWVzPirVML": {
+          "name": "Faucille"
+        }
+      }
+    },
+    "bCU9AmfAU1K4rUha": {
+      "name": "Bandit",
+      "tokenName": "Bandit",
+      "items": {
+        "OBG4hBf0HlpcH4hR": {
+          "name": "Massue"
+        },
+        "YvDCS6DVQ3efm1Vf": {
+          "name": "Arc Long"
+        }
+      }
+    },
+    "fBwXjNWu05Wqe2nI": {
+      "name": "Haut Cultiste",
+      "tokenName": "Haut Cultiste",
+      "items": {
+        "jpeFFY58lvICX8lV": {
+          "name": "Sacrifice Nécessaire"
+        },
+        "jnQDhRxqj6g6Xgnh": {
+          "name": "Bâton"
+        },
+        "Wdh1NvqvXKLOChdq": {
+          "name": "Préjudice"
+        },
+        "EX9zV0q1x6dV2ayY": {
+          "name": "Soumission"
+        },
+        "BTyWxiLTutdWg8QT": {
+          "name": "Occultastion de la vision"
+        }
+      }
+    },
+    "qOlVOgSWiFdUlJz8": {
+      "name": "Mercenaire",
+      "tokenName": "Mercenaire",
+      "items": {
+        "aRvAKOAVgnCDAyh3": {
+          "name": "Epée"
+        },
+        "5j0sA0jQe0Bdko0I": {
+          "name": "Arbalète"
+        }
+      }
+    },
+    "zNN6sTFTYJXvj2HN": {
+      "name": "Acolyte du Nouveau Dieu",
+      "tokenName": "Acolyte du Nouveau Dieu",
+      "items": {
+        "PAySzvAUG5opLkFK": {
+          "name": "Prière"
+        },
+        "nNQFDZN8qL1Gjy9Q": {
+          "name": "Masse"
+        },
+        "0h3JnQ5sIDKqKoOG": {
+          "name": "Soin Mineur"
+        },
+        "GIOo7Zu5wC9shu2t": {
+          "name": "Guérison"
+        },
+        "twDqSMcZ3nyUQV4C": {
+          "name": "Elan de Vitalité"
+        },
+        "93jbEoZPb4wKuE7V": {
+          "name": "Condamnation"
+        },
+        "O93DLs7pKum1X6SY": {
+          "name": "Bénédiction"
+        }
+      }
+    }
+  }
+}

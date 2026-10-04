@@ -1,0 +1,1544 @@
+{
+  "label": "Talents - Core",
+  "folders": {
+    "Prêtre Novice": "Prêtre Novice",
+    "Roublard Novice": "Roublard Novice",
+    "Roublard Expert": "Roublard Expert",
+    "Myrmidon": "Myrmidon",
+    "Diviner": "Augure",
+    "Cleric": "Ecclésiastique",
+    "Magician": "Magicien",
+    "Wizard": "Mage",
+    "Magicien Expert": "Magicien Expert",
+    "Defender": "Protecteur",
+    "Stormbringer": "Seigneur de l'orage",
+    "Death Dealer": "Semeur de mort",
+    "Gladiator": "Gladiateur",
+    "Nain": "Nain",
+    "Human": "Human",
+    "Chronomancer": "Chronomancien",
+    "Roublard Maître": "Roublard Maître",
+    "Demonic Talents": "Demonic Talents",
+    "Champion": "Champion",
+    "Magicien Maître": "Magicien Maître",
+    "Illusionist": "Illusionniste",
+    "Marauder": "Maraudeur",
+    "Fighter": "Combattant",
+    "Miracle Worker": "Faiseur de miracles",
+    "Guerrier Novice": "Guerrier Novice",
+    "Avenger": "Vengeur",
+    "Magus": "Magus",
+    "Thief": "Voleur",
+    "Traveler": "Voyageur",
+    "Hexer": "Ensorceleur",
+    "Warrior": "Guerrier",
+    "Sentinel": "Sentinelle",
+    "Runesmith": "Forgerunes",
+    "Acrobat": "Acrobate",
+    "Automate": "Automate",
+    "Exorcist": "Exorciste",
+    "Weapon Master": "Maître d'armes",
+    "Astromancer": "Astromancien",
+    "Jack-of-All-Trades": "Touche-à-tout",
+    "Dreadnaught": "Cuirassé",
+    "Abjurer": "Abjurateur",
+    "Magicien Novice": "Magicien Novice",
+    "Engineer": "Ingénieur",
+    "Healer": "Guérisseur",
+    "Rogue": "Roublard",
+    "Oracle": "Oracle",
+    "Artificer": "Mécamancien",
+    "Gunslinger": "Pistolero",
+    "Paladin": "Paladin",
+    "Pyromancer": "Pyromancien",
+    "Duelist": "Duelliste",
+    "Goblin": "Goblin",
+    "Tenebrist": "Ténébriste",
+    "Theurge": "Théurge",
+    "Enchanter": "Enchanteur",
+    "Hero": "Hero",
+    "Destroyer": "Destructeur",
+    "Geomancer": "Géomancien",
+    "Mob": "Mob",
+    "Shapeshifter": "Métamorphe",
+    "Berserker": "Berserker",
+    "Scout": "Éclaireur",
+    "Inquisitor": "Inquisiteur",
+    "Mage Knight": "Chevalier-mage",
+    "Conqueror": "Conquérant",
+    "Aeromancer": "Aéromancien",
+    "Bard": "Barde",
+    "Diplomat": "Diplomate",
+    "Executioner": "Exécuteur",
+    "Templar": "Templier",
+    "Technomancer": "Technomancien",
+    "Poisoner": "Empoisonneur",
+    "Infiltrator": "Infiltrateur",
+    "Assassin": "Assassin",
+    "Arcanist": "Arcaniste",
+    "Necromancer": "Nécromancien",
+    "Leader": "Leader",
+    "Standard-Ourser": "Standard-Ourser",
+    "Priest": "Prêtre",
+    "Woodwose": "Homme des bois",
+    "Explorer": "Explorateur",
+    "Guerrier Expert": "Guerrier Expert",
+    "Spellbinder": "Sorcelieur",
+    "Sorcerer": "Imprécateur",
+    "Beastmaster": "Maître des bêtes",
+    "Apocalyptist": "Apocalypte",
+    "Relic Talents": "Relic Talents",
+    "Blade": "Lame",
+    "Brute": "Brute",
+    "Conjurer": "Invocateur",
+    "Ranger": "Rôdeur",
+    "Changelin": "Changelin",
+    "Warlock": "Fléaumancien",
+    "Chaplain": "Aumônier",
+    "Orc": "Orc",
+    "Zealot": "Zélote",
+    "Thaumaturge": "Thaumaturge",
+    "Prêtre Expert": "Prêtre Expert",
+    "Prêtre Maître": "Prêtre Maître",
+    "Sharpshooter": "Tireur d'élite",
+    "Cavalier": "Cavalier",
+    "Hydromancer": "Hydromancien",
+    "Dervish": "Derviche",
+    "Druid": "Druide",
+    "Savant": "Savant",
+    "Guerrier Maître": "Guerrier Maître",
+    "Witch": "Sorcier",
+    "Transmuter": "Transmuteur"
+  },
+  "entries": {
+    "04uDHERzOcx2V1ec": {
+      "name": "Power of the Skull"
+    },
+    "07s5oAgZ7hAsk0lw": {
+      "name": "Opportuniste",
+      "description": "<p>Quand une créature à portée de votre allonge subit des dégâts à cause d’une attaque, vous pouvez utiliser une action déclenchée pour l’attaquer.</p>"
+    },
+    "0V3zuTssuYgpxMco": {
+      "name": "Maîtrise de la diplomatie",
+      "description": "<p>Dans des situations sociales, vous effectuez vos jets d’attaque de Volonté et d’Intellect avec 1 avantage.</p>"
+    },
+    "0to0nJIuB37W9uIf": {
+      "name": "Subterfuge",
+      "description": "<p>Vous pouvez utiliser une action pour effectuer un jet d’attaque d’Intellect contre l’Intellect d’une créature jusqu’à portée courte tant qu’elle entend et comprend ce que vous dites. En cas de succès, la cible est charmée pendant 1 round ou jusqu’à ce que vous l’attaquiez. En cas d’échec, elle est immunisée contre votre Subterfuge jusqu’à ce qu’elle se soit reposée. Si vous choisissez ce talent une seconde fois, vous effectuez le jet d’attaque avec 1 avantage et vous pouvez affecter une créature qui ne comprend pas ce que vous dites.</p>"
+    },
+    "0x9CF7kvuSzBpPSy": {
+      "name": "Barbed Tendrils"
+    },
+    "0yz8iaNWpkxxyQfz": {
+      "name": "Catch Your Breath"
+    },
+    "15tZs839TAp8lWFg": {
+      "name": "Optimisation",
+      "description": "<p>Après vous être reposé, vous pouvez réduire un attribut de 2 pour en augmenter un autre de 2. L’effet dure jusqu’à ce que vous vous reposiez à nouveau.</p>"
+    },
+    "1K1DW0pM1SLpnKKL": {
+      "name": "Erratic"
+    },
+    "1acagZ4zo23xTRtn": {
+      "name": "Étreindre le chaos",
+      "description": "<p>À chaque fois que vous effectuez un jet d’attaque ou un test et que le résultat ne vous convient pas, vous pouvez utiliser une action déclenchée pour utiliser ce talent. Lancez [[/r 2d20]]. Vous devez remplacer le jet d’origine par un des résultats obtenus et subir autant de dégâts que l’autre résultat.</p>"
+    },
+    "1gTghAxv6lrvZfRL": {
+      "name": "Guide aguerri",
+      "description": "<p>Vous savez toujours où se trouve le nord et vous pouvez toujours revenir sur vos pas. De plus, quand vous voyagez à terre, tous les membres de votre groupe avec une Vitesse inférieure à la vôtre se déplacent à votre Vitesse.</p>"
+    },
+    "2BsI8F8UuiY5OIAI": {
+      "name": "Extase divine",
+      "description": "<p>Vous pouvez utiliser une action pour entrer dans un état d’extase divine pendant 1 min. Pendant cette durée, vous gagnez les avantages suivants :</p><ul><li>Vous gagnez un bonus de +10 en Santé.</li><li>Vous ne pouvez pas être charmé, contraint ou effrayé.</li><li>Vous ne pouvez pas cumuler de points de Folie.</li><li>Vous effectuez vos jets d’attaque et vos tests d’Intellect, de Volonté et de Perception avec 1 avantage.</li></ul><p>Quand cet effet se termine, vous devez obtenir un succès à un test de Volonté ou cumuler 1 point de Folie. Vous pouvez utiliser ce talent un nombre de fois égal à votre Puissance. Vous récupérez l’ensemble de vos utilisations possibles après un repos.</p>"
+    },
+    "2CeD2qhCAyrIGCfI": {
+      "name": "Présages",
+      "description": "<p>Quand vous effectuez un jet d’attaque ou un test, vous pouvez dépenser une utilisation d’un sort de Divination pour effectuer ce jet avec un nombre d’avantages égal au rang du sort.</p>"
+    },
+    "2FCqIIrsdtbqup9M": {
+      "name": "Marche aérienne",
+      "description": "<p>À chaque fois que vous lancez un sort de l’Air, après avoir résolu ses effets vous pouvez voler sur une distance en mètres égale à 1 + le rang du sort. Vous atterrissez en toute sécurité à la fin de ce déplacement.</p>"
+    },
+    "2WSo8sbOfq1MerMc": {
+      "name": "Poursuite implacable",
+      "description": "<p>Quand une créature que vous avez désignée comme votre proie, en utilisant votre talent Chasser des proies, se déplace, vous pouvez utiliser une action déclenchée pour vous déplacer à la moitié de votre Vitesse.</p>"
+    },
+    "2WhP6WVhw0HpvNmd": {
+      "name": "Fabrication de poison",
+      "description": "<p>Vous pouvez utiliser une action et une trousse d’alchimiste pour créer une dose de poison. Vous devez vous concentrer pendant au moins 1 min pour utiliser la trousse et des ingrédients spéciaux d’une valeur de 1 sc. Une fois ce temps écoulé, vous fabriquez une dose de poison (voir Chapitre 6). Le poison reste efficace jusqu’à ce que vous vous reposiez.</p>"
+    },
+    "2ey7lkdI8qjaTDw6": {
+      "name": "Éclipse",
+      "description": "<p>Quand vous utilisez votre talent Disparition, vous pouvez aussi vous téléporter vers un espace libre jusqu’à portée courte.</p>"
+    },
+    "2mXTkoUCBoH7Wspb": {
+      "name": "Icône sacrée",
+      "description": "<p>Choisissez une tradition que vous avez déjà découverte et qui est associée à votre religion. Quand vous lancez un sort offensif de cette tradition en brandissant ou en portant votre symbole sacré, vous effectuez le jet d’attaque avec 1 avantage et les créatures qui résistent à l’attaque effectuent leur test avec 1 désavantage.</p>"
+    },
+    "2n8TIo6w8i0LZoD1": {
+      "name": "Six-coups",
+      "description": "<p>Vous pouvez utiliser une trousse à outils et 1 co de matériaux spéciaux pour transformer un pistolet en sixcoups. Il vous faut 8 h pour achever votre œuvre. Toute autre créature que vous utilisant cette arme effectue ses jets d’attaque avec 3 désavantages. Le six-coups fonctionne comme un pistolet mais il n’a pas la propriété enrayé. Quand vous chargez votre arme, vous pouvez placer jusqu’à 6 balles dans son chargeur. Vous pouvez attaquer avec cette arme une fois par balle dans le chargeur avant de devoir la recharger.</p>"
+    },
+    "2oOEuWmZBc4LPZqe": {
+      "name": "Maîtrise des sorts",
+      "description": "<p>Vous maîtrisez l’art du lancement des sorts et vous disposez de 6 points de sort. Quand vous lancez un sort, vous pouvez dépenser un nombre de points de sort égal à son rang (minimum 1 point) pour le lancer sans dépenser une de ses utilisations ou pour lancer un sort dont vous avez dépensé toutes les utilisations. Vous regagnez tous vos points de sort quand vous vous reposez.</p>"
+    },
+    "2vkqDCtcWcR8ITxE": {
+      "name": "Déplacement silencieux",
+      "description": "<p>Vous effectuez vos tests pour vous déplacer discrètement avec 2 avantages.</p>"
+    },
+    "38zjNGlpjtd2XFHi": {
+      "name": "Purge de destruction",
+      "description": "<p>Quand vous lancez un sort de Destruction, vous pouvez choisir de ne pas subir de dégâts à cause de son utilisation. Au lieu de cela, l’énergie destructrice jaillit d’un point que vous pouvez atteindre jusqu’à une distance en mètres égale à votre Puissance. Chaque créature et objet dans la zone d’effet, sauf vous, subit des dégâts égaux à 1 + le rang du sort lancé. Une créature qui obtient un succès à un test de Force ne subit aucun dégât.</p>"
+    },
+    "3QQj6tcm6LhAeP1Q": {
+      "name": "Communion avec les dieux",
+      "description": "<p>Quand vous utilisez Extase divine, vous pouvez choisir d’entrer en transe. Si vous vous concentrez jusqu’à la fin de cet effet, vous pouvez poser à la présence surnaturelle jusqu’à trois questions auxquelles elle peut répondre par oui, non ou peut-être. Puis vous effectuez un test de Volonté avec 1 désavantage. En cas de succès, le MJ doit vous répondre en vous disant la vérité. En cas d’échec, vous obtenez 1 point de Folie.</p>"
+    },
+    "3jYLyiBUkNC60go4": {
+      "name": "Rechargement rapide",
+      "description": "<p>Vous pouvez utiliser une action déclenchée au cours de votre tour pour recharger une arme qui a la propriété rechargement.</p>"
+    },
+    "3pbGEMgi1tADY34F": {
+      "name": "Assassinat",
+      "description": "<p>Quand une créature surprise ou qui n’est pas consciente de votre présence subit des dégâts à cause d’une de vos attaques, elle doit effectuer un test de Force. La cible effectue ce jet avec 1 avantage pour chaque point de son Gabarit supérieur au vôtre. En cas d’échec, elle subit autant de dégâts que sa Santé.</p>"
+    },
+    "4PoETGJDPFPUxf0Z": {
+      "name": "Sac de mécamancien",
+      "description": "<p>Vous avez un sac rempli de pièces détachées que vous utilisez pour fabriquer les équipements dont vous avez besoin. Vous évaluez le nombre de pièces détachées que vous possédez en couronnes d’or même si ces pièces n’ont aucune valeur pour quelqu’un d’autre que vous. La valeur en co de ces pièces est égale à deux fois le niveau de votre groupe. Vous pouvez utiliser une action pour commencer à assembler ces pièces afin de fabriquer une armure, une arme, des munitions ou un objet mécanique. Vous dépensez une valeur de pièces détachées du sac égale au prix de l’objet. Il faut 1 min pour fabriquer un objet. Vous devez être concentré pendant tout ce temps et utiliser une trousse à outils. Au bout d’une minute, l’objet terminé reste assemblé jusqu’à ce que vous vous reposiez. Il se retransforme alors en pièces détachées.</p><p>Quand vous vous reposez, vous refaites le plein de votre Sac de mécamancien jusqu’à sa valeur maximale normale en co.</p><p>Si vous perdez votre Sac de mécamancien, vous pouvez le remplacer. Il vous en coûte un nombre de couronnes d’or égal au niveau de votre groupe. Vous ne pouvez avoir qu’un seul Sac de mécamancien en même temps.</p>"
+    },
+    "4R6WJmH5aTxk5XI5": {
+      "name": "Gagner à tout prix",
+      "description": "<p>Vos attaques infligent [[/r 1d6]] dégâts supplémentaires aux créatures affaiblies.</p>"
+    },
+    "4YD6z0FDovG6L2rl": {
+      "name": "Jugement de l’inquisiteur",
+      "description": "<p>Vos attaques avec une arme contre une créature soumise à votre Examen minutieux infligent [[/r 1d6]] dégâts supplémentaires.</p>"
+    },
+    "4z8BSDFIPZ2HfS6m": {
+      "name": "Attaque puissante",
+      "description": "<p>Quand vous attaquez avec une arme lourde, vous pouvez effectuer le jet d’attaque avec 1 désavantage pour infliger [[/r 2d6]] dégâts supplémentaires.</p>"
+    },
+    "57r0fsTBIaDBYalP": {
+      "name": "Inamovible",
+      "description": "<p>Tant que vous êtes conscient et que vous vous tenez sur une surface solide, vous ne pouvez être déplacé contre votre volonté.</p>"
+    },
+    "5CVVxoZSxzEXPQuR": {
+      "name": "Perturbations spatiales",
+      "description": "<p>Quand vous lancez un sort de Téléportation, pour toutes les créatures qui peuvent vous voir vous êtes considéré comme étant dans une zone partiellement obscurcie. Cet effet dure 1 min.</p>"
+    },
+    "5KqXggdbL5V0N8kF": {
+      "name": "Grind the Gears"
+    },
+    "5u4okyeqh7pPvfIT": {
+      "name": "Expert en sorts",
+      "description": "<p>Augmenter de 1 le nombre d’utilisations de tous les sorts de rang 0 et de rang 1 que vous avez appris.</p>"
+    },
+    "680OszdvSBE6o3NE": {
+      "name": "Combat Prowess"
+    },
+    "6TlbtKjWf1LKiU67": {
+      "name": "Éclat intérieur",
+      "description": "<p>Quand vous lancez un sort Céleste, vous pouvez utiliser une action déclenchée pour émettre de la lumière à partir d’un point de votre espace jusqu’à un nombre de mètres égal à votre Puissance. Cette lumière se déplace avec vous, en restant centrée sur le point désigné, et dure 1 min ou jusqu’à ce que vous lanciez un autre sort Céleste.</p>"
+    },
+    "6fKtySKrv5jJJCf9": {
+      "name": "Révéler le point faible",
+      "description": "<p>Vous pouvez utiliser une action ou une action déclenchée au cours de votre tour pour choisir une créature à portée de votre allonge. Pendant 1 round, chaque membre de votre groupe qui attaque cette cible le fait avec 1 avantage.</p>"
+    },
+    "6g2tcqDA7cMwFpyA": {
+      "name": "Serviteurs mécaniques",
+      "description": "<p>Vous pouvez utiliser une action pour créer un ou plusieurs petites créatures artificielles grâce aux matériaux de votre Sac de mécamancien. Pour chaque co de matériaux dépensée, une petite créature artificielle contrainte apparaît dans un espace libre jusqu’à portée courte de vous. Vous pouvez attribuer le trait volant en dépensant 1 co du sac pour chaque créature artificielle que vous désirez faire voler. Les créatures artificielles restent jusqu’à ce qu’elles soient détruites ou jusqu’à ce que vous vous reposiez. Une fois que vous vous êtes reposé, les serviteurs mécaniques se retransforment en pièces détachées.</p>"
+    },
+    "6mv45IWBWcHse4mW": {
+      "name": "Connaissances ésotériques",
+      "description": "<p>Vous avez des connaissances sur à peu près tous les sujets. Vous effectuez les tests d’Intellect pour vous rappeler des informations utiles avec 1 avantage.</p>"
+    },
+    "6ygHAYIg4Fjnwex0": {
+      "name": "Plague Ourser"
+    },
+    "71YCKm3K0XunMxkV": {
+      "name": "Réconfort",
+      "description": "<p>Vous pouvez utiliser une action pour toucher une créature et dépenser une utilisation de votre talent Chant de combat. Si la cible est neutralisée, elle soigne 1 dégât.</p><p>Si vous vous concentrez pendant 1 min tout en parlant à la créature et en vous occupant de ses blessures, à la place la cible soigne autant de dégâts que sa vitesse de guérison.</p>"
+    },
+    "7GY0vVDySCSeJxSW": {
+      "name": "Mauvais œil",
+      "description": "<p>Quand une créature est maudite par un sort que vous avez lancé, vous pouvez utiliser une action déclenchée pour appliquer un des effets suivants à cette cible jusqu’à la fin de la malédiction :</p><ul><li>Désir : la cible est charmée.</li><li>Léthargie : la cible est ralentie.</li><li>Souffrance : la cible subit [[/r 2d6]] dégâts.</li></ul>"
+    },
+    "7H1B4jJ23ZUi1UZ1": {
+      "name": "Esquive",
+      "description": "<p>Vous pouvez utiliser une action ou une action déclenchée à votre tour pour choisir une créature jusqu’à portée courte que vous pouvez voir. Jusqu’à la fin du round, la cible effectue ses jets d’attaque contre vous avec 1 désavantage et vous effectuez vos tests pour résister à ces attaques avec 1 avantage.</p>"
+    },
+    "7HQOvRCLLqMS7gfz": {
+      "name": "Dirty Tricks"
+    },
+    "7TVzQgRbXHQxZyqu": {
+      "name": "Commandement des troupes",
+      "description": "<p>Vous pouvez utiliser une action ou une action déclenchée pour choisir une créature jusqu’à portée courte. Si la cible peut vous entendre et vous comprendre, elle se déplace à la moitié de sa Vitesse.</p>"
+    },
+    "7cB5d7m7QzkBuhUX": {
+      "name": "Shared Recovery"
+    },
+    "7syYtnovuxfLJL3D": {
+      "name": "Commandement des opérations",
+      "description": "<p>Quand vous obtenez un succès à un jet d’attaque, vous pouvez choisir une créature jusqu’à portée courte. Avant la fin du round, la cible effectue son prochain jet d’attaque avec 1 avantage.</p><p>De plus, les créatures infligent [[/r 1d6]] dégâts supplémentaires avec leurs attaques accordées par votre talent Ordre d’attaque.</p>"
+    },
+    "7w2ck4QSVFYcGNDB": {
+      "name": "Improved Shared Recovery"
+    },
+    "7xRDrontFL2F2HMv": {
+      "name": "Vol de sort",
+      "description": "<p>Quand une créature jusqu’à portée moyenne lance un sort, vous pouvez utiliser une action déclenchée pour tenter de le voler. Effectuez un jet d’attaque d’Intellect contre l’Intellect de la victime. En cas de succès, le sort lancé n’a aucun effet. Si votre Puissance est assez élevée pour le lancer, vous gagnez une utilisation de ce sort. Vous conservez cette utilisation jusqu’à ce que vous la dépensiez pour lancer le sort ou jusqu’à ce que vous vous reposiez, après quoi le sort s’efface de votre esprit. Une fois que vous avez utilisé ce talent, vous ne pouvez plus le faire tant que vous ne vous êtes pas reposé.</p>"
+    },
+    "80oA1bCOUH14i9mz": {
+      "name": "Perception de la magie",
+      "description": "<p>Vous apprenez le sort perception de la magie décrit ici.</p>"
+    },
+    "81GQ13vRCAScBlvQ": {
+      "name": "Cantrip"
+    },
+    "86fjATzuVZlZyJrZ": {
+      "name": "Catch Your Breath"
+    },
+    "89OmHiW615Spxzs8": {
+      "name": "Éclat sanctifié",
+      "description": "<p>Vous pouvez utiliser une action, ou une action déclenchée au cours de votre tour, pour faire briller une lumière à partir d’un point de votre espace dans un rayon égal à deux fois votre Puissance en mètres. Cette lumière se déplace avec vous et reste centrée sur le point choisi dans votre espace. Elle dure 1 min. Jusqu’à la fin de cet effet, vous et toutes les créatures de votre choix au sein de cette lumière ne pouvez être effrayés et effectuez vos tests pour résister aux attaques avec 1 avantage. Les démons, les diables, les fées, les esprits et les morts-vivants dans la zone illuminée sont affaiblis tant qu’ils y restent (vous n’êtes pas affaibli si vous êtes vous-même une fée ou un mort-vivant). Vous pouvez utiliser ce talent un nombre de fois égal à votre Puissance. Vous récupérez l’ensemble de vos utilisations possibles après un repos.</p>"
+    },
+    "8AFdQdF0ZSLdegej": {
+      "name": "Récupération partagée supérieure",
+      "description": "<p>Vous pouvez utiliser deux fois Récupération partagée.</p>"
+    },
+    "8D1UThFrzyJJsStf": {
+      "name": "Combat Prowess"
+    },
+    "8LNnaBTLR5LAKBjQ": {
+      "name": "Imprécation",
+      "description": "<p>Vous apprenez les secrets de l’imprécation.</p><p>Quand vous lancez un sort offensif, vous pouvez utiliser ce talent pour effectuer le jet d’attaque avec 1 avantage ou pour imposer 1 désavantage aux jets effectués pour y résister. À chaque fois que vous utilisez ce talent, vous cumulez 1 point de stress qui représente l’effort que vous devez faire pour contenir l’énergie magique dans votre corps. Quand vous vous reposez, votre niveau de stress retombe à 0.</p>"
+    },
+    "8RUEL23VBr4pNJAW": {
+      "name": "Ruse",
+      "description": "<p>Une fois par round, vous pouvez effectuer un jet d’attaque ou un test avec 1 avantage. Si vous attaquez avec 1 avantage grâce à ce talent, votre attaque inflige [[/r 1d6]] dégâts supplémentaires.</p>"
+    },
+    "8ZW3oKALsHvQV2ji": {
+      "name": "Doppelganger's Advantage"
+    },
+    "8myYYU4aZuEhVP1d": {
+      "name": "Weapon Training"
+    },
+    "8sH3Y03d8YhmSGRK": {
+      "name": "Ambidextrie",
+      "description": "<p>Vous pouvez manier des armes à une main avec votre main non directrice.</p>"
+    },
+    "92sHPXqX4QLU5vOI": {
+      "name": "Fluid Magic"
+    },
+    "9BQn4qMTCeyn4YoG": {
+      "name": "Arpenteur de la terre",
+      "description": "<p>Vous ignorez les effets des terrains difficiles constitués de terre, de sable et de pierre.</p><p>De plus, vous pouvez vous déplacer à travers des espaces occupés par de la terre, du sable ou de la pierre. Si vous terminez votre déplacement dans une structure solide, vous êtes repoussé vers un espace dégagé le plus près possible de l’endroit où vous êtes entré dans cette structure.</p>"
+    },
+    "9PpVxaYgQQopGFjy": {
+      "name": "Maîtrise du poison",
+      "description": "<p>Vous pouvez utiliser une action et une trousse d’alchimiste pour fabriquer une dose de poison (voir Chapitre 6 pour plus de détails). Vous devez vous concentrer pendant au moins 1 min pour utiliser la trousse et des ingrédients spéciaux d’une valeur de 1 sc. Les créatures effectuent leurs tests de Force avec 3 désavantages pour résister aux poisons que vous fabriquez et ces derniers infligent [[/r 3d6]] dégâts supplémentaires.</p>"
+    },
+    "9g1jzBbtQhqGUEgp": {
+      "name": "Arme de prédilection",
+      "description": "<p>Après un repos, choisissez une arme qui répond à vos prérequis. Cette arme devient votre arme de prédilection jusqu’à ce que vous utilisiez à nouveau ce talent.</p><p>Tant que vous maniez votre arme de prédilection, vous bénéficiez d’un bonus de +1 en Défense. Lorsque vous attaquez avec votre arme de prédilection, vous faites votre jet d’attaque avec 1 avantage.</p>"
+    },
+    "A3OuGMFDLo6wcd49": {
+      "name": "Blocage au bouclier",
+      "description": "<p>Quand une créature vous attaque avec une arme, vous pouvez utiliser une action déclenchée pour bloquer son attaque avec le bouclier que vous maniez. La créature ayant déclenché cet effet effectue son attaque avec 1 désavantage.</p>"
+    },
+    "AXyplZAXfbnwko77": {
+      "name": "Invention",
+      "description": "<p>Quand vous lancez un sort de Technomancie, vous créez également un appareil qui tient dans une main et qui est imprégné d’une énergie magique qui dure jusqu’à ce que vous l’utilisiez ou que vous vous reposiez. Quand vous effectuez un jet d’attaque ou un test, vous pouvez utiliser l’énergie de l’appareil pour effectuer le jet avec 1 avantage.</p>"
+    },
+    "AqOwGGV0Kx7OGPwM": {
+      "name": "Posture de combat",
+      "description": "<p>Vous pouvez utiliser une action ou une action déclenchée à votre tour pour adopter une posture de combat et la conserver jusqu’à ce que vous vous déplaciez ou que vous soyez inconscient. Tant que vous conservez cette posture, vous effectuez vos jets d’attaque avec 1 avantage et les créatures qui vous attaquent le font avec 1 désavantage.</p>"
+    },
+    "Att9ekZQ06T66e9F": {
+      "name": "Contresort",
+      "description": "<p>Quand une créature que vous pouvez voir vous attaque avec un sort, vous pouvez utiliser une action déclenchée pour le contrer. La créature qui déclenche cet effet effectue son jet d’attaque avec 1 désavantage et vous effectuez le test pour résister avec 1 avantage.</p>"
+    },
+    "AvdspXwfmIkgjHZR": {
+      "name": "Maître de la non-mort",
+      "description": "<p>Vous doublez le nombre de créatures contraintes que vous pouvez contrôler avec vos sorts de Nécromancie.</p><p>De plus, les créatures mortes-vivantes que vous créez grâce à vos sorts de Nécromancie effectuent leurs jets d’attaque avec 1 avantage et leurs attaques infligent [[/r 1d6]] dégâts supplémentaires.</p>"
+    },
+    "B4vgSDNNUUckKFIE": {
+      "name": "Shadowsight"
+    },
+    "BIIzrjmwrA9miU17": {
+      "name": "Combat Prowess"
+    },
+    "BdPI5GMdDHeZPMFk": {
+      "name": "Bête primordiale",
+      "description": "<p>Quand vous lancez le sort bête intérieure, le bonus à la Vitesse est augmenté de 2 et les dégâts supplémentaires de vos attaques à mains nues et de vos armes naturelles sont augmentés de [[/r 1d6]].</p>"
+    },
+    "Bl5C2GktbJPuzJeZ": {
+      "name": "Exploit Opportunity"
+    },
+    "BsnTHk1cXTqZMoZw": {
+      "name": "Bénédiction des flammes",
+      "description": "<p>Vous ne subissez que la moitié des dégâts de feu.</p>"
+    },
+    "BvH2wwh0EnutduSe": {
+      "name": "Lumière intense",
+      "description": "<p>Vos sorts Célestes offensifs infligent [[/r 1d6]] dégâts de plus.</p>"
+    },
+    "BzkPlRWCXClhfZN6": {
+      "name": "Chasser des proies",
+      "description": "<p>Vous pouvez utiliser une action, ou une action déclenchée au cours de votre tour, pour désigner comme votre proie une créature que vous pouvez voir. La cible reste votre proie jusqu’à ce que vous utilisiez à nouveau ce talent, que vous soyez inconscient ou que vous vous reposiez. Vous effectuez vos jets d’attaque avec 1 avantage contre votre proie ainsi que pour tous les tests pour la traquer.</p>"
+    },
+    "CUjaqd6oFAXnymR5": {
+      "name": "Determined"
+    },
+    "CY1MF8j4To2T0Kzo": {
+      "name": "Détermination du champion",
+      "description": "<p>Au moment où vous êtes neutralisé, vous pouvez utiliser une action déclenchée pour effectuer un test de Force. Si vous obtenez un succès, vous soignez un nombre de dégâts égal à votre vitesse de guérison et, pendant 1 round, vos attaques avec une arme infligent [[/r 1d6]] dégâts supplémentaires.</p>"
+    },
+    "Cn5YhFQPmKTT0PUq": {
+      "name": "Frappe brutale",
+      "description": "<p>Quand vous neutralisez une créature en frappant avec une arme lourde, vous pouvez utiliser une action déclenchée pour attaquer avec la même arme à n’importe quel moment avant la fin de votre tour.</p>"
+    },
+    "CyxX8Lmj4lkU8Yl9": {
+      "name": "Vigilance",
+      "description": "<p>Vous effectuez vos jets de Perception avec 1 avantage. De plus, vous ne pouvez pas être surpris tant que vous êtes conscient.</p>"
+    },
+    "D3ZGjiUGl0kBNJF7": {
+      "name": "Déchaînement de fureur",
+      "description": "<p>Si le fait d’obtenir de la Folie devrait vous faire devenir fou, à la place vous devenez berserk même si vous êtes fatigué. Tant que vous êtes berserk à cause de cet effet, le MJ contrôle votre personnage. À la fin de chaque round, le MJ lance [[/r 1d6]]. Sur un résultat de 5+, vous n’êtes plus berserk et vous réduisiez votre total de Folie de [[/r 1d6]] + votre modificateur de Volonté (minimum 0). Puis vous êtes fatigué pendant 1 min. Si vous étiez déjà fatigué, à la place vous subissez [[/r 1d6]] dégâts.</p>"
+    },
+    "DHbDAKyim9DYBXBo": {
+      "name": "Maître tortionnaire",
+      "description": "<p>Vous pouvez utiliser une action pour torturer une créature vulnérable ou attachée à portée de votre allonge. Si vous vous concentrez pendant au moins 1 h, en utilisant des instruments de torture sur la cible, vous effectuez un jet d’attaque d’Intellect contre sa Volonté. En cas de succès, vous pouvez poser [[/r 1d6]] questions à la cible (le MJ effectue le jet et ne révèle pas le résultat) et elle doit répondre sincèrement et au mieux de ses connaissances.</p><p>Si elle ne connaît pas la réponse, il se peut qu’elle invente quelque chose que vous vouliez entendre mais c’est à vous d’interpréter ce qu’elle dit comme étant la vérité ou non. En cas d’échec, la cible est immunisée contre votre talent jusqu’à ce qu’elle se soit reposée.</p>"
+    },
+    "DhJjdsMBlTG10it3": {
+      "name": "Anonyme",
+      "description": "<p>Vous pouvez tenter de vous cacher n’importe où ; on peut vous observer et vous n’avez pas à être dans une zone fortement obscurcie ou derrière un abri majeur. Ce talent vous permet de rester caché jusqu’à ce que vous utilisiez une action ou une action déclenchée, après quoi vous devez attendre au moins 1 min avant de pouvoir de nouveau l’utiliser.</p><p>Tant que vous êtes caché, les gens à qui vous parlez ne se souviennent d’aucun détail vous concernant 1 min après la fin de la conversation et vous oublient totalement au bout d’une heure. Enfin, au premier round de combat au cours duquel vous êtes caché, vous effectuez vos jets d’attaque et vos tests avec 1 avantage. Si vous effectuez un tour rapide au cours de ce round, vous pouvez utiliser une action et vous déplacer.</p>"
+    },
+    "E2u5NQsAS3O22EAr": {
+      "name": "Sales tours",
+      "description": "<p>Vos attaques infligent [[/r 1d6]] dégâts supplémentaires quand vous effectuez votre jet d’attaque avec 1 avantage.</p>"
+    },
+    "EQdpUWL8LZyIbGDD": {
+      "name": "Vigilance",
+      "description": "<p>Vous effectuez vos jets de Perception avec 1 avantage. De plus, vous ne pouvez pas être surpris tant que vous êtes conscient.</p>"
+    },
+    "EYRK7A8jLXxmvzl8": {
+      "name": "Conviction",
+      "description": "<p>Vous effectuez vos tests de Volonté avec 1 avantage quand vous faites un jet pour résister aux effets des traits effrayant et terrifiant (voir Chapitre 10).</p>"
+    },
+    "EfOF286ZMKJF1s1y": {
+      "name": "Puissance divine",
+      "description": "<p>Quand vous utilisez Zèle, vous effectuez le second jet avec 1 avantage. De plus, si vous effectuez un jet d’attaque, cette attaque inflige [[/r 1d6]] dégâts supplémentaires.</p>"
+    },
+    "FCqYSjG579Wjcoy8": {
+      "name": "Infested"
+    },
+    "FFRBRG5qT1TG1i02": {
+      "name": "Cantrip"
+    },
+    "FM7BRXVFX5qqLzOu": {
+      "name": "Cape d’ombres",
+      "description": "<p>Tant que vous êtes dans une zone éclairée, on considère que vous êtes dans une zone d’ombres.</p>"
+    },
+    "FR4cX5U8jPk1pPMt": {
+      "name": "Incantation effroyable",
+      "description": "<p>Quand vous lancez un sort de l’Interdit, choisissez une créature jusqu’à portée courte qui peut vous voir. La cible doit obtenir un succès à un test de Volonté ou être effrayée pendant un nombre de rounds égal à votre Puissance.</p>"
+    },
+    "FiBe9SiATPWlAqNz": {
+      "name": "Tir rapide",
+      "description": "<p>Quand vous effectuez une attaque avec une arme à distance qui n’a pas la propriété rechargement, vous pouvez utiliser une action déclenchée pour attaquer avec la même arme. Vous effectuez la seconde attaque avec 1 désavantage.</p>"
+    },
+    "FoytdZ58reHdWZ8C": {
+      "name": "Mobilité",
+      "description": "<p>Quand vous effectuez un tour rapide, vous pouvez utiliser une action et vous déplacer. Vos déplacements, quel que soit le tour, ne déclenchent jamais d’attaques gratuites.</p>"
+    },
+    "FqHe8vQlH6imM0w2": {
+      "name": "Mystères des druides",
+      "description": "<p>Vous avez appris les anciens mystères des druides au moment de votre initiation. Vous pouvez faire les actions suivantes :</p><ul><li>Identifier n’importe quel animal ou n’importe quelle plante que vous voyez.</li><li>Savoir si l’eau et la nourriture sont consommables.</li><li>Prédire précisément le temps qu’il fera sur une période de 24 h tant que vous êtes à l’extérieur et que vous pouvez voir le ciel.</li><li>Vous déplacer à pleine Vitesse sur des terrains rendus difficiles à cause d’éléments naturels.</li><li>Ne laisser des traces sur un terrain naturel que si vous le souhaitez.</li></ul>"
+    },
+    "Fqhd6P4KxXzDhH5R": {
+      "name": "Bâton de magie",
+      "description": "<p>Vous créez un bâton magique qui vous sert de focale. Quand vous attaquez avec ce bâton, vous le faites avec 1 avantage et cette attaque inflige [[/r 1d6]] dégâts supplémentaires.</p><p>Si vous perdez votre bâton ou s’il est détruit, vous pouvez en fabriquer un autre en travaillant pendant 8 h avec une trousse d’alchimiste et des matériaux spéciaux d’une valeur de 1 co.</p>"
+    },
+    "FrWrgAKCG49Ndzqk": {
+      "name": "Coup de grâce",
+      "description": "<p>Vous effectuez vos jets d’attaque avec 1 avantage contre des cibles affectées par des afflictions et vos attaques contre elles infligent [[/r 1d6]] dégâts supplémentaires.</p>"
+    },
+    "FwyqfT7XRa3dL95n": {
+      "name": "Maîtrise du vol de sort",
+      "description": "<p>Vous pouvez désormais utiliser trois fois votre talent Vol de sort. De plus, vous volez toujours le sort ciblé et vous pouvez le lancer quelle que soit votre Puissance.</p>"
+    },
+    "Fy51vrd1I1RGHJuE": {
+      "name": "Défi",
+      "description": "<p>Vous pouvez utiliser une action ou une action déclenchée à votre tour pour défier une créature ciblée jusqu’à portée moyenne qui peut vous voir et vous entendre. Effectuez un jet d’attaque d’Intellect contre la Volonté de la cible. En cas de succès, la cible est défiée jusqu’à ce que vous soyez inconscient ou qu’elle soit neutralisée. L’effet cesse également si vous utilisez de nouveau ce talent ou si vous attaquez une autre cible. En cas d’échec, la cible est immunisée contre votre talent jusqu’à ce qu’elle se soit reposée.</p><p>Quand une cible que vous avez défiée effectue une attaque contre une créature autre que vous, elle le fait avec 1 désavantage.</p>"
+    },
+    "G9YIGqphYMHGX5xz": {
+      "name": "Battle Standard"
+    },
+    "GBsmtzkF84TbNtoo": {
+      "name": "Focus de tradition",
+      "description": "<p>Choisissez deux traditions que vous avez déjà découvertes. Quand vous attaquez avec un sort d’une des traditions que vous avez choisies en gagnant ce talent, vous effectuez le jet d’attaque avec 1 avantage. Les créatures effectuent leurs tests pour résister à ces sorts avec 1 désavantage.</p>"
+    },
+    "GKYxBPcGQ1KSQyh3": {
+      "name": "Bound in Silver"
+    },
+    "GRGZGyZHNE6lFHiR": {
+      "name": "Combat déloyal",
+      "description": "<p>Vous pouvez utiliser une action, ou une action déclenchée à votre tour, pour effectuer un jet d’attaque d’Agilité contre la Perception d’une créature jusqu’à portée de votre allonge. En cas de succès, la cible est affaiblie pendant 1 round. En cas d’échec, la cible est immunisée contre les effets de votre talent Combat déloyal jusqu’à ce qu’elle se repose.</p>"
+    },
+    "Ga0DKSa0eJzUfcmf": {
+      "name": "Combat Expertise"
+    },
+    "GdJbQH1zzqdlLYAv": {
+      "name": "Enchantement persistant",
+      "description": "<p>Vous doublez la durée de tous les sorts d’Enchantement que vous lancez et qui ont une durée d’au moins 1 min.</p>"
+    },
+    "GgEl5hlSs8lbqwZm": {
+      "name": "Cause divine",
+      "description": "<p>Quand vous faites un test pour résister à une attaque, vous pouvez dépenser une utilisation d’un sort. Vous effectuez le jet avec un nombre d’avantages égal au rang du sort dont vous avez sacrifié l’utilisation (minimum 1 avantage).</p>"
+    },
+    "Givzdo6beRULHm7i": {
+      "name": "One Roguery Talent"
+    },
+    "GxkCBJa35rgXOtXh": {
+      "name": "Attaque d’hast",
+      "description": "<p>Quand vous attaquez avec une arme d’hast ou un bâton, vous pouvez utiliser une action déclenchée pour attaquer avec l’autre bout de l’arme. Vous effectuez ce jet d’attaque avec 1 désavantage et l’attaque inflige [[/r 1d6]] dégâts.</p>"
+    },
+    "H85G56IGtO7knAji": {
+      "name": "Habitué à la mort",
+      "description": "<p>Vous ne subissez jamais de dégâts à cause des maladies et des poisons et vous ne pouvez jamais être malade ou empoisonné. Enfin, lorsque vous effectuez votre jet pour déterminer votre destin quand vous êtes neutralisé, vous lancez le dé une fois de plus et vous choisissez le meilleur résultat.</p>"
+    },
+    "HGMvSL7KaqVQlw1z": {
+      "name": "Lien avec la nature",
+      "description": "<p>Vous pouvez utiliser une action pour vous transformer en arbre, en buisson ou en une plante similaire qu’on peut normalement trouver dans votre environnement. Vous conservez cette forme jusqu’à ce que vous vous reposiez. Tant que vous êtes transformé, vous êtes considéré comme un objet de votre Gabarit et on ne peut vous distinguer des plantes ordinaires. Vous restez conscient de votre environnement et vous pouvez effectuer des jets de Perception. Vous ne pouvez rien faire d’autre que mettre un terme à cet effet, ce que vous pouvez faire à n’importe quel moment en utilisant une action déclenchée. Vous reprenez votre forme normale si vous êtes neutralisé sous votre forme actuelle. Si vous vous reposez sous cette forme, vous soignez tous vos dégâts après votre repos.</p>"
+    },
+    "HeeWx5ksuQwpktxn": {
+      "name": "Charge dévastatrice",
+      "description": "<p>Les attaques que vous effectuez avec une charge infligent [[/r 1d6]] dégâts supplémentaires ou [[/r 2d6]] dégâts supplémentaires si vous chevauchez une créature.</p>"
+    },
+    "HoX2ygyYhQx3D5r4": {
+      "name": "Volonté de fer",
+      "description": "<p>Vous ne pouvez pas être charmé, contraint ou effrayé. Quand vous effectuez un jet pour ne pas obtenir de Folie, vous le faites avec 1 avantage.</p>"
+    },
+    "HqJVahn02FsJKF4r": {
+      "name": "Transformation supérieure",
+      "description": "<p>Quand vous lancez un sort de Transformation et que vous prenez une forme différente, vous gagnez un des avantages suivants qui dure jusqu’à ce que vous repreniez votre forme normale :</p><ul><li>Bonus de +1 en Défense.</li><li>Bonus de +2 en Vitesse.</li><li>Bonus de +4 en Perception.</li><li>Bonus de +5 en Santé.</li></ul>"
+    },
+    "I4It4NPE9y8cKc7V": {
+      "name": "Mob"
+    },
+    "IMNR1CfopSU4LA9O": {
+      "name": "Accélération",
+      "description": "<p>Quand vous lancez un sort du Temps, vous pouvez vous déplacer d’un nombre de mètres égal à votre Puissance. Ce déplacement ne déclenche pas d’attaques gratuites.</p>"
+    },
+    "IOQco0reddmihOh3": {
+      "name": "Disparition",
+      "description": "<p>Quand vous bénéficiez de n’importe quel type d’obscurcissement ou d’abri, vous pouvez utiliser une action déclenchée pour utiliser le talent Anonyme.</p>"
+    },
+    "Id7fE26Uc9agxoVo": {
+      "name": "Tour de magie",
+      "description": "<p>À chaque fois que vous découvrez une tradition, vous apprenez un sort supplémentaire de rang 0 de cette tradition.</p>"
+    },
+    "Ieyhq071WDn70pJA": {
+      "name": "Combat Prowess"
+    },
+    "IpDuzKvlgfMu3HDo": {
+      "name": "Résistance aux éléments",
+      "description": "<p>Vous ne risquez jamais d’être fatigué à cause des éléments naturels. Vous subissez la moitié des dégâts dus au froid, à la foudre, au tonnerre et au feu.</p>"
+    },
+    "IsausVxRVkLWqoce": {
+      "name": "Vitalité inébranlable",
+      "description": "<p>Vous ne subissez jamais de dégâts à cause des maladies et des poisons et vous ne pouvez jamais être malade ou empoisonné. De plus, vous soignez tous vos dégâts quand vous vous reposez.</p>"
+    },
+    "IwZpVrzNXPbPK0AX": {
+      "name": "Arme magique",
+      "description": "<p>Quand vous attaquez avec l’arme affectée par votre sort arme sorceliée, vous effectuez le jet d’attaque avec 1 avantage et vous infligez [[/r 1d6]] dégâts supplémentaires.</p>"
+    },
+    "JCuUhS7HdajuiDLs": {
+      "name": "Protection contre l’enchantement",
+      "description": "<p>Si vous êtes charmé, contraint et/ou effrayé à la fin d’un round, vous pouvez effectuer un test d’Intellect pour vous débarrasser de toutes ces afflictions si vous obtenez un succès.</p>"
+    },
+    "JFfmK3SaK6Oh8dts": {
+      "name": "Virtuose de l’évasion",
+      "description": "<p>Quand vous êtes saisi, vous pouvez utiliser une action déclenchée pour vous dégager.</p><p>Quand vous êtes attaché avec des cordes ou des menottes, vous pouvez utiliser une action pour tenter d’échapper à vos liens. Vous devez vous concentrer pendant 1 min. Une fois ce temps écoulé, effectuez un test d’Agilité. En cas de succès, vous vous défaites de vos liens. En cas d’échec, vos liens sont trop serrés et vous restez attaché jusqu’à ce que vous soyez libéré.</p>"
+    },
+    "JTNp6znfFwH7PU80": {
+      "name": "Animation d’objet",
+      "description": "<p>Vous apprenez le sort animation d’objet, décrit ci-après.</p>"
+    },
+    "Jr7UpY4HQY5Je2aa": {
+      "name": "Maîtrise du combat à deux armes",
+      "description": "<p>Quand vous attaquez avec deux armes, vous effectuez le jet d’attaque avec 1 avantage. Si vous attaquez une cible avec les deux armes, votre attaque inflige [[/r 1d6]] dégâts de plus.</p>"
+    },
+    "JuEcewpmiHDU7mOu": {
+      "name": "Forceful Strike"
+    },
+    "JxjMvNjO9nx4xUrB": {
+      "name": "Counterspell"
+    },
+    "K5aPjYaOreZH1wdY": {
+      "name": "Réflexes rapides",
+      "description": "<p>Vous pouvez utiliser une action déclenchée à votre tour pour vous cacher ou battre en retraite.</p>"
+    },
+    "KBZA6iMxnA8JilIt": {
+      "name": "Transformation rapide",
+      "description": "<p>Vous pouvez utiliser une action déclenchée à votre tour pour lancer un sort de Transformation que vous avez appris.</p>"
+    },
+    "KEF7r2dL5iDNaSD3": {
+      "name": "Protéger",
+      "description": "<p>Vous pouvez utiliser une action ou une action déclenchée au cours de votre tour pour protéger une créature jusqu’à portée de votre allonge. Jusqu’à la fin de ce round, les créatures qui attaquent cette cible le font avec 1 désavantage. Cet effet cesse immédiatement si la cible se déplace hors de votre allonge ou si vous êtes inconscient.</p>"
+    },
+    "KQwKg8G9re9MVx5j": {
+      "name": "Vulnérabilité au Fer"
+    },
+    "KRyKAxmjWxwSrtqx": {
+      "name": "Charme désarmant",
+      "description": "<p>Quand une créature est charmée à cause d’un sort que vous avez lancé, vous pouvez aussi faire en sorte qu’elle soit affaiblie jusqu’à ce qu’elle se débarrasse de son affliction charmée.</p>"
+    },
+    "KSdV70V5r97dmhe4": {
+      "name": "Repairing Damage"
+    },
+    "KT2CPakZKW7D7MDR": {
+      "name": "Fuite hâtive",
+      "description": "<p>Quand une créature que vous pouvez voir vous attaque, vous pouvez effectuer une action déclenchée pour dépenser une utilisation d’un sort de Téléportation de rang 1 ou supérieur. Vous vous téléportez dans un espace dégagé à une distance égale à [[/r 1d6]] mètres par rang du sort dont vous avez dépensé l’utilisation ; puis vous êtes étourdi pendant 1 round. Si la cible ne peut plus vous attaquer, son action est gâchée.</p>"
+    },
+    "KYz2kKQF15aEOwi3": {
+      "name": "Ordre d’attaque",
+      "description": "<p>Vous pouvez utiliser une action à votre tour pour choisir une créature jusqu’à portée courte. Si la cible peut vous entendre et vous comprendre, elle peut utiliser une action déclenchée pour attaquer. La cible effectue son jet d’attaque avec 1 avantage.</p>"
+    },
+    "KaoggRht3KHWSJLe": {
+      "name": "Spell Recovery"
+    },
+    "KmzZBSnVFQG1cno0": {
+      "name": "Astuce du roublard",
+      "description": "<p>Vous pouvez utiliser Ruse deux fois par round.</p>"
+    },
+    "KnKLOo1LWUIsvAjv": {
+      "name": "Réflexes rapides",
+      "description": "<p>Vous pouvez utiliser une action déclenchée à votre tour pour vous cacher ou battre en retraite.</p>"
+    },
+    "L4E95wmQ7PiOlcWq": {
+      "name": "Fixed Defense"
+    },
+    "L6PeY7p91sHRDKoa": {
+      "name": "Combat Prowess"
+    },
+    "LDoERnk3j0JkUvWa": {
+      "name": "Serment de vengeance",
+      "description": "<p>Quand une créature que vous pouvez voir inflige des dégâts, à vous ou à une autre créature, vous pouvez utiliser une action déclenchée pour prêter un serment de vengeance contre la créature déclencheur. La cible est marquée pendant 1 min, jusqu’à ce qu’elle soit neutralisée ou jusqu’à ce que vous soyez inconscient. Jusqu’à la fin de cet effet, vous ne pouvez plus utiliser ce talent mais vous bénéficiez des avantages suivants :</p><ul><li>Vous effectuez vos jets d’attaque contre la cible marquée avec 1 avantage.</li><li>Une cible marquée est effrayée tant qu’elle se trouve à portée de votre allonge.</li><li>Si une cible marquée s’éloigne de vous, vous pouvez utiliser une action déclenchée pour vous déplacer vers elle à votre Vitesse.</li></ul>"
+    },
+    "LfDzoYzeQjQgLD0D": {
+      "name": "Combat Expertise"
+    },
+    "Lmxei9NyrWSfjFPR": {
+      "name": "Frappe puissante",
+      "description": "<p>Quand le total de votre jet d’attaque est au moins de 20 et qu’il est supérieur d’au moins 5 points au seuil de difficulté, l’attaque inflige [[/r 1d6]] dégâts supplémentaires.</p>"
+    },
+    "LpYW3K9o0g7a1fDo": {
+      "name": "Courroux du vengeur",
+      "description": "<p>Vos attaques infligent [[/r 1d6]] dégâts supplémentaires aux cibles que vous avez marquées avec votre Serment de vengeance.</p>"
+    },
+    "MF3UUIaRFcwbZvbJ": {
+      "name": "Symbole renforcé",
+      "description": "<p>Quand vous lancez un sort de la tradition que vous avez choisie pour Icône sacrée, s’il inflige des dégâts ou en soigne, ce sort inflige ou soigne [[/r 1d6]] dégâts de plus.</p>"
+    },
+    "MNTYDBfAXnKITy8d": {
+      "name": "Traqueur aguerri",
+      "description": "<p>Quand vous trouvez une piste, vous pouvez effectuer un test d’Intellect. En cas de succès, vous apprenez une information utile au sujet de la ou des créatures qui ont laissé ces traces.</p>"
+    },
+    "MRAIvjLrgjNz8xbZ": {
+      "name": "Lien durable",
+      "description": "<p>Vous pouvez utiliser une action pour forger un lien avec une créature jusqu’à portée courte qui peut vous voir et vous entendre. Si la cible est volontaire, vous êtes connectés jusqu’à ce que vous mouriez, qu’elle meurt ou que vous utilisiez à nouveau ce talent. Jusqu’à la fin de l’effet, vous et la cible effectuez tous vos jets de Perception avec 1 avantage tant que vous êtes à portée moyenne l’un de l’autre. Tant que vous êtes à portée moyenne l’un de l’autre, à chaque fois que vous ou la cible guérissez d’un certain montant de dégâts, l’autre guérit de la moitié de ce montant.</p>"
+    },
+    "MRxoLIMMuAKWqhSf": {
+      "name": "Lame rapide",
+      "description": "<p>Vous pouvez utiliser une action déclenchée à votre tour pour attaquer avec une dague ou un couteau.</p>"
+    },
+    "MU9xlUPoG3xa8Vve": {
+      "name": "Spiked Tail"
+    },
+    "Mg8N3hl15qsu0AQl": {
+      "name": "Steal Identity"
+    },
+    "MgPzpJiiEindFlXN": {
+      "name": "Saignée",
+      "description": "<p>Vos attaques avec des dagues, des couteaux et d’autres armes similaires peuvent infliger des blessures hémorragiques. Quand le total de votre jet d’attaque est de 20 ou plus avec une arme de ce type et qu’il excède le seuil de difficulté d’au moins 5, la cible subit une blessure hémorragique qui dure jusqu’à ce qu’elle soigne des dégâts ou jusqu’à ce qu’une créature utilise une action pour compresser la blessure. Tant qu’elle souffre de cette blessure, la cible est fatiguée et subit [[/r 1d6]] dégâts à la fin de chaque round.</p>"
+    },
+    "MrMHNuG1csHt6NYU": {
+      "name": "Prodige",
+      "description": "<p>Une fois que vous vous êtes reposé, augmentez un de vos attributs de 1 point. L’effet dure jusqu’à ce que vous utilisiez de nouveau ce talent.</p>"
+    },
+    "N7ifm6WHhOWzN3Wn": {
+      "name": "Shadowsight"
+    },
+    "NBYr0JMyfvj2vJhi": {
+      "name": "Coup bas",
+      "description": "<p>Quand la cible de votre talent Révéler le point faible subit des dégâts, vous pouvez utiliser une action déclenchée pour l’attaquer.</p>"
+    },
+    "NHb0YCH3hovv2dCZ": {
+      "name": "Récupération de sort",
+      "description": "<p>Vous pouvez effectuer une action pour soigner un nombre de dégâts égal à votre vitesse de guérison et regagner une utilisation déjà dépensée d’un sort que vous avez appris. Une fois que vous avez utilisé ce talent, vous ne pouvez plus le faire tant que vous ne vous êtes pas reposé.</p>"
+    },
+    "NllUksKWtKm6UKRX": {
+      "name": "Observateur avancé",
+      "description": "<p>Quand vous effectuez un test pour vous cacher ou pour vous déplacer discrètement et que vous êtes au-delà de la portée courte des autres membres du groupe, vous effectuez ce jet avec 1 avantage.</p>"
+    },
+    "Ns1ernK8fP8qj670": {
+      "name": "Spawn"
+    },
+    "OiiZ1u9SHOEKWYmj": {
+      "name": "Vélocité arcanique",
+      "description": "<p>Vous pouvez utiliser une action déclenchée à votre tour pour lancer un sort Arcanique que vous avez appris.</p>"
+    },
+    "PGWXAiVOrXUhqyb2": {
+      "name": "Immunité"
+    },
+    "PGdaGHrhZYO6gpuv": {
+      "name": "Soins amplifiés",
+      "description": "<p>Quand une créature soigne des dégâts grâce à un sort de la Vie que vous avez lancé, elle soigne des dégâts supplémentaires égaux à sa vitesse de guérison.</p>"
+    },
+    "PGhT5aEHcXvPMuim": {
+      "name": "Puissance primordiale",
+      "description": "<p>Les animaux que vous avez charmés effectuent leurs jets d’attaque et leurs tests avec 1 avantage. De plus, leurs attaques infligent [[/r 1d6]] dégâts supplémentaires.</p>"
+    },
+    "PJs6HVJez1pG3dX7": {
+      "name": "Unmake"
+    },
+    "PdYPlKHEcfEaVcJq": {
+      "name": "Incarnation of Death"
+    },
+    "PnhFvarEf9PBQP1z": {
+      "name": "Endurant",
+      "description": "<p>Quand vous pouvez soigner des dégâts égaux à votre vitesse de guérison, cette dernière est égale à votre Santé divisée par 3.</p>"
+    },
+    "QGjFQBQOUKaC9pk2": {
+      "name": "Evil Aura"
+    },
+    "QIGjORBoHitPSJgp": {
+      "name": "Disparition",
+      "description": "<p>Quand vous subissez des dégâts, vous pouvez utiliser une action déclenchée pour devenir invisible pendant 1 round ou jusqu’à ce que vous attaquiez. Si vous disposez d’une utilisation d’un sort grâce à votre talent Vol de sort, vous pouvez dépenser cette utilisation pour rester invisible pendant 1 min.</p>"
+    },
+    "QK8a70zDYFgBJJlg": {
+      "name": "Contre-charme",
+      "description": "<p>Quand une créature que vous pouvez voir jusqu’à portée moyenne est charmée ou contrainte, vous pouvez utiliser une action déclenchée pour effectuer un test d’Intellect. En cas de succès, vous débarrassez la créature ayant déclenché cet effet de cette affliction.</p>"
+    },
+    "QRVCW5DMjnaBLqtI": {
+      "name": "Eidolon",
+      "description": "<p>Vous construisez une créature artificielle qui a une forme humanoïde mais dont vous pouvez choisir l’apparence. L’eidolon a une taille de 3,6 m et pèse 1 tonne. Vous ne pouvez avoir qu’un seul eidolon en même temps. S’il est détruit; vous pouvez en construire un nouveau pour le remplacer. Pour ce faire, vous devez travailler au moins huit heures en utilisant des composants que vous fabriquez ou que vous avez récupérés sur l’ancien modèle.</p><p>Une fois ce délai écoulé, vous avez un nouvel eidolon. Un eidolon n’est pas vivant. Il n’est jamais affecté par le manque, les conditions environnementales et il ignore tous les effets qui le feraient vieillir. Quand il est neutralisé, un eidolon cesse d’être une créature et devient un objet. Vous le contrôlez. Vous décidez de ses actions à chacun de ses tours. Les caractéristiques d’un eidolon sont les suivantes.</p>"
+    },
+    "Qli7WrtTHmIu5nei": {
+      "name": "Tactiques du chevalier-mage",
+      "description": "<p>Quand vous attaquez avec un sort, vous pouvez utiliser une action déclenchée pour attaquer avec une arme à n’importe quel moment avant la fin de votre tour.</p>"
+    },
+    "QrzIVjcEQ6asN0mg": {
+      "name": "Spring Away"
+    },
+    "QxqxxMku06Oz34oJ": {
+      "name": "Crochetage de serrures",
+      "description": "<p>Si vous avez des outils de crochetage, vous pouvez utiliser une action pour crocheter une serrure que vous pouvez atteindre. Si le MJ demande un test, vous l’effectuez avec 1 avantage.</p>"
+    },
+    "R5UPdifyVylHlOqI": {
+      "name": "Frappe rigoureuse",
+      "description": "<p>Quand vous obtenez un succès à un jet d’attaque avec une arme, vous pouvez utiliser une action déclenchée pour infliger les dégâts maximums de l’arme.</p>"
+    },
+    "RJRFB99SYApQHl0p": {
+      "name": "Riposte",
+      "description": "<p>Quand une créature ciblée que vous avez défiée effectue un jet d’attaque contre vous, vous pouvez utiliser une action déclenchée pour imposer 1 désavantage à son jet. Si la créature ayant déclenché cet effet obtient un échec, vous effectuez une riposte. Attaquez la cible avec une arme de mêlée dont vous êtes équipé. Vous effectuez cette attaque avec 1 avantage si vous êtes équipé d’une arme rapide.</p>"
+    },
+    "RTiMfh5C943udCFC": {
+      "name": "Incantation du grimoire",
+      "description": "<p>Si vous tenez un grimoire, vous pouvez lancer un sort qu’il contient en dépensant une utilisation d’un sort que vous avez appris et qui est d’un rang supérieur ou égal.</p>"
+    },
+    "RVKiJ8CoeLuqQOka": {
+      "name": "Purifier les impurs",
+      "description": "<p>Vous effectuez vos jets d’attaque contre les démons, les diables, les fées, les esprits et les morts-vivants avec 1 avantage. Ces créatures effectuent leurs tests pour résister à vos attaques avec 1 désavantage.</p>"
+    },
+    "ReDqlG28ixDllbBS": {
+      "name": "Forbidden Secrets"
+    },
+    "RxRVAKC4dBUBVtGa": {
+      "name": "Grimoire",
+      "description": "<p>Vous obtenez un livre de connaissances magiques.</p><p>Ce livre vous accorde 1 avantage pour vos tests d’Intellect afin de vous rappeler des informations sur la magie. De plus, le grimoire contient des sorts que vous avez découverts pendant vos voyages. Il contient trois sorts d’un rang que vous pouvez utiliser. Ces sorts peuvent appartenir à n’importe quelle tradition, même une tradition que vous n’avez pas encore découverte, mais le sort doit au moins être de rang 1. Pour le cumul de Corruption accompagnant l’apprentissage de certains sorts, en choisir un pour votre grimoire compte comme si vous l’aviez appris. Enfin, si vous apprenez un sort déjà inscrit dans votre grimoire, vous pouvez en ajouter un autre d’un rang (minimum 1) que vous pouvez apprendre et utiliser. Vous pouvez créer de nouveaux grimoires pour contenir d’autres sorts ou en remplacer un que vous avez perdu. Pour créer un grimoire, vous devez passer 48 h à confectionner l’ouvrage en utilisant des matériaux rares pour une valeur de 5 co. Une fois votre travail achevé, vous pouvez y inscrire trois sorts d’un rang que vous pouvez utiliser.</p>"
+    },
+    "S642sgnoc0azR4ny": {
+      "name": "Insuffler la puissance",
+      "description": "<p>Vous pouvez utiliser une action, ou une action déclenchée au cours de votre tour, pour insuffler encore plus de puissance dans l’arme affectée par votre sort arme sorceliée. Vous touchez l’arme et dépensez une utilisation d’un sort de rang 1 ou supérieur. Pendant une minute, des flammes arcaniques dansent sur votre arme en éclairant la zone sur 10 m de rayon. Tant que ces flammes dansent, vos attaques avec cette arme infligent [[/r 1d6]] dégâts supplémentaires.</p>"
+    },
+    "SuPPylH22F983Lwx": {
+      "name": "Menace terrifiante",
+      "description": "<p>Vous pouvez utiliser une action pour adresser une menace terrifiante à une créature ciblée qui est sujette à votre talent Examen minutieux et qui se trouve jusqu’à portée courte. Effectuez un jet d’attaque d’Intellect contre la Volonté de la cible. En cas de succès, la cible est effrayée tant qu’elle peut vous voir. L’effet se termine quand la cible vous inflige des dégâts ou après qu’elle s’est reposée.</p>"
+    },
+    "T8pM5LG5ne4tQdGa": {
+      "name": "Detach Eye"
+    },
+    "TDMbQhXNdYxPGY6f": {
+      "name": "Paroles apaisantes",
+      "description": "<p>Vous pouvez utiliser une action pour réconforter une créature à portée de votre allonge. Retirez une des afflictions suivantes l’affectant : charmé, contraint, étourdi ou effrayé.</p>"
+    },
+    "TGELaX6Sf6QGRfy6": {
+      "name": "Forceful Strike"
+    },
+    "TNBZfXE4B7x0g0Xz": {
+      "name": "Œil du tueur",
+      "description": "<p>Vous pouvez utiliser une action à votre tour pour choisir une créature jusqu’à portée longue par rapport à laquelle vous êtes caché. Effectuez un test de Perception. En cas de succès, pendant 1 min, vous connaissez la meilleure manière de l’attaquer. Jusqu’à la fin de cet effet, quand vous l’attaquez, vous effectuez votre jet d’attaque avec 1 avantage et vous infligez [[/r 2d6]] dégâts supplémentaires.</p>"
+    },
+    "TeaJ1dvrLA1kWDES": {
+      "name": "Weapon of Chaos"
+    },
+    "Tn9lh75SZ1JoUGfV": {
+      "name": "Hâter l’apocalypse",
+      "description": "<p>Quand vous lancez un sort de l’Interdit, vous pouvez utiliser une action déclenchée pour libérer une vague de lumière verte écœurante à partir d’un point que vous pouvez toucher et sur une distance en mètres égale à 1 + le rang du sort lancé. Le sol dans la zone d’effet devient un terrain difficile et les objets de Gabarit 1/2 ou plus petits qui ne sont ni équipés ni transportés subissent des dégâts égaux à leur Santé. Chaque créature dans la zone d’effet autre que vous doit obtenir un succès à un test de Force ou subir [[/r 1d6]] dégâts et tomber à terre.</p>"
+    },
+    "TqnVtw92KdstCcpP": {
+      "name": "Prayer"
+    },
+    "TrH9hfVHd4QKuzqf": {
+      "name": "Maître cavalier",
+      "description": "<p>Votre monture bénéficie d’un bonus de +2 à la Défense et à la Vitesse.</p>"
+    },
+    "U7rYomDtwH7MtrIg": {
+      "name": "Conseil",
+      "description": "<p>Quand une créature qui peut vous entendre et comprendre ce que vous dites doit effectuer un test, vous pouvez utiliser une action déclenchée pour la conseiller. La créature effectue son jet avec 2 avantages.</p>"
+    },
+    "U7vVQDqla9HqMpt7": {
+      "name": "Avatar",
+      "description": "<p>Pendant que vous êtes sous l’effet d’Extase divine, vous gagnez les avantages suivants :</p><ul><li>Vous gagnez un bonus de +10 en Santé.</li><li>Vous effectuez vos jets d’attaque et vos tests d’Agilité et de Force avec 1 avantage.</li><li>Vos attaques infligent [[/r 1d6]] dégâts supplémentaires.</li></ul>"
+    },
+    "UMH3rqUCgCFtPGE3": {
+      "name": "Leadership"
+    },
+    "UNgbeuqLr3ALoY6K": {
+      "name": "Two Roguery Talent"
+    },
+    "UQ7d1Eah6MZmVpYm": {
+      "name": "Sans trace",
+      "description": "<p>Quand vous vous déplacez sur une surface solide, vous ne laissez des traces que si vous le souhaitez.</p>"
+    },
+    "UnF0Vsz4FWsjURyZ": {
+      "name": "Don des langues",
+      "description": "<p>Quand vous parlez, toute créature qui connaît au moins une langue comprend ce que vous dites.</p><p>De plus, vous pouvez choisir de parler avec une voix tonitruante qui peut être entendue à 1,5 km de distance.</p>"
+    },
+    "UoaArQ2x17T6LwAD": {
+      "name": "Réflexes rapides",
+      "description": "<p>Vous pouvez utiliser une action déclenchée à votre tour pour vous cacher ou battre en retraite.</p>"
+    },
+    "UorCViptjwLFAorg": {
+      "name": "Perception des ennemis",
+      "description": "<p>Vous pouvez utiliser une action, ou une action déclenchée au cours de votre tour, pour affiner vos sens afin de détecter les créatures autour de vous pendant 1 min. Jusqu’à la fin de cet effet, aucune créature jusqu’à portée courte ne peut se cacher de vous, ni aucune créature avec au moins 1 en Corruption jusqu’à portée moyenne. Ces créatures ne bénéficient d’aucun avantage en étant obscurcies par rapport à vous. Vous pouvez utiliser ce talent un nombre de fois égal à votre Puissance. Vous récupérez l’ensemble de vos utilisations possibles après un repos.</p>"
+    },
+    "V1HusnQ59K1Ecst3": {
+      "name": "Attaque sournoise",
+      "description": "<p>Une fois par round, quand vous attaquez avec une arme basique ou une arme rapide et que vous effectuez cette attaque avec au moins 1 avantage, elle inflige [[/r 1d6]] dégâts supplémentaires. Si vous choisissez ce talent une seconde fois, les dégâts supplémentaires sont de [[/r 2d6]].</p>"
+    },
+    "V1vpfKTZq2YYhY1k": {
+      "name": "Échapper à la divination",
+      "description": "<p>Vous ne pouvez être perçu avec des sorts de Divination.</p>"
+    },
+    "VBa1UpSV2NjE4Z5K": {
+      "name": "Résistance aux armes",
+      "description": "<p>Tant que vous portez une armure lourde, les armes vous infligent demi-dégâts.</p>"
+    },
+    "VXPlQyrFPUTywQuh": {
+      "name": "Invocation de miracles",
+      "description": "<p>Vous pouvez utiliser une action pour toucher une créature et subir un malus de –5 à votre Santé jusqu’à ce que vous vous reposiez. Choisissez un des effets suivants.</p><ul><li>Cette cible soigne un nombre de dégâts égal à sa vitesse de guérison.</li><li>Vous débarrassez la cible d’une affliction malade.</li><li>Vous débarrassez la cible de l’affliction empoisonné.</li><li>Vous débarrassez la cible d’une malédiction.</li><li>Vous débarrassez la cible de [[/r 1d3]] points de Folie.</li></ul>"
+    },
+    "VcJxeGHEL7ztuDJp": {
+      "name": "Chant rapide",
+      "description": "<p>Vous pouvez utiliser une action déclenchée à votre tour pour lancer un sort du Chant que vous avez appris.</p>"
+    },
+    "VfvO4vv4VNpnMDFG": {
+      "name": "Dirty Tricks"
+    },
+    "ViqfC6ZCTRmGpjyq": {
+      "name": "Habitacle",
+      "description": "<p>Vous installez un habitacle dans votre eidolon. L’habitacle est un compartiment avec une capacité de Gabarit 1 équipé de systèmes de contrôle et d’un fauteuil confortable. Toute créature avec un Gabarit approprié peut s’installer dans l’habitacle s’il n’est pas occupé. Une fois installée, la créature peut le contrôler de l’intérieur. Tant que vous êtes à l’intérieur, vous considérez les valeurs de Défense et de Santé de la créature artificielle comme étant les vôtres, vous vous déplacez à sa Vitesse et vous pouvez utiliser ses options d’attaque et d’actions à la place des vôtres. Dans l’habitacle, vous avez une autonomie de 4 h en oxygène. Une créature à l’intérieur peut utiliser une action pour ouvrir l’habitacle, ventiler l’intérieur et le refermer pour renouveler cette autonomie de 4 h. Une créature peut laisser l’habitacle ouvert aussi longtemps qu’elle le veut mais l’eidolon ne fonctionne pas tant qu’il n’est pas refermé.</p>"
+    },
+    "VkNFAuWUo4vGtGPy": {
+      "name": "Foment Discord"
+    },
+    "WXzezRNK8or7PmRs": {
+      "name": "Force de la souffrance",
+      "description": "<p>Tant que vous êtes blessé, vous effectuez vos tests et jets d’attaque de Force avec 1 avantage.</p>"
+    },
+    "WkpBZtbBDTm3r9H9": {
+      "name": "Immunité"
+    },
+    "WykUap8F0SJkJEpS": {
+      "name": "Spécialisation martiale",
+      "description": "<p>Quand vous attaquez avec votre arme de prédilection vous infligez [[/r 1d6]] dégâts supplémentaires.</p>"
+    },
+    "X7IiyJkfnnEoUE73": {
+      "name": "Imprécation renforcée",
+      "description": "<p>Vous comprenez mieux l’imprécation. Imprécation renforcée remplace le talent Imprécation. Quand vous lancez un sort, vous pouvez choisir d’obtenir 1 point de stress et d’appliquer au sort un des effets suivants. Sort amplifié. Si vous lancez un sort offensif, ce talent vous octroie 2 avantages au jet d’attaque et impose 2 désavantages aux tests pour y résister. Sort étendu. Si un sort affecte une zone, vous doublez son étendue. Ainsi, si un sort affecte une sphère de 5 m de rayon, il affecte désormais une sphère de 10 m de rayon. Sort distant. Si le sort affecte une zone ou une cible autre que vous, vous pouvez augmenter sa portée de contact à courte, de courte à moyenne, de moyenne à longue ou de longue à extrême. Aussi, si vous deviez choisir un point d’origine à portée courte, vous pouvez utiliser ce talent pour choisir un point d’origine jusqu’à portée moyenne. Sort durable. Si le sort a une durée, vous pouvez utiliser ce talent pour l’augmenter. Une durée de 1 min passe à 10 min, 10 min deviennent 1 h, 1 h devient 8 h et 8 h deviennent 24 h. Sort puissant. Si vous lancez un sort offensif qui inflige ou soigne des dégâts, vous pouvez utiliser ce talent pour augmenter les dégâts infligés ou soignés par ce sort. Si le sort inflige ou soigne des dégâts à plus d’une cible, chacune d’elles subit ou soigne [[/r 2d6]] dégâts supplémentaires. Si le sort inflige ou soigne des dégâts sur une durée, le sort inflige ou soigne [[/r 1d6]] dégâts supplémentaires.</p>"
+    },
+    "XHAgUWG0679A8RRe": {
+      "name": "Improved Spell Recovery"
+    },
+    "XHbcdTGyLj6SHnk2": {
+      "name": "Flammes ensorcelées",
+      "description": "<p>Vous apprenez le sort de flammes ensorcelées décrit ci-dessous.</p>"
+    },
+    "Xa10q2pnOJs0kpIp": {
+      "name": "Charme subtil",
+      "description": "<p>Les créatures charmées par les sorts que vous lancez ne se souviennent pas d’avoir été sous votre emprise quand l’effet se termine.</p>"
+    },
+    "Xd48DT5v0Pofq3dr": {
+      "name": "Warded"
+    },
+    "Xo5MZInq2hKa9O53": {
+      "name": "Spell Recovery"
+    },
+    "XujUK7qBuss5xqCg": {
+      "name": "Bâton de puissance",
+      "description": "<p>Tant que vous tenez votre Bâton de magie, vous gagnez les avantages suivants :</p><ul><li>Vous gagnez un bonus de +10 en Santé.</li><li>À chaque fois que vous lancez un sort offensif, vous effectuez votre jet d’attaque avec 1 avantage et les créatures effectuent leurs tests pour résister au sort avec 1 désavantage.</li></ul>"
+    },
+    "YAuXUp13Nh1cuUuw": {
+      "name": "Maîtrise arcanique",
+      "description": "<p>Vous pouvez utiliser une action pour dépenser une utilisation de n’importe quel sort Arcanique que vous connaissez pour lancer un sort différent du même rang ou inférieur que vous avez appris sans dépenser une utilisation de ce sort (et même si vous n’avez plus d’utilisation de ce sort).</p>"
+    },
+    "YQCnJjHyf7W0e7c2": {
+      "name": "Magic"
+    },
+    "YbumpXGKSaz36fZ1": {
+      "name": "Trickery"
+    },
+    "YdIg7s4nXNiS1yVx": {
+      "name": "Folie violente",
+      "description": "<p>À chaque fois que vous devenez fou, vous obtenez toujours le résultat Violence (voir Devenir fou dans le Chapitre 2).</p>"
+    },
+    "YmLth08Qn8oAq6Qq": {
+      "name": "Maîtrise du combat",
+      "description": "<p>Quand vous utilisez une action pour attaquer avec une arme, soit vous infligez [[/r 1d6]] dégâts supplémentaires avec cette attaque, soit vous effectuez une autre attaque contre une cible différente à n’importe quel moment avant la fin de votre tour. Ce talent est cumulatif avec Expert du combat. Vous devez choisir une cible différente pour chaque attaque que vous effectuez.</p>"
+    },
+    "Z9kfzNky5qD0wPob": {
+      "name": "Sceaux de pouvoir",
+      "description": "<p>Vous pouvez utiliser une action pour graver un sceau sur une armure que vous portez ou sur une arme que vous tenez. Le sceau dure 1 min ou jusqu’à ce que vous utilisiez de nouveau ce talent. Jusqu’à la fin de cet effet, à chaque fois que vous lancez un sort Runique offensif, les attaques avec l’arme dotée du sceau infligent [[/r 1d6]] dégâts supplémentaires pendant 1 round. De plus, quand vous lancez des sorts Runiques utilitaires, l’armure avec la rune vous octroie un bonus de +[[/r 1d3]] en Défense pendant 1 round.</p>"
+    },
+    "ZKShUx8WPMYBy8gN": {
+      "name": "Sens surnaturels",
+      "description": "<p>Vous effectuez vos jets de Perception avec 1 avantage.</p>"
+    },
+    "ZSTBOBo6MRIIAhEl": {
+      "name": "Expert en déguisements",
+      "description": "<p>Si vous avez un kit de déguisement, vous pouvez effectuer une action pour dépenser une utilisation du kit afin de vous déguiser.</p>"
+    },
+    "ZTcyw4IC2wRrt0sX": {
+      "name": "Acrobaties",
+      "description": "<p>Vous gagnez tous les avantages suivants :</p><ul><li>Vous pouvez vous déplacer à travers des espaces occupés par d’autres créatures.</li><li>Vous vous déplacez à pleine Vitesse sur toutes les formes de terrains difficiles même quand vous escaladez ou que vous nagez.</li><li>Si votre Vitesse est supérieure à 0, vous pouvez vous relever sans utiliser votre déplacement.</li><li>Quand vous subissez des dégâts à l’atterrissage après une chute, vous pouvez utiliser une action déclenchée pour effectuer un test d’Agilité. En cas de succès, vous réduisez les dégâts de la chute du total de votre jet. Si vous réduisez les dégâts à 0, vous retombez sur vos pieds.</li></ul>"
+    },
+    "ZcNyAwXCYjmYW66M": {
+      "name": "Peau de fer",
+      "description": "<p>Vous avez un bonus de +1 en Défense si vous n’êtes pas équipé d’une armure moyenne ou lourde.</p>"
+    },
+    "a8B2k1eXJa42o9rk": {
+      "name": "Pincers"
+    },
+    "aCKjrKNpE1nF5Ccm": {
+      "name": "Motivé",
+      "description": "<p>Quand vous effectuez un jet d’attaque ou un test et que vous obtenez 5 ou moins au dé, vous pouvez relancer [[/r 1d20]] et ajouter son résultat au premier jet.</p>"
+    },
+    "aDO6ZrCVXduiD4Uj": {
+      "name": "Catch Your Breath"
+    },
+    "aO4iTdwXHemXd40i": {
+      "name": "Capacité peu commune",
+      "description": "<p>Vous considérez tout résultat de 1 sur un dé d’avantage comme un résultat de 3. Vous considérez tout résultat de 6 sur un dé de désavantage comme un résultat de 3.</p>"
+    },
+    "aRTym7ZGG0HuDL6h": {
+      "name": "Chant de courage",
+      "description": "<p>Les attaques avec des armes des créatures bénéficiant de votre Chant de combat infligent [[/r 1d6]] dégâts supplémentaires.</p>"
+    },
+    "aX2lb4wCQeZJ3iur": {
+      "name": "Prière",
+      "description": "<p>Quand une créature jusqu’à portée courte de vous effectue un jet d’attaque ou un test, vous pouvez utiliser une action déclenchée pour lui accorder 1 avantage à son jet.</p>"
+    },
+    "adPyLYFqpz7ZnTYn": {
+      "name": "Résistance de la nature",
+      "description": "<p>Quand vous lancez un sort de la Nature, vous gagnez un bonus de Santé égal à votre Puissance pendant 1 min. Ce bonus est cumulatif avec les autres bonus gagnés avec ce talent.</p>"
+    },
+    "aj6nNaTpN6QI9VAG": {
+      "name": "Berserk",
+      "description": "<p>Si vous n’êtes pas fatigué alors que vous subissez des dégâts, vous pouvez choisir de devenir berserk. Si vous le faites, vous gagnez les atouts et les revers suivants pendant 1 min ou jusqu’à ce que vous soyez inconscient.</p><ul><li>Vous gagnez un bonus de +10 en Santé.</li><li>Vous ne pouvez pas être charmé, contraint ou effrayé.</li><li>Vous effectuez vos jets d’attaque avec 1 désavantage.</li><li>Vos attaques avec vos armes infligent [[/r 2d6]] dégâts supplémentaires.</li><li>Vous devez choisir un tour rapide à chaque fois que c’est possible et utiliser une action à chacun de vos tours pour attaquer en ayant recours à une charge si nécessaire.</li></ul><p>Quand vous cessez d’être berserk, vous êtes fatigué pendant 1 min et vous devez obtenir un succès à un test de Volonté ou obtenir 1 en Folie.</p>"
+    },
+    "axMwRrvHceHueOrt": {
+      "name": "Vol",
+      "description": "<p>Vous pouvez voler.</p>"
+    },
+    "bI5izY3evectGrUe": {
+      "name": "Destruction absolue",
+      "description": "<p>Quand vous lancez les dés de dégâts pour un sort de Destruction que vous avez lancé, les 1 que vous avez obtenus se transforment en 6.</p>"
+    },
+    "bKZLbnPTtycTGOD2": {
+      "name": "Sens aiguisés",
+      "description": "<p>Vous effectuez vos jets de Perception avec 1 avantage.</p>"
+    },
+    "bMtjmEboXNz3qOol": {
+      "name": "Spellcaster (Superior)"
+    },
+    "bYwj8YALh6OsfKtZ": {
+      "name": "Parade du derviche",
+      "description": "<p>Quand vous tenez une arme dans chacune de vos mains et qu’aucune de ces armes n’est un bouclier, vous gagnez un bonus de +1 à la Défense.</p>"
+    },
+    "beON8qrkrkXxOkbY": {
+      "name": "Persévérance",
+      "description": "<p>Quand vous êtes malade, fatigué, affaibli ou empoisonné, vous pouvez effectuer un test de Force et vous débarrasser de cette affliction si vous obtenez un succès. En cas d’échec, vous ne pouvez plus utiliser ce talent tant que vous ne vous êtes pas reposé.</p>"
+    },
+    "bllnCyWWY6oU7zlF": {
+      "name": "Escarmouche",
+      "description": "<p>Vous pouvez utiliser une action pour vous déplacer à la moitié de votre Vitesse. Ce déplacement ne déclenche pas d’attaques gratuites. Pendant ce déplacement, vous pouvez effectuer une attaque. Vous effectuez ce jet d’attaque avec 1 désavantage mais l’attaque inflige [[/r 1d6]] dégâts supplémentaires. Si vous choisissez ce talent une seconde fois vous pouvez vous déplacer à votre Vitesse normale et non la moitié.</p>"
+    },
+    "cG4egxscJD8bAkMB": {
+      "name": "Épiphanie magique",
+      "description": "<p>Quand vous voyez une créature lancer un sort de rang 0 que vous n’avez pas appris, vous pouvez dépenser 1 point d’aptitude pour apprendre ce sort en gagnant un nombre d’utilisations égal à votre Puissance. Vous vous souvenez de ce sort jusqu’à ce que vous vous reposiez et que vous dépensiez sa dernière utilisation.</p>"
+    },
+    "cc9KfxgTCCmpKB0Q": {
+      "name": "Vulnérabilité au Fer"
+    },
+    "ccgIndPzxIzf8BCm": {
+      "name": "Doubles illusoires",
+      "description": "<p>Quand vous subissez des dégâts à cause d’une attaque, vous pouvez utiliser une action déclenchée pour lancer [[/r 1d6]]. Sur un résultat de 6, vous réduisez les dégâts à 0 et vous vous téléportez sur un espace dégagé de votre choix jusqu’à portée courte.</p>"
+    },
+    "coELFBYKLRcfx7gs": {
+      "name": "Catch Your Breath"
+    },
+    "cqgfTrijDyuRYscc": {
+      "name": "Escalade de la violence",
+      "description": "<p>Quand vous lancez un sort, vous effectuez vos jets d’attaque avec 1 avantage quand vous attaquez avec une arme. Cet effet dure 1 round.</p>"
+    },
+    "dO8lFK8mTDmbETWo": {
+      "name": "Alliances inattendues",
+      "description": "<p>Quand vous obtenez un succès à votre jet d’attaque en utilisant votre talent Supplique, la créature ayant déclenché cet effet devient contrainte pendant 1 min ou jusqu’à ce qu’elle soit attaquée.</p>"
+    },
+    "dQlvFHBWOMLehVfh": {
+      "name": "One Roguery Talent"
+    },
+    "dR6ywL3bJTybE4EI": {
+      "name": "Chant de combat",
+      "description": "<p>Vous pouvez utiliser une action ou une action déclenchée à votre tour pour chanter pendant 1 round. À chaque round, au cours de votre tour, vous pouvez utiliser une action déclenchée pour étendre son effet pendant un autre round. Cet effet cesse immédiatement si vous ne pouvez plus parler. Jusqu’à la fin de l’effet, vous et tous les membres de votre groupe à portée courte et qui peuvent vous entendre, effectuez vos jets d’attaque avec 1 avantage et ne pouvez pas être charmés ou effrayés. Vous pouvez utiliser ce talent trois fois. Vous récupérez l’ensemble de vos utilisations possibles après un repos.</p>"
+    },
+    "dSTpOapXrVrhn6UC": {
+      "name": "Rising Fury"
+    },
+    "dbQdl0gZ57e6j753": {
+      "name": "Clear Sight"
+    },
+    "dhg5fuXHUxs3XyOn": {
+      "name": "Puissance de la tempête",
+      "description": "<p>À chaque fois que vous devriez subir des dégâts à cause de la foudre ou du tonnerre, vous réduisez ces dégâts à 0 et vous gagnez un bonus de +5 en Santé pendant 1 min. Ce bonus est cumulatif avec les autres bonus gagnés avec ce talent. De plus, quand vous attaquez avec un sort de Tempête et que vous disposez de ce bonus, vous effectuez le jet d’attaque avec 1 avantage et les créatures effectuent leurs tests pour résister au sort avec 1 désavantage.</p>"
+    },
+    "dsBHE0n1OVtHsoXh": {
+      "name": "Sceaux de puissance",
+      "description": "<p>Quand vous utilisez le talent de Sceaux de pouvoir, le sceau dure 1 h ou jusqu’à ce que vous utilisiez de nouveau ce talent.</p>"
+    },
+    "e361LOavtjk2Nr6T": {
+      "name": "Arpenteur des arbres",
+      "description": "<p>Une fois par round alors que vous vous déplacez, vous pouvez entrer sur un espace occupé par un arbre vivant et sortir immédiatement d’un espace occupé par un autre arbre jusqu’à portée moyenne du premier. Vous pouvez aussi choisir de sortir de l’arbre dans lequel vous êtes entré en vous déplaçant dans un espace libre.</p>"
+    },
+    "eAHJFgK2YD0O6KtH": {
+      "name": "Vol à la tire",
+      "description": "<p>Vous pouvez utiliser une action, ou une action déclenchée à votre tour, pour voler un objet à une créature à portée de votre allonge. L’objet volé doit être quelque chose que vous pouvez tenir dans une main et doit être situé quelque part sur le corps de la victime mais pas tenu en main (ou avec un membre similaire). Si vous pouvez voir l’objet, vous pouvez le prendre. Si vous ne le pouvez pas, parce que vous glissez votre main dans une bourse ou un sac, le MJ détermine l’objet volé.</p>"
+    },
+    "eGXb87FCGsCQkUkS": {
+      "name": "Mechanical Body"
+    },
+    "eKrPRYWrGeaeNxeM": {
+      "name": "Menaces"
+    },
+    "eNuUZUEbmYSNIKFS": {
+      "name": "Puissance de la nature",
+      "description": "<p>Tant que vous êtes sous l’effet du sort de la Nature peau de chêne, vous ne subissez que la moitié des dégâts de feu.</p><p>De plus, quand vous attaquez avec un objet imprégné avec le sort glands magiques, votre attaque inflige [[/r 1d6]] dégâts supplémentaires.</p>"
+    },
+    "eNx3ejSe4vCvpCOf": {
+      "name": "Spellcaster (Minor)"
+    },
+    "ehzlXM1SBTqPmVKy": {
+      "name": "Maîtrise des armes",
+      "description": "<p>Quand vous effectuez un jet d’attaque avec une arme et que vous obtenez un résultat de 9 ou inférieur au d20, vous pouvez relancer le d20. Vous devez utiliser le second résultat même s’il est égal ou inférieur à 9.</p>"
+    },
+    "eoLN7GSUA6LDSZ60": {
+      "name": "Nimble Recovery"
+    },
+    "ezGl7vvKafGE4K7S": {
+      "name": "Chargement rapide",
+      "description": "<p>Vous pouvez recharger votre arme avec une activité mineure à la place d’une action.</p>"
+    },
+    "f30uT2yw6xYd074w": {
+      "name": "Montagnes de morts",
+      "description": "<p>Vous pouvez utiliser une action pour faucher tout ce qui se trouve près de vous avec votre arme lourde. Choisissez n’importe quel nombre de cibles dans un rayon de 1 m autour de vous. Une cible avec une Santé de 20 ou inférieure subit des dégâts égaux à sa Santé.</p>"
+    },
+    "fKFUmzIb1ouwwrG8": {
+      "name": "Lien primordial",
+      "description": "<p>Vous forgez un lien avec les animaux charmés par votre sort amitié animale. Vous gagnez tous les avantages suivants :</p><ul><li>Quand vous êtes ciblé par un sort, vous pouvez étendre l’effet de ce sort à un animal que vous avez charmé situé jusqu’à portée moyenne.</li><li>Tant que vous êtes à portée moyenne d’un animal que vous avez charmé, vous et cet animal effectuez tous vos jets de Perception avec 1 avantage.</li><li>Tant que vous êtes à une distance maximale de 1,5 km d’un animal que vous avez charmé, vous pouvez communiquer télépathiquement avec lui si vous n’avez aucun langage commun.</li></ul>"
+    },
+    "fPwCPIQlfAraMNWY": {
+      "name": "Entraînement aux armes",
+      "description": "<p>Quand vous attaquez avec une arme, vous effectuez le jet d’attaque avec 1 avantage.</p>"
+    },
+    "fu9gdslWwyWyP5Mc": {
+      "name": "Expert du combat",
+      "description": "<p>Quand vous utilisez une action pour attaquer avec une arme, soit vous infligez [[/r 1d6]] dégâts supplémentaires avec cette attaque, soit vous effectuez une autre attaque contre une cible différente à n’importe quel moment avant la fin de votre tour.</p>"
+    },
+    "fvbqv0eDpUYHx2J1": {
+      "name": "Courage",
+      "description": "<p>Vous pouvez utiliser Reprendre votre souffle deux fois entre deux périodes de repos.</p>"
+    },
+    "fxAMDRKc8HVeEuZ2": {
+      "name": "Pieuse restauration",
+      "description": "<p>Vous pouvez utiliser une action pour dépenser l’utilisation d’un sort Théurgique de rang 1 ou supérieur pour soigner des dégâts égaux à [[/r 1d6]] par rang du sort.</p>"
+    },
+    "g0TouKqvfS6C1umK": {
+      "name": "Maîtrise du duel",
+      "description": "<p>Vos attaques avec une arme infligent [[/r 1d6]] dégâts supplémentaires aux cibles que vous avez défiées avec votre talent Défi.</p>"
+    },
+    "gIlAP2S1IAoGLgTU": {
+      "name": "Attaque précise",
+      "description": "<p>Quand vous attaquez avec une arme rapide, vous pouvez effectuer le jet d’attaque contre l’Agilité de la cible au lieu de sa Défense.</p>"
+    },
+    "gaxFlC9NuyiBUyAo": {
+      "name": "Shared Recovery"
+    },
+    "gbVgLiImFNcVyj5A": {
+      "name": "Monstres puissants",
+      "description": "<p>Les monstres que vous créez avec des sorts d’Invocation effectuent leurs attaques avec 1 avantage et infligent [[/r 1d6]] dégâts supplémentaires. De plus, vos monstres invoqués restent pendant un nombre de minutes égal à votre Puissance.</p>"
+    },
+    "ggNb75Vl3aw3KTzP": {
+      "name": "Colère effrayante",
+      "description": "<p>Quand vous devenez berserk, chaque créature jusqu’à portée courte qui n’est pas membre de votre groupe doit obtenir un succès à un test de Volonté ou être effrayée pendant 1 round.</p>"
+    },
+    "gi5zKPUhOekB9UVM": {
+      "name": "Profession flexible",
+      "description": "<p>Quand vous effectuez une tâche en rapport avec une profession que vous n’avez pas, vous pouvez effectuer un test d’Intellect. En cas de succès, vous êtes considéré comme ayant cette profession pendant 1 min. En cas d’échec, vous ne pouvez plus utiliser ce talent tant que vous ne vous êtes pas reposé.</p>"
+    },
+    "hOca7sPTtXSVsBqe": {
+      "name": "Nimble Recovery"
+    },
+    "heDVMhNnFkoodlpd": {
+      "name": "Grit"
+    },
+    "iJj7dCwyoquHo9HB": {
+      "name": "Weapon Excellence"
+    },
+    "iK5g3GsrTwrMKcyY": {
+      "name": "Rogue Cunning"
+    },
+    "iNz64Yu4kXX8DJbo": {
+      "name": "Sneaky"
+    },
+    "iTLhgU1lDN4Hmqfw": {
+      "name": "Soins distants",
+      "description": "<p>Quand vous lancez un sort de la Vie qui cible une créature que vous pouvez atteindre, vous pouvez à la place cibler une créature jusqu’à portée courte.</p>"
+    },
+    "ioH7VQsSHESKLwCC": {
+      "name": "Voleur de sort aguerri",
+      "description": "<p>Vous pouvez désormais utiliser deux fois votre talent Vol de sort.</p>"
+    },
+    "istsNAL3izuBgFpH": {
+      "name": "Revêtement de fer",
+      "description": "<p>Vous ignorez les prérequis pour porter une armure lourde et vous bénéficiez d’un bonus de +1 en Défense tant que vous en portez une.</p>"
+    },
+    "izWUPGfquCNpRdg2": {
+      "name": "Aura aveuglante",
+      "description": "<p>Quand vous utilisez votre talent d’Éclat intérieur, chaque créature dans un rayon de 1 m autour de vous doit obtenir un succès à un test de Force ou être aveuglée jusqu’à la fin du round.</p>"
+    },
+    "j5r3x9lFpiZNUCbk": {
+      "name": "Demon Seed"
+    },
+    "jkBtI3hfkm2sX5oa": {
+      "name": "Illusions convaincantes",
+      "description": "<p>Les créatures effectuent leur test de Perception avec 2 désavantages pour percevoir la véritable nature des illusions générées par vos sorts. De plus, quand vous attaquez avec un sort d’Illusion, vous effectuez votre jet d’attaque avec 1 avantage.</p>"
+    },
+    "jmVC1dAZYKLJFxN5": {
+      "name": "Combattre avec n’importe quoi",
+      "description": "<p>Si vous attaquez avec une arme ou une arme improvisée qui inflige moins de [[/r 1d6]] dégâts, vous infligez au minimum [[/r 1d6]] dégâts. De plus, quand vous attaquez avec une arme ou une arme improvisée, vous effectuez votre jet d’attaque avec 1 avantage. Enfin, votre Force est considérée supérieure de 2 points pour satisfaire aux prérequis des armures et des armes.</p>"
+    },
+    "joUx3pLrEQCchzdu": {
+      "name": "Vigueur divine",
+      "description": "<p>Vous ne subissez aucun dégât à cause des maladies et des poisons et vous êtes immunisé contre les afflictions malade et empoisonné.</p>"
+    },
+    "jou1kJtIbzmeAf64": {
+      "name": "Soif de sang",
+      "description": "<p>Quand une créature est neutralisée à cause de votre attaque, vous pouvez utiliser une action déclenchée pour Charger.</p>"
+    },
+    "k1gv7HvWHoqoySsX": {
+      "name": "Châtiment divin",
+      "description": "<p>Quand vous obtenez un succès au cours d’une attaque avec une arme, vous pouvez dépenser une utilisation d’un sort. L’attaque inflige [[/r 1d6]] dégâts supplémentaires par rang du sort dont vous avez sacrifié l’utilisation (minimum [[/r 1d6]] dégâts supplémentaires). Si la cible de votre attaque est un démon, un diable, une fée, un esprit ou un mort-vivant, vous augmentez ces dégâts de [[/r 1d6]].</p>"
+    },
+    "kAKxjQMx2xqaM55O": {
+      "name": "Retributive Strike"
+    },
+    "kAN4OUraZO6rSd6Y": {
+      "name": "Toucher empoisonné",
+      "description": "<p>Vous pouvez utiliser une action ou une action déclenchée pour attaquer une cible que vous pouvez atteindre avec une aiguille cachée dans un anneau ou au bout d’un de vos doigts. Effectuez un jet d’attaque de Force ou d’Agilité contre l’Agilité de la cible. Sur un succès, la cible subit 1 dégât plus [[/r 2d6]] dégâts supplémentaires à cause du poison. Une cible qui subit des dégâts supplémentaires doit obtenir un succès à un test de Force ou être empoisonnée pendant 1 min. Tant qu’elle est empoisonnée de cette manière, elle est également étourdie et ralentie. Si la cible est déjà empoisonnée de cette manière, elle subit [[/r 3d6]] dégâts supplémentaires. À la fin de chaque round, une cible empoisonnée de cette manière doit effectuer un test de Force. En cas d’échec, elle subit [[/r 1d6]] dégâts supplémentaires.</p><p>Une fois que vous avez infligé des dégâts avec Toucher empoisonné, vous ne pouvez pas utiliser de nouveau ce talent tant que vous n’avez pas travaillé pendant 1 min avec une trousse d’alchimiste pour préparer une nouvelle aiguille.</p>"
+    },
+    "kVZwVolatKby38Gw": {
+      "name": "Frappe déloyale",
+      "description": "<p>Vos attaques avec vos armes infligent [[/r 1d6]] dégâts supplémentaires aux cibles surprises et aux cibles par rapport auxquelles vous êtes caché.</p>"
+    },
+    "kZxicY0vHMvZe9zR": {
+      "name": "Prémonitions",
+      "description": "<p>Chaque fois que vous vous reposez, vous recevez trois prémonitions. Pour chaque prémonition, lance [[/r 1d20]] et notez le résultat. Les prémonitions durent jusqu’à ce que vous les utilisiez ou jusqu’à votre prochain repos.</p><p>Quand une créature que vous pouvez voir effectue un jet d’attaque ou un test, vous pouvez changer le résultat obtenu par un des résultats de vos prémonitions en la dépensant. Une fois que vous avez dépensé une prémonition, rayez le chiffre correspondant.</p><p>Tant que vous avez au moins une prémonition, vous ne pouvez pas être surpris si vous êtes conscient, les créatures qui vous attaquent le font avec 1 désavantage et vous effectuez vos tests pour résister aux attaques avec 1 avantage.</p>"
+    },
+    "kcdcy4yZ76wXaJFy": {
+      "name": "Abri de la forêt",
+      "description": "<p>Quand vous êtes dans une zone obscurcie par le feuillage, vous pouvez utiliser une action déclenchée pour dépenser une utilisation d’un sort de la Nature. Vous devenez invisible pendant un nombre de rounds égal à 1 + le rang du sort dont vous avez dépensé l’utilisation.</p>"
+    },
+    "krLQps4VSvbf9IgU": {
+      "name": "Weapon Training"
+    },
+    "l2xvezAuNWSrJtCX": {
+      "name": "Précognition",
+      "description": "<p>Quand vous lancez un sort du Temps, vous pouvez utiliser une action déclenchée pour percevoir quelques secondes de l’avenir, bénéficiant ainsi d’une intuition. Vous conservez cette intuition jusqu’à ce que vous l’utilisiez ou que vous vous reposiez. Si vous obtenez un échec à un jet d’attaque ou à un test, vous pouvez utiliser votre intuition pour relancer le dé.</p>"
+    },
+    "l90eMdJ8AxnK7466": {
+      "name": "Weapon Training"
+    },
+    "lHlbYw1LkVJMlVnj": {
+      "name": "Maîtrise du bouclier",
+      "description": "<p>Tant que vous êtes équipé d’un bouclier, vous avez un bonus de +1 en Défense.</p><p>Quand vous attaquez avec un bouclier, vous effectuez vos jets d’attaque avec 1 avantage, votre attaque inflige [[/r 1d6]] dégâts supplémentaires et vous ne perdez pas la propriété défensive du bouclier.</p>"
+    },
+    "lKccBJAliL0SwzKK": {
+      "name": "Darksight"
+    },
+    "lZoHkIqgix7pIBDq": {
+      "name": "Musclé",
+      "description": "<p>Vous effectuez vos jets d’attaque et vos tests de Force avec 1 avantage.</p>"
+    },
+    "liY2vuptYgyp3xs4": {
+      "name": "Temple consacré",
+      "description": "<p>Vous apprenez le sort temple consacré, décrit ci-après.</p>"
+    },
+    "m6BxpaIpEnuGBesk": {
+      "name": "Saisir l’opportunité",
+      "description": "<p>Une fois par round, quand le total de votre jet d’attaque est au moins de 20 et qu’il est supérieur d’au moins 5 points au seuil de difficulté, vous pouvez effectuer un autre tour à n’importe quel moment avant la fin du round.</p>"
+    },
+    "mBfQzKL4vt8i04yc": {
+      "name": "Forceful Strike"
+    },
+    "mBqI9VLcDupHsMpI": {
+      "name": "Wings"
+    },
+    "mCSIq9u5SxZ1mNwD": {
+      "name": "Détermination du combattant",
+      "description": "<p>Vous effectuez vos tests pour résister aux attaques avec 1 avantage.</p>"
+    },
+    "mda7PD72zqjz4gt8": {
+      "name": "Bouclier percutant",
+      "description": "<p>Quand vous obtenez un succès à un jet d’attaque avec un bouclier, vous pouvez aussi éloigner la cible de [[/r 1d6]] m de vous.</p>"
+    },
+    "mf9CRyJ3aE6vhXyT": {
+      "name": "Stench"
+    },
+    "mq89FyLtLUVbUDll": {
+      "name": "Puissance musculaire",
+      "description": "<p>Vous ajoutez votre modificateur de Force aux jets de dégâts des attaques que vous effectuez avec des armes basiques, martiales ou lourdes.</p>"
+    },
+    "n4WDC46IVz9FKgfb": {
+      "name": "Zèle",
+      "description": "<p>Quand vous obtenez un échec à un jet d’attaque ou à un test, vous cumulez [[/r 1d3]] points de Folie pour ignorer cet échec et relancer le dé. Vous devez utiliser le résultat du second jet. Après avoir utilisé ce talent, vous ne pouvez pas être charmé, contraint ou effrayé jusqu’à la fin du round.</p>"
+    },
+    "nLycDLY5FHJBU7so": {
+      "name": "Frappe punitive",
+      "description": "<p>Quand une créature à portée de votre allonge effectue une attaque contre une autre créature que vous, vous pouvez utiliser une action déclenchée pour attaquer la créature ayant déclenché cet effet.</p>"
+    },
+    "nTc9s20QuKuOXSzt": {
+      "name": "Shadowsight"
+    },
+    "nV7QQOroVmsNMuEn": {
+      "name": "Spellcaster (Diverse)"
+    },
+    "nVdRbXXiTdeTPTaR": {
+      "name": "Shared Recovery"
+    },
+    "nXzLWDPNhDTRZHCn": {
+      "name": "Shake it Off"
+    },
+    "ngRT7HAPsJjAypVC": {
+      "name": "Prayer"
+    },
+    "nmJejKz1Ii868UJp": {
+      "name": "Perception des pièges",
+      "description": "<p>Quand vous cherchez des pièges ou que vous devez résister aux effets d’un piège, vous effectuez vos tests avec 1 avantage.</p>"
+    },
+    "nneiMOA7GYauzIJO": {
+      "name": "Forme aqueuse",
+      "description": "<p>Vous pouvez utiliser une action et dépenser une utilisation d’un sort de l’Eau pour prendre une forme aqueuse. Vous conservez cette forme pendant un nombre de rounds égal à votre Puissance plus le rang du sort dont vous avez dépensé l’utilisation. Vous pouvez utiliser une action ou une action déclenchée à votre tour pour reprendre votre forme normale. Jusqu’à la fin de cet effet, vous bénéficiez des avantages suivants :</p><ul><li>Vous effectuez tous vos jets d’Agilité avec 1 avantage.</li><li>Vous pouvez traverser des ouvertures suffisamment larges pour permettre à l’eau de s’écouler.</li><li>Les armes vous infligent moitié dégâts.</li><li>Vous ne pouvez être saisi, immobilisé, mis à terre ou ralenti.</li><li>Vous êtes invisible tant que vous êtes immergé dans l’eau.</li></ul>"
+    },
+    "nryguCeg2nBZMkLp": {
+      "name": "Combat à deux armes",
+      "description": "<p>Quand vous attaquez avec deux armes, vous réduisez de 2 le nombre de désavantages des attaques.</p>"
+    },
+    "nuLiUYY9WIhoXSSv": {
+      "name": "Counterspell"
+    },
+    "nwP9Kc4rjXjmLVCZ": {
+      "name": "Colère féroce",
+      "description": "<p>Tant que vous êtes berserk, vous avez un bonus de +2 à votre Vitesse et vous effectuez vos jets d’attaque contre les cibles effrayées avec 1 avantage.</p>"
+    },
+    "oJHFdpjbf0H2gHHt": {
+      "name": "Connaissance de la nature",
+      "description": "<p>Vous effectuez tous vos tests avec 1 avantage pour vous rappeler une information utile concernant les animaux, les plantes, la géographie ou la nature.</p>"
+    },
+    "oOBEmHTKPmJgGNGF": {
+      "name": "Immunité"
+    },
+    "oaJDlgn7dQMAjvXF": {
+      "name": "Flamme d’immolation",
+      "description": "<p>Quand une créature subit des dégâts à cause d’un sort de Feu que vous avez lancé, elle doit effectuer un test d’Agilité. En cas d’échec elle prend feu.</p>"
+    },
+    "p238ZhmNVxy9wFUu": {
+      "name": "Combat Mastery"
+    },
+    "pOqbNvSA1m0qhLqf": {
+      "name": "Spellcaster (Major)"
+    },
+    "pRfhJ8tMyjbzm9va": {
+      "name": "Gardien du temple",
+      "description": "<p>Vos attaques contre les cibles à l’intérieur de la zone de Temple consacré infligent [[/r 1d6]] dégâts supplémentaires.</p>"
+    },
+    "pl4lRQZlNfm9eeHg": {
+      "name": "Exorcist Magic"
+    },
+    "plADjBW2sEDjzpmR": {
+      "name": "Commander les morts-vivants",
+      "description": "<p>Vous apprenez le sort commander les morts-vivants, décrit ci-dessous.</p>"
+    },
+    "pmJLKTLloMq8OhsD": {
+      "name": "Weapon Training"
+    },
+    "q3irrPtdqkOAZWwW": {
+      "name": "Trickery"
+    },
+    "qLBDpBGBZxPDvAcc": {
+      "name": "Imprégnation de sort",
+      "description": "<p>Vous pouvez utiliser une action pour toucher un objet que vous avez créé grâce à votre Sac de mécamancien. Si vous vous concentrez pendant 1 min en restant en contact avec la cible, vous pouvez dépenser une utilisation d’un sort pour l’imprégner dans l’objet. Cette utilisation du sort reste imprégnée dans l’objet jusqu’à ce que vous vous reposiez ou qu’elle soit dépensée. Toute créature, quelle que soit sa Puissance, tenant l’objet peut utiliser une action pour dépenser l’utilisation de sort imprégnée dans l’objet et l’activer.</p>"
+    },
+    "qnBLiUdr4MgTySAS": {
+      "name": "Improved Spell Recovery"
+    },
+    "r4yWcI8oPo5vywof": {
+      "name": "Hated Creature"
+    },
+    "r6ilZL2ZFIBlc2fq": {
+      "name": "Monter la garde",
+      "description": "<p>Vous pouvez utiliser une action pour monter la garde dans une zone sphérique de 5 m de rayon centrée sur un point à portée de votre allonge. L’effet dure jusqu’à ce que vous utilisiez de nouveau ce talent, que vous quittiez cette zone ou que vous soyez inconscient. Tant que vous êtes dans cette zone, vous gagnez les avantages suivants :</p><ul><li>Vous effectuez vos jets d’attaque avec 1 avantage.</li><li>Vous savez où se trouve chaque créature dans la zone et toutes celles qui s’y trouvent ne peuvent se cacher de vous.</li><li>Vous ne pouvez pas être charmé, contraint, effrayé, surpris ou endormi par magie.</li><li>On ne peut pas vous déplacer hors de cette zone.</li></ul>"
+    },
+    "rMt7bxJ1EgHfwnMw": {
+      "name": "Voyage lointain",
+      "description": "<p>Quand vous vous téléportez en utilisant un sort de Téléportation, vous augmentez sa portée de courte à moyenne, de moyenne à longue et de longue à extrême.</p>"
+    },
+    "rQKyt5UQiuk9dbfS": {
+      "name": "Répit",
+      "description": "<p>Vous pouvez vous détendre pendant 1 h. Au bout de ce temps, vous, et chaque membre de votre groupe qui s’est détendu avec vous, soignez des dégâts égaux à votre vitesse de guérison. Une fois que vous avez utilisé ce talent, vous ne pouvez plus le faire tant que vous ne vous êtes pas reposé.</p>"
+    },
+    "rSN8QLqh65FoGebF": {
+      "name": "Chevaucher la foudre",
+      "description": "<p>Quand vous lancez un sort de Tempête, vous pouvez utiliser une action déclenchée pour voler à votre Vitesse après avoir résolu son effet. Vous devez atterrir après ce déplacement ou tomber.</p>"
+    },
+    "rVYgh1Ru4fLnYRJt": {
+      "name": "Trickery"
+    },
+    "rXAP4ITLD0S2XwmW": {
+      "name": "Puissant eidolon",
+      "description": "<p>La Santé de l’eidolon est augmentée de 25 et sa Défense de 2.</p>"
+    },
+    "rZPfpccI96Fu7qAA": {
+      "name": "Frappe d’immobilisation",
+      "description": "<p>Une fois par round quand vous obtenez un succès à une attaque avec une arme de mêlée, votre cible est immobilisée jusqu’à la fin du round.</p>"
+    },
+    "rgns23anfp3zM8Jw": {
+      "name": "Guérison sanctifiée",
+      "description": "<p>Vous pouvez utiliser une action pour toucher une créature vivante que vous pouvez atteindre et qui a 0 en Corruption puis dépenser une utilisation d’un sort. Choisissez un des effets suivants.</p><ul><li>La cible soigne [[/r 1d6]] dégâts par rang du sort dépensé (minimum [[/r 1d6]]).</li><li>Si vous dépensez l’utilisation d’un sort au moins de rang 2, vous pouvez retirer de la cible les afflictions malade et empoisonné.</li></ul>"
+    },
+    "rhjuV5zpGi5b2I0U": {
+      "name": "Flux",
+      "description": "<p>Quand vous lancez un sort de l’Eau, vous pouvez couvrir votre corps d’une pellicule d’eau qui dure un nombre de rounds égal au rang du sort. Jusqu’à la fin de l’effet, vous ne pouvez pas être saisi ou immobilisé et vous pouvez librement traverser des espaces occupés par des créatures.</p>"
+    },
+    "rn2qo0OB6DWXAGQI": {
+      "name": "Escalader des murs",
+      "description": "<p>Vous ignorez les effets d’un terrain difficile quand vous escaladez et vous effectuez vos tests d’escalade avec 1 avantage.</p>"
+    },
+    "rnMd3uGZdCMZuIvD": {
+      "name": "Aptitude",
+      "description": "<p>Vous avez un nombre de points d’aptitudes égal au niveau de votre groupe. Quand vous effectuez un jet d’attaque ou un test, vous pouvez dépenser 1 de ces points pour effectuer ce jet avec 2 avantages. Quand vous obtenez deux 6 lors d’un jet de dés d’avantages, vous récupérer 1 point d’aptitude jusqu’à votre maximum. Vous récupérez l’ensemble de vos points d’aptitude après un repos.</p>"
+    },
+    "s0QXFSBEYqfmv9UU": {
+      "name": "Invocation d’un monstre minuscule",
+      "description": "<p>Quand vous lancez un sort d’Invocation de rang 0, vous pouvez invoquer un monstre minuscule dans un espace dégagé jusqu’à portée courte au lieu d’utiliser l’effet normal du sort. La créature invoquée reste pendant 1 min ou jusqu’à ce qu’elle soit neutralisée.</p>"
+    },
+    "sATvHGz0ZjiZ5aPn": {
+      "name": "Revendication arcanique",
+      "description": "<p>Quand vous dépensez une utilisation d’un sort Arcanique, lancez [[/r 1d6]]. Sur un 6, vous regagnez l’utilisation de ce sort.</p>"
+    },
+    "sFMrqMEeFaPDhnjA": {
+      "name": "Prayer"
+    },
+    "sj2mTQ8FZfCJq1ij": {
+      "name": "Constitution Robuste"
+    },
+    "spQrZWGE88yo3yvq": {
+      "name": "Frappe divine",
+      "description": "<p>Quand vous utilisez Prière pour accorder à une créature 1 avantage à son jet d’attaque, les attaques de cette créature avec des armes infligent [[/r 1d6]] dégâts supplémentaires.</p>"
+    },
+    "sy1cKp1jPLxmzwJF": {
+      "name": "Exécuter",
+      "description": "<p>Une fois par round, quand vous utilisez une action pour porter une attaque avec une arme contre une cible que vous pouvez atteindre, vous l’effectuez avec 1 avantage et vous infligez [[/r 1d6]] dégâts supplémentaire en cas de succès.</p><p>Si les dégâts de l’attaque suffisent à blesser la cible, cette dernière doit obtenir un succès à un test de Force ou subir autant de dégâts supplémentaires que sa Santé.</p><p>Quand vous utilisez ce talent, pendant 1 round, les créatures effectuent leurs jets d’attaque contre vous avec 1 avantage.</p>"
+    },
+    "t6luVntvotTcdTwa": {
+      "name": "Combat Prowess"
+    },
+    "tgfjrPAzsNOhtB6p": {
+      "name": "Rogue Cunning"
+    },
+    "tkoe6IaFYO8NN8Uh": {
+      "name": "Purge the Unclear"
+    },
+    "tp0gTAiVbMTxOHR5": {
+      "name": "Dissimulation dans l’ombre",
+      "description": "<p>Vous pouvez tenter de vous cacher quand vous êtes dans une zone au moins partiellement obscurcie par des ombres même si on vous observe.</p>"
+    },
+    "u1whsGIJkxWSGvPS": {
+      "name": "Invocation",
+      "description": "<p>Quand vous lancez un sort Théurgique, vous pouvez utiliser une action déclenchée pour invoquer la puissance de votre divinité. Une rafale d’énergie se déverse à partir d’un point à portée de votre allonge sur une distance de 1 + le rang du sort en mètres. Chaque créature que vous choisissez dans cette zone d’effet doit obtenir un succès à un test de Volonté ou être effrayée jusqu’à la fin du round. Si une créature qui rate ce test est déjà effrayée, elle est à la place stupéfaite jusqu’à la fin du round.</p>"
+    },
+    "u4kPfecFCCY0OMYO": {
+      "name": "Déflagration de magie",
+      "description": "<p>Vous pouvez libérer votre stress sous forme d’une déflagration d’énergie magique. Vous devez avoir au moins 1 point de stress pour utiliser ce talent. Utilisez une action pour réduire le stress de 1 point et effectuez un jet d’attaque de Volonté ou d’Intellect contre l’Agilité d’une créature ou d’un objet jusqu’à portée moyenne. En cas de succès, la décharge d’énergie touche la cible qui subit [[/r 2d6]] dégâts.</p>"
+    },
+    "uG3UAObXcsEW86IG": {
+      "name": "Exploit Opportunity"
+    },
+    "uIxi32trttL2NW62": {
+      "name": "Supplique",
+      "description": "<p>Quand une créature obtient un succès à un jet d’attaque contre vous, vous pouvez utiliser une action déclenchée pour la supplier de vous épargner. Si la créature peut vous entendre et vous comprendre, effectuez un jet d’attaque de Volonté contre la Volonté de la créature ayant déclenché cet effet. Si vous obtenez un succès, vous transformez le succès de la créature attaquante en échec et elle devient charmée pendant 1 min ou jusqu’à ce qu’elle soit attaquée. En cas d’échec, la cible est immunisée contre votre talent jusqu’à ce qu’elle se soit reposée.</p>"
+    },
+    "uJlFcZrfCk8hYmBQ": {
+      "name": "Tir mortel",
+      "description": "<p>Vous effectuez vos jets d’attaque avec des pistolets et votre six-coups avec 1 avantage et ces attaques infligent [[/r 1d6]] dégâts supplémentaires.</p>"
+    },
+    "uLfrMUVExpraAMdh": {
+      "name": "Balai volant",
+      "description": "<p>Vous pouvez utiliser une action pour toucher un balai et dépenser une utilisation d’un sort. Vous insufflez de la magie au balai pendant un nombre d’heures égal à votre Puissance plus le rang du sort dont vous avez dépensé l’utilisation. Jusqu’à la fin de l’effet, quand vous êtes assis sur le manche vous pouvez voler. Vous pouvez transporter un ou plusieurs passagers dont le Gabarit total n’est pas supérieur à 1.</p>"
+    },
+    "uRGlsBNjrtePwooP": {
+      "name": "Explosion de magie",
+      "description": "<p>À la fin de chaque round au cours duquel vous avez obtenu au moins 1 point de stress, vous devez effectuer un test de Volonté avec un nombre de désavantages égal à votre total de stress. En cas d’échec, l’énergie magique explose à partir d’un point à portée de votre allonge et se propage en une sphère dans un rayon égal à votre total de stress en mètres. L’énergie inflige [[/r 1d6]] dégâts par point de votre Puissance à tout ce qui se trouve dans la zone d’effet sauf vous. Une créature prise dans la zone d’effet qui obtient un succès à un test d’Agilité subit la moitié des dégâts. Après une Explosion de magie, votre total de stress tombe à 0.</p>"
+    },
+    "uepzi8128yAoL6dq": {
+      "name": "Maître chasseur",
+      "description": "<p>Les créatures que vous désignez comme vos proies en utilisant le talent Chasser des proies ne peuvent pas se cacher de vous. De plus, vos attaques contre elles infligent [[/r 1d6]] dégâts supplémentaires.</p>"
+    },
+    "unVJ7H9clkgydnZS": {
+      "name": "Prière inspirante",
+      "description": "<p>Quand vous utilisez Prière sur une créature autre que vous-même, vous effectuez vos jets d’attaque et vos tests avec 1 avantage pendant 1 round.</p>"
+    },
+    "usRtY3m2I93acFK3": {
+      "name": "Clef"
+    },
+    "uwa9l89OlWSQkHBV": {
+      "name": "Legion"
+    },
+    "uzmw48vGopNWG3dX": {
+      "name": "Tir parfait",
+      "description": "<p>Quand vous attaquez avec une arme à distance et que vous obtenez un échec, vous pouvez utiliser une action déclenchée pour transformer cet échec en succès.</p>"
+    },
+    "v4TUC28ZlpODi5Y1": {
+      "name": "Habile récupération",
+      "description": "<p>Vous pouvez utiliser une action pour soigner un nombre de dégâts égal à votre vitesse de guérison et vous déplacer à la moitié de votre Vitesse sans déclencher d’attaques gratuites. Une fois que vous avez utilisé ce talent, vous ne pouvez plus le faire tant que vous ne vous êtes pas complètement reposé.</p>"
+    },
+    "v9NI5kYkB2h4t6MX": {
+      "name": "Combat monté",
+      "description": "<p>Tant que vous chevauchez une créature, vous effectuez vos jets d’attaque avec 1 avantage contre des cibles qui sont plus petites que votre monture.</p>"
+    },
+    "vHe0r3t54oVgRt7X": {
+      "name": "Incantation défensive",
+      "description": "<p>Quand vous lancez un sort de Protection, vous gagnez un bonus à votre Défense égal à 1 + le rang du sort pendant 1 min ou jusqu’à ce que vous utilisiez de nouveau ce talent.</p>"
+    },
+    "vUfHRbMTvBFUmojb": {
+      "name": "Nimble Recovery"
+    },
+    "vbOsmskPbrn5gBDf": {
+      "name": "Exploit Opportunity"
+    },
+    "voq53PpmiLCJEsCR": {
+      "name": "Dread"
+    },
+    "vzHKSrEhBil3L9gv": {
+      "name": "Cantrip"
+    },
+    "w39QbZjBgiEap8cp": {
+      "name": "Défense de la terre",
+      "description": "<p>Vous pouvez effectuer une action pour dépenser une utilisation d’un sort de la Terre de rang 1 ou supérieur. Lancez [[/r 1d6]] par rang du sort et faites le total.</p><p>Ce total devient votre Défense de la terre, une réserve de points utilisée pour absorber des dégâts. Tant que vous avez 1 point dans cette réserve, quand vous subissez des dégâts, vous les appliquez d’abord à votre réserve puis vous subissez les dégâts restants. L’effet dure jusqu’à ce que la réserve tombe à 0, que vous utilisiez à nouveau ce talent ou que vous vous reposiez.</p>"
+    },
+    "w9qHTmf7x6brxknA": {
+      "name": "Spell Recovery"
+    },
+    "wB0IfEJ9wIb1mNcJ": {
+      "name": "Shared Recovery"
+    },
+    "wKfmsNtZaM3VMgmW": {
+      "name": "Perception parfaite",
+      "description": "<p>Vous avez des sens supérieurs qui ne vous trompent jamais. Tant que vous êtes conscient, vous ne pouvez pas être stupéfait ou surpris. Vous effectuez vos jets de Perception avec 1 avantage. Enfin, vous pouvez discerner le contour à peine visible des créatures et des objets invisibles à portée de vue comme s’ils étaient dans une zone partiellement obscurcie.</p>"
+    },
+    "wYxNkWaI6GMDqsrH": {
+      "name": "Charge puissante",
+      "description": "<p>Quand vous utilisez une action pour Charger, votre déplacement ne déclenche pas d’attaques gratuites. De plus, l’attaque que vous effectuez pendant votre déplacement inflige [[/r 1d6]] dégâts supplémentaires.</p>"
+    },
+    "x3cgJ5FlZtAcwmOH": {
+      "name": "Monstres effrayants",
+      "description": "<p>Vous pouvez octroyer à un monstre généré par un sort d’Invocation le trait effrayant.</p>"
+    },
+    "xLPoI7JwU2x8jvA2": {
+      "name": "Visée mortelle",
+      "description": "<p>Vous pouvez utiliser une action pour viser une créature que vous pouvez voir jusqu’à portée moyenne. Effectuez un jet d’attaque de Perception contre l’Agilité de la cible. En cas de succès, vous remarquez un point faible. Pendant 1 round, quand vous attaquez cette cible avec une arme à distance, vous effectuez vos jets d’attaque avec 3 avantages et vos attaques infligent [[/r 3d6]] dégâts supplémentaires.</p>"
+    },
+    "xSRXoepQwDLwGoYF": {
+      "name": "Flatulence"
+    },
+    "xTEMBQ9RwJf3hR7y": {
+      "name": "Malédiction harassante",
+      "description": "<p>Vos attaques infligent [[/r 1d6]] dégâts supplémentaires aux cibles sous les effets de vos sorts de Malédiction.</p>"
+    },
+    "xZX7B2vGGOPO6Pb0": {
+      "name": "Frappe téméraire",
+      "description": "<p>Quand vous attaquez avec une arme de mêlée, vous pouvez choisir d’effectuer votre jet d’attaque avec 1 désavantage pour infliger [[/r 2d6]] dégâts supplémentaires en cas de succès.</p>"
+    },
+    "xbFYtVmNs3lHT6ND": {
+      "name": "Poisonous"
+    },
+    "xsvWi6hEaX4HzJV4": {
+      "name": "Pouvoir du soleil",
+      "description": "<p>À chaque fois que vous lancez un sort Céleste offensif, vous effectuez votre jet d’attaque avec 1 avantage et les créatures effectuent leurs tests pour résister au sort avec 1 désavantage.</p>"
+    },
+    "yHHenGtzjvVDiS9j": {
+      "name": "Forme d’ombre",
+      "description": "<p>Vous apprenez le sort forme d’ombre, décrit ci-dessous.</p>"
+    },
+    "yfD77EzpGS3Fymm1": {
+      "name": "Stigmate",
+      "description": "<p>Vous pouvez utiliser une action pour invoquer le pouvoir de votre divinité. Vous cumulez 1 point de Folie et subissez un malus de –5 à votre Santé jusqu’à ce que vous vous soyez reposé. Vous prenez l’apparence d’une divinité que vous servez pendant un nombre de minutes égal à 1 + votre Puissance.</p><p>Quand vous prenez cette apparence, chaque créature jusqu’à portée courte qui peut vous voir et qui ne fait pas partie de votre groupe doit obtenir un succès à un test de Volonté avec 1 désavantage ou être effrayée jusqu’à la fin de l’effet.</p><p>De plus, jusqu’à la fin de cet effet, vous effectuez vos jets d’attaque et vos tests avec 1 avantage et vous soignez [[/r 1d6]] dégâts à la fin de chaque round.</p>"
+    },
+    "ykNvCx5yujzRaKcf": {
+      "name": "Examen minutieux",
+      "description": "<p>Vous pouvez utiliser une action pour examiner une créature que vous pouvez voir jusqu’à portée moyenne. Effectuez un jet d’attaque de Perception contre l’Intellect de la cible. En cas de succès, la cible est soumise à votre Examen minutieux jusqu’à ce qu’elle se repose, jusqu’à ce que vous ne puissiez plus la voir ou jusqu’à ce que vous utilisiez de nouveau ce talent. En cas d’échec, la cible est immunisée contre votre talent jusqu’à ce qu’elle se soit reposée.</p><p>Tant qu’une créature est sujette à votre Examen minutieux, vous savez si elle ment délibérément et, si vous l’attaquez, vous effectuez vos jets d’attaque avec 1 avantage.</p>"
+    },
+    "yusYU9N8e4p2zs89": {
+      "name": "Coup de bouclier",
+      "description": "<p>Quand vous obtenez un succès à un jet d’attaque en utilisant un bouclier, vous déstabilisez votre cible et, jusqu’à la fin du round, vous effectuez vos autres jets d’attaque contre elle avec 2 avantages.</p>"
+    },
+    "zAdwK0dVwGSwbuKM": {
+      "name": "Inspiring Prayer"
+    },
+    "zh3KfvXJD5TIkJ7b": {
+      "name": "Nageur",
+      "description": "<p>Vous ignorez les effets d’un terrain difficile quand vous nagez.</p>"
+    },
+    "zy1Ie5x9gPF1nJCy": {
+      "name": "Pouvoir divin",
+      "description": "<p>Les avantages de l’Icône sacrée s’appliquent à tous les sorts offensifs de toutes les traditions associées à votre religion.</p>"
+    }
+  },
+  "mapping": {
+    "description": "system.description"
+  }
+}

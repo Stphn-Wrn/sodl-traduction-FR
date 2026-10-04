@@ -1,0 +1,27 @@
+{
+  "id": "SODL-traduction-FR",
+  "title": "L'Ombre du Seigneur Démon - Traduction FR",
+  "description": "Traduction française de L'Ombre du Seigneur Démon.",
+  "authors": [
+    {
+      "name": "Stephen WOIRIN"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": 13,
+    "verified": 13.344
+  },
+  "esmodules": [
+    "register.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
+}

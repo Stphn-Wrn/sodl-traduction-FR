@@ -1,0 +1,72 @@
+{
+  "label": "Creature Roles - Core",
+  "folders": {
+    "Actions Spéciales": "Actions Spéciales",
+    "Fin de Tour": "Fin de Tour"
+  },
+  "entries": {
+    "80soBgT4tJhQfT5B": {
+      "name": "Standard-Ourser"
+    },
+    "D8ffO0fhAqDXRFpj": {
+      "name": "Roublard Expert"
+    },
+    "DvV8Owtl6fDVvE4C": {
+      "name": "Roublard Novice"
+    },
+    "EPvh6D2izWsZmnxt": {
+      "name": "Roublard Maître"
+    },
+    "F9XR2qykbiz6iFen": {
+      "name": "Champion"
+    },
+    "H02IibdvCHE5Nma8": {
+      "name": "Mob"
+    },
+    "OVAHAkB1daucjDul": {
+      "name": "Prêtre Novice"
+    },
+    "OWWpiwKua5j0aOSn": {
+      "name": "Musicien"
+    },
+    "RytHF95eKa87NaID": {
+      "name": "Prêtre Maître"
+    },
+    "S17KNh6RPGkPRSln": {
+      "name": "Leader"
+    },
+    "Sa7lhMPoazOb33gj": {
+      "name": "Overwhelm"
+    },
+    "W25ZLRfSAqDIxzBF": {
+      "name": "Hero"
+    },
+    "WFKkE12WcgogRiDS": {
+      "name": "Prêtre Expert"
+    },
+    "WyUAP1NGDlOeYFW5": {
+      "name": "Magicien Maître"
+    },
+    "XinQVAVNnE0IadMH": {
+      "name": "Magicien Novice"
+    },
+    "ZohfDdnlJ95d1xna": {
+      "name": "Magicien Expert"
+    },
+    "fVewclzSl66SfY4h": {
+      "name": "Overwhelm"
+    },
+    "gmbAgbEuP5YaP9E6": {
+      "name": "Guerrier Novice"
+    },
+    "gv7Xz48a2vk9BHuS": {
+      "name": "Musique de bataille"
+    },
+    "gzebc5Hk1fX7S2Ib": {
+      "name": "Guerrier Expert"
+    },
+    "o6jeaTC0sey6Qg46": {
+      "name": "Guerrier Maître"
+    }
+  }
+}
