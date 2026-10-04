@@ -1,0 +1,27 @@
+name: Validate
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check that every JSON file parses
+        run: |
+          for f in module.json compendium/fr/*.json; do
+            jq empty "$f" || { echo "Invalid JSON: $f"; exit 1; }
+          done
+
+      - name: Check module.json
+        run: |
+          for key in id title version esmodules; do
+            jq -e ".${key}" module.json > /dev/null || { echo "module.json is missing ${key}"; exit 1; }
+          done
+          ID=$(jq -r '.id' module.json)
+          grep -q "MODULE_ID = '${ID}'" register.js || { echo "register.js MODULE_ID does not match module.json id"; exit 1; }
