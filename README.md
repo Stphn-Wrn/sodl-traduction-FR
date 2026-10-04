@@ -1,14 +1,19 @@
-# Here is the working module for your translation!
+# SODL-traduction-FR
 
-Please take time todo some adjustments:
+French translation of the *Shadow of the Demon Lord* core book compendium (`sdlc-1000`) for Foundry VTT, using Babele.
 
-* Change the ID of the module (currently `SODL-traduction-FR`)
-    * In the `module.json` file: `"id": "SODL-traduction-FR"`
-    * In the `register.js` file: `const MODULE_ID = 'SODL-traduction-FR'; // Change this ID!`
-    * The name of this directory
-* Customize the name and the description of the module and your name in the `module.json`
+## Content
+- Paths: 84 names
+- Talents: 269 names and descriptions
+- Spells: 339 names, descriptions and fields (target, area, duration, triggered, sacrifice…)
 
-Feel free to make any changes you want.
+## Requirements
+- Foundry VTT v13
+- Babele
+- The official `sdlc-1000` module
 
-Once all is done, all you have to do now is to move it into your Foundry `modules/` directory and activate it in a
-world.
+## Installation
+Place this folder in Foundry's `Data/modules/`, then enable the module and Babele in your world.
+
+## Note
+Private use only: the translated texts come from the French edition of the book.
