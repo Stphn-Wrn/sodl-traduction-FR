@@ -13,6 +13,25 @@
     },
     "Diadème des yeux": {
       "name": "Diadème des yeux"
+    },
+    "2MdoUg84eUOnk3ip": {
+      "name": "Crâne flottant d’Ugrash",
+      "description": "<p>Des runes noires en patte de mouche recouvrent le Crâne flottant et deux gemmes rouge vif sont serties dans ses orbites. Un esprit maléfique est prisonnier à l’intérieur. Il y a bien longtemps, avant la fondation de l’Empire, un puissant mage nommé Rabadius mena une armée de morts-vivants à la conquête de la région et y régna en tyran. D’antiques édifices élevés en l’honneur de ce magicien malveillant rappellent encore son règne. Chacun est sculpté en forme de pilier fait de crânes.</p><p>Le règne de Rabadius fut brutal, mais bref, car son apprenti, Malachi, y mit un terme en lui tranchant la gorge. Cependant, ne disposant pas de la puissance de son maître, il fut rapidement vaincu par ses rivaux. Personne ne sait lequel des deux hante à présent le crâne, ou s’il s’agit d’un tout autre esprit, mais il déborde d’amertume et de haine à l’égard des vivants.</p>"
+    },
+    "ZkzmJ3TONezdL0gQ": {
+      "name": "Épée de destruction",
+      "description": "<p>Beaucoup pensent que le Seigneur Démon a envoyé la redoutée Épée de destruction pour maudire l’humanité, car elle sème mort et malheur dans son sillage. La lame noire de cette épée à deux mains est sertie de joyaux cramoisis. En les observant de plus près, on distingue de minuscules images de gens à l’intérieur : les âmes de ceux que l’épée a dévorés.</p>"
+    },
+    "p500BANei7xviLBI": {
+      "name": "Livre des murmures",
+      "description": "<p>Une langue desséchée est clouée sur la couverture noircie de ce sinistre ouvrage. En le feuilletant, on découvre un curieux texte semblant grouiller sur les pages autour d’illustrations obscènes issues des fantasmes d’un esprit dérangé. Un individu doué d’assez de force de caractère peut tirer une étrange puissance de ces écrits.</p>"
+    },
+    "ryKfBgkS7rVLHjvm": {
+      "name": "Diadème des yeux",
+      "description": "<p>Sept globes oculaires en verre sont disposés à intervalles réguliers sur ce diadème en argent. On dit qu’un mage paranoïaque a arraché les yeux de ses ennemis et lié leurs âmes à cette relique.</p>"
     }
+  },
+  "mapping": {
+    "description": "system.description"
   }
 }

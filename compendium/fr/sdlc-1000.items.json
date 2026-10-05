@@ -3,325 +3,363 @@
   "folders": {},
   "entries": {
     "0HAI3QetRiYMLZUa": {
-      "name": "Holy symbol"
+      "name": "Symbole sacré"
     },
     "15Dz5hlB6KgJmF9P": {
-      "name": "Torturer's tools"
+      "name": "Instruments de torture",
+      "description": "<p>Vous pouvez utiliser une action pour utiliser les instruments sur une créature à portée. Vous devez vous concentrer pendant 10 min, durant lesquelles vous allez utiliser les instruments pour torturer la cible qui doit rester présente pendant ce temps-là (généralement, parce qu’elle est attachée). À la suite de ces 10 min, faites un jet d’attaque de Volonté contre la Volonté de la cible. Vous pouvez décider d’infliger des dégâts à la cible pendant la torture. La cible subit [[/r 1d6]] dégâts de l’instrument et vous faites un jet d’attaque avec 1 avantage. En cas de succès, vous pouvez poser une question à la cible. La cible doit répondre honnêtement à la question ou inventer une réponse si elle ne la connaît pas.</p>"
     },
     "1UVwXl8PxkvPqk3s": {
-      "name": "Dice"
+      "name": "Dés"
     },
     "1VRq8HgWaq0DrVrr": {
-      "name": "Clothing, royal"
+      "name": "Vêtements royaux"
     },
     "1qPir7XWpF9W3mWG": {
-      "name": "Trousers, basic"
+      "name": "Pantalon basique"
     },
     "2BbbIna915tWcvOc": {
-      "name": "Trousers, fine"
+      "name": "Pantalon raffiné"
     },
     "2PF1uBCtDE9j4VvH": {
-      "name": "Panacea Potion"
+      "name": "Potion miracle",
+      "description": "<p>Ce fluide rose émet une odeur sucrée. Lorsque la potion fait effet, la créature retire toutes les afflictions malades ou empoisonnées qui l’affectent et soigne un montant de dégâts égal à sa vitesse de guérison.</p>"
     },
     "2TEffBvBGemcus9a": {
-      "name": "Waterskin"
+      "name": "Outre"
     },
     "33QS9A5AQ6ZdByjM": {
-      "name": "Spectacles"
+      "name": "Lunettes"
     },
     "3GBR7CWt6qtqSK4f": {
-      "name": "Book, printed or tome"
+      "name": "Livre imprimé ou manuscrit"
     },
     "48C5viyfGLqpLeEC": {
-      "name": "Gloves, work"
+      "name": "Gants de travaux manuels"
     },
     "4G9aCGmuSHTW6Bg5": {
-      "name": "Implement of magic"
+      "name": "Focale de magie",
+      "description": "<p>La focale est un accessoire utilisé pour lancer un sort. Cela peut être une dague, un couteau mystique mais aussi un chaudron, un fétiche, un crâne gravé de runes, une chaîne ornée d’un pentacle ou une baguette. Le terme focale comprend également les accessoires de divination tels que les cartes, les dés, les bâtons entaillés, et bien d’autres encore.</p>"
     },
     "50uAeNj4xT4MiTZx": {
-      "name": "Rations (1 week)"
+      "name": "Rations (1 semaine)"
     },
     "5K8urjK6mIz6KXfj": {
-      "name": "Adventurer's pack"
+      "name": "Sac d’aventurier",
+      "description": "<p>Cet objet comprend un sac à dos, un sac de couchage, un set de couverts, une boîte à silex et amadou, 3 torches, de la corde (20 m), un grappin, une semaine de rations et une outre.</p>"
     },
     "7Jpo7aaCyTQR8DJr": {
-      "name": "Cloak"
+      "name": "Cape"
     },
     "9rPjRImTvYshnW4U": {
-      "name": "Pouch"
+      "name": "Bourse"
     },
     "AGartH69mCqiZSKt": {
-      "name": "Hourglass"
+      "name": "Sablier",
+      "description": "<p>Les deux ampoules en verre d’un sablier sont reliées par un col fin pour que le sable puisse se déverser d’un côté à l’autre. Le sable prend environ une heure pour quitter entièrement une ampoule.</p>"
     },
     "ARYGMUVqH21uFJk6": {
-      "name": "Writing kit"
+      "name": "Kit d’écriture"
     },
     "AWnZ7wBjbKwn23VC": {
-      "name": "Dress, basic"
+      "name": "Robe basique"
     },
     "AjGRXXNcygci8GxY": {
-      "name": "Spike, large iron"
+      "name": "Pointe large en fer"
     },
     "BEZXEs412q02bfkc": {
-      "name": "Clothing, cold weather"
+      "name": "Vêtements pour temps froid"
     },
     "BUmZ3qpT770nVfs1": {
-      "name": "Alchemist's kit"
+      "name": "Trousse d’alchimiste",
+      "description": "<p>Vous pouvez utiliser une trousse d’alchimiste pour préparer des potions, élaborer des poisons ou créer d’autres objets spéciaux.</p>"
     },
     "Chl2NUGb1AQNbaeq": {
-      "name": "Costume, simple"
+      "name": "Déguisement simple"
     },
     "DPTcYJo3YlHr47dX": {
-      "name": "Crowbar"
+      "name": "Pied-de-biche",
+      "description": "<p>Le pied-de-biche offre 1 avantage sur les tests de Force pour ouvrir les portes, les conteneurs et autres objets qui peuvent être ouverts ou fermés.</p>"
     },
     "EYeh8FqQQfYKFCY3": {
-      "name": "Suit, secondhand"
+      "name": "Costume de seconde main"
     },
     "F12hTyg4IYQen2If": {
-      "name": "Musical instrument"
+      "name": "Instrument de musique",
+      "description": "<p>Ce terme comprend toute une variété de percussions, d’instruments à vents et à cordes. Le MJ détermine le prix en se basant sur le type d’instrument que vous cherchez. Les instruments exotiques coûtent 1 co ou plus.</p>"
     },
     "FYwPxQY2riU9BSc5": {
-      "name": "Clothing, basic"
+      "name": "Vêtements, basiques"
     },
     "GRrQfGEdH27uBmHO": {
-      "name": "Barrel"
+      "name": "Tonneau"
     },
     "GuvnfoflX5mVul1c": {
-      "name": "Magnifying glass"
+      "name": "Loupe",
+      "description": "<p>Une loupe vous offre 1 avantage sur vos tests de Perception pour trouver des objets cachés, des empreintes ou des indices.</p>"
     },
     "I9RTe4hjbJyK7TdS": {
-      "name": "Vestments"
+      "name": "Habits de cérémonie"
     },
     "It8yBxmPMR4gkWg1": {
-      "name": "Case, scroll"
+      "name": "Étui, parchemin"
     },
     "J7GhVtwThGQ28dP1": {
-      "name": "Net"
+      "name": "Filet",
+      "description": "<p>Vous pouvez attaquer avec un filet en le jetant sur une créature ou un objet de Gabarit 2 ou moins à portée courte. Faites un jet d’attaque de Force contre l’Agilité de la cible. En cas de succès, le filet touche la cible, qui est alors ralentie. Lorsqu’elle est ralentie ainsi, la cible effectue ses jets d’attaque et ses tests d’Agilité avec 1 désavantage. La cible ralentie par le filet peut soit utiliser une action pour le couper et se libérer en le détruisant, soit s’échapper en remportant un succès sur un test d’Agilité. Une autre créature peut utiliser une action pour retirer le filet, ce qui enlève également l’affliction.</p>"
     },
     "JNuFqkFW9B1f97Zw": {
-      "name": "Clothing, courtier's"
+      "name": "Vêtements de courtisan"
     },
     "KDsn5Lp5BxH71F9u": {
-      "name": "Jewelry"
+      "name": "Bijoux"
     },
     "KORqs0e75McfoNrs": {
-      "name": "Gloves, fine"
+      "name": "Gants raffinés"
     },
     "KmQ4bXINaZC6Prlr": {
-      "name": "Shoes, fine"
+      "name": "Chaussures raffinées"
     },
     "LzEPgkXMNY2WzswJ": {
-      "name": "Coat, winter"
+      "name": "Manteau d’hiver"
     },
     "MLFAAQ6d2IfS6wkU": {
-      "name": "Invisibility Potion"
+      "name": "Potion d’invisibilité",
+      "description": "<p>Ce liquide transparent n’a ni odeur ni goût. Lorsque la potion fait effet, la créature devient invisible. Les effets de la potion s’évanouissent après [[/r 1d6]] heures ou immédiatement après une attaque de la créature.</p>"
     },
     "NHk4A4RQ5r053UMK": {
-      "name": "Work coveralls"
+      "name": "Combinaison de travail"
     },
     "Nzp75YZcEveqGeQv": {
-      "name": "Blanket"
+      "name": "Couverture"
     },
     "OHzFX26BUPfLHLFu": {
-      "name": "Holy water"
+      "name": "Eau bénite",
+      "description": "<p>Vous pouvez attaquer avec de l’eau bénite en la jetant sur une créature ou un objet à portée. Faites un jet d’attaque d’Agilité contre l’Agilité de la cible. En cas de succès, vous arrosez la cible d’eau bénite. Elle subit 1 dégât par point de Corruption. Si la cible est un démon, un diable, une fée, un esprit ou un mort-vivant, elle subit [[/r 1d6]] dégâts plus 1 pour chacun de ses points de Corruption.</p>"
     },
     "PKjpUJzI1hSsdnoQ": {
-      "name": "Navigator's instruments"
+      "name": "Instruments de navigation",
+      "description": "<p>Ce terme comprend un sextant et un astrolabe, une boussole, des cartes et d’autres outils utiles pour la navigation.</p>"
     },
     "QJVHgYoJTjlco7Om": {
-      "name": "Suit, tailored"
+      "name": "Costume sur-mesure"
     },
     "QKr7ufnm78QQScJz": {
-      "name": "Garrote"
+      "name": "Garrot",
+      "description": "<p>Vous pouvez utiliser un garrot lorsque vous saisissez une créature dont le Gabarit n’excède pas le vôtre de plus de 1. Vous devez manier le garrot à deux mains. En cas de succès à votre jet d’attaque, la cible subit [[/r 1d6]] dégâts de la corde tendue autour de son cou et devient saisie. La cible doit faire un jet d’attaque avec 1 désavantage pour tenter de s’échapper.</p>"
     },
     "QMdivlV8ALu8J9RS": {
-      "name": "Cigars, box"
+      "name": "Cigare, boîte"
     },
     "Qr03CAawnJG5DfqT": {
-      "name": "Pole, 10-foot"
+      "name": "Perche, 3 m"
     },
     "QwN1l5iPPJvuUoIp": {
-      "name": "Manacles"
+      "name": "Menottes"
     },
     "Rsk3MZhvB3iub4wj": {
-      "name": "Backpack"
+      "name": "Sac à dos"
     },
     "SJmeE5CQlGko47ye": {
-      "name": "Chest, wooden"
+      "name": "Coffre, bois"
     },
     "T36i48i99yIhaAqV": {
-      "name": "Healing Potion"
+      "name": "Potion de soins",
+      "description": "<p>Ce liquide transparent et magique sent un peu l’alcool. Lorsque la potion fait effet, la créature soigne un montant de dégâts égal à sa vitesse de guérison.</p>"
     },
     "TJVl3EitTslbBLIb": {
-      "name": "Fleeting Youth Potion"
+      "name": "Potion de jeunesse éphémère",
+      "description": "<p>Ce liquide rose au goût fleuri émet une odeur sucrée. Lorsque la potion fait effet, la créature soigne un montant de points de dégâts égal à sa vitesse de guérison et semble être dans la fleur de l’âge pendant [[/r 2d6]] jours.</p>"
     },
     "TQnKu3an0E6tkUt6": {
-      "name": "Shoes, leather"
+      "name": "Chaussures en cuir"
     },
     "TjAnac45CaYOVSFH": {
-      "name": "Rope, coil (20 yards)"
+      "name": "Corde, rouleau (20 m)"
     },
     "UoLWwZWloz5svJxN": {
-      "name": "Torch"
+      "name": "Torche",
+      "description": "<p>Vous pouvez utiliser une action pour allumer une torche. La flamme d’une torche illumine une zone d’un rayon de 4,5 m autour d’elle. Une torche allumée brûle pendant 1 h.</p>"
     },
     "VxnZzcyJNkedMxod": {
-      "name": "Lantern, spotlight"
+      "name": "Lanterne à capote",
+      "description": "<p>Vous pouvez utiliser une action pour allumer une lanterne à capote remplie d’huile. La flamme de la lanterne illumine une zone en forme de cône de 20 m de long. Une lanterne remplie de toute une flasque d’huile brûle pendant 4 h.</p>"
     },
     "WZb4g31rvLX05lzx": {
-      "name": "Jacket, light"
+      "name": "Veste légère"
     },
     "WyI3x27AOTuFboRp": {
-      "name": "Antitoxin Potion"
+      "name": "Potion anti-toxine",
+      "description": "<p>Ce liquide vert vif émet une odeur désagréable. Lorsque la potion fait effet, la créature se débarrasse d’une affliction empoisonnée et bénéficie de 1 avantage pour ses tests de résistance au poison pendant une heure.</p>"
     },
     "Xwb2uXQK6BYSgnQM": {
-      "name": "Grapnel"
+      "name": "Grappin"
     },
     "adtPD0zjOiFbOc5k": {
-      "name": "Alertness Potion"
+      "name": "Potion de vigilance",
+      "description": "<p>La potion est un liquide blanc comme le lait au goût épicé. Lorsque la potion fait effet, la créature bénéficie de 1 avantage à tous ses tests de Perception pendant [[/r 2d6]] heures. La créature ne peut pas se reposer tant que les effets de la potion n’ont pas disparu.</p>"
     },
     "b2prjTPQK3XjOLAl": {
-      "name": "Healer's kit"
+      "name": "Trousse de soins (6 utilisations)",
+      "description": "<p>Vous pouvez utiliser une trousse de soins pour guérir les blessures d’une créature à portée. Dépensez une utilisation de la trousse et faites un test d’Intellect. Si la cible est mourante, vous effectuez le test avec 1 désavantage. En cas de succès, la cible se soigne de 1 point de dégât.</p>"
     },
     "b5zJBVYRLeuWBpIy": {
-      "name": "Shirt"
+      "name": "Chemise"
     },
     "b9n4Dgqj9xfUe8xl": {
-      "name": "Knuckledusters"
+      "name": "Coup-de-poing",
+      "description": "<p>Les coups-de-poings sont vendus par paire. Lorsque vous les portez, vos attaques à mains nues infligent 1 dégât supplémentaire. Vous pouvez acheter des coups-de-poings en métal comme vous achèteriez des armes.</p>"
     },
     "cFM6gB45fDpxQxl5": {
-      "name": "Vest"
+      "name": "Gilet"
     },
     "cPueyM5g4Ge63BOH": {
-      "name": "Uniform"
+      "name": "Uniforme"
     },
     "d8XMh2s1b8xVFUpn": {
-      "name": "Hammer and 10 pitons"
+      "name": "Marteau et 10 pitons"
     },
     "eoiRSo1Wz8N9yW7W": {
-      "name": "Cap"
+      "name": "Couvre-chef"
     },
     "f9TVaxSiRgvGqsvx": {
-      "name": "Lock picks"
+      "name": "Crochets",
+      "description": "<p>Vous pouvez utiliser une action pour utiliser des crochets afin de déverrouiller une serrure à portée. Une tentative nécessite généralement une minute de travail ininterrompu durant laquelle vous devez vous concentrer. Lorsque vous avez terminé votre travail, faites un test d’Intellect avec 1 désavantage ou plus selon la qualité du verrou. En cas de succès, le verrou s’ouvre.</p>"
     },
     "fsMVT81eOXo4mjj1": {
-      "name": "Shirt, fine"
+      "name": "Chemise raffinée"
     },
     "gDrLnQNIExM4xKmd": {
-      "name": "Poison"
+      "name": "Poison",
+      "description": "<p>Vous pouvez utiliser une action pour appliquer du poison sur une arme tranchante ou pointue ; enduire jusqu’à trois flèches, carreaux ou fléchettes ; ou contaminer de la nourriture ou une boisson.</p><p>Les armes et munitions restent empoisonnées pendant 1 h ou jusqu’à ce qu’elles infligent des dégâts après avoir été recouvertes de poison. La créature qui subit les dégâts d’une telle arme ou munition doit faire un test de Force. En cas d’échec, elle est empoisonnée pendant 1 min. Si la créature est déjà empoisonnée, elle subit [[/r 1d6]] dégâts supplémentaires. Une créature qui consomme de la nourriture ou une boisson empoisonnée doit faire un test de Force avec 1 désavantage. En cas d’échec, elle subit [[/r 1d6]] dégâts et devient empoisonnée pendant 1 min. Si elle avait déjà été empoisonnée par la nourriture ou la boisson, elle subit [[/r 3d6]] dégâts supplémentaires. Une créature empoisonnée, quelle qu’en soit l’origine, doit faire un test de Force à la fin de chaque round. En cas d’échec, la créature subit [[/r 1d6]] dégâts. Il lui faudra obtenir trois succès pour retirer l’affliction empoisonnée.</p>"
     },
     "gK5wtD2hvRx8YCD0": {
-      "name": "Tinderbox"
+      "name": "Boîte à silex et amadou"
     },
     "gNCHZu0tdLDwVZFq": {
-      "name": "Hat, lady's"
+      "name": "Chapeau féminin"
     },
     "hcVgbJ8xFOMq6gm7": {
-      "name": "Pot, cooking"
+      "name": "Marmite, cuisine"
     },
     "hsDxbNe4htar1O1U": {
-      "name": "Quiver or case for bolts"
+      "name": "Carquois ou étui pour carreaux"
     },
     "iGNX23qTWJePC8PN": {
       "name": "Pipe"
     },
     "jZOsrdGOyD5AiIJB": {
-      "name": "Disguise kit"
+      "name": "Kit de déguisement (6 utilisations)",
+      "description": "<p>Vous pouvez utiliser un kit de déguisement pour vous déguiser, vous ou une créature consentante à portée. Vous pouvez utiliser une action pour dépenser une utilisation du kit afin de déguiser la créature ciblée. Il vous faut 1 min pour achever votre œuvre. Le déguisement peut augmenter ou diminuer la taille de la cible de quelques centimètres ; augmenter son poids de près de 25 % ; changer sa couleur de cheveux ou de peau ; ajouter ou retirer des traits physiques distinctifs et faire passer la cible pour une créature d’une ascendance ou d’un genre différents. Le déguisement ne suffit pas à faire passer une créature pour une personne précise.</p><p>Une fois créé, le déguisement reste actif jusqu’à ce qu’il soit retiré ou que la créature soit exposée à quelque chose qui le détruirait comme de l’eau, des flammes ou des bourrasques. Une créature suspicieuse peut reconnaître un déguisement si elle utilise une action pour faire un test de Perception et le réussit.</p>"
     },
     "js0j9cqNvMJMIkW2": {
-      "name": "Topcoat"
+      "name": "Pardessus"
     },
     "kyuDlLnXi329qAJ1": {
-      "name": "Cutlery set"
+      "name": "Set de couverts"
     },
     "lAypA0MvyQvPjuah": {
-      "name": "Cards, deck"
+      "name": "Cartes, jeu"
     },
     "lIERthdw3nWA2LPv": {
-      "name": "Matches"
+      "name": "Allumettes",
+      "description": "<p>Par une activité mineure effectuée à votre tour, vous pouvez frotter une allumette contre une surface solide. L’allumette change l’obscurité en ombre dans une sphère d’un rayon de 1 m lorsqu’elle est immobile. Elle brûle pendant 1 tour.</p>"
     },
     "lJZqfDjkpE2zPOZa": {
-      "name": "Fire Resistance Potion"
+      "name": "Potion de résistance au feu",
+      "description": "<p>Ce liquide rouge vif émet une odeur âcre. Lorsque la potion fait effet, la créature subit seulement la moitié des dégâts de feu et de chaleur pendant 1h.</p>"
     },
     "laX7YArPQbJ5jFSK": {
-      "name": "Bedroll"
+      "name": "Sac de couchage"
     },
     "lzhopUPtKqnbkcUx": {
-      "name": "Clothing, noble's"
+      "name": "Vêtements de noble"
     },
     "m76RYHwut8DbJlU5": {
-      "name": "Seeing Potion"
+      "name": "Potion de vision",
+      "description": "<p>Ce liquide épais et noir goudron au goût infect émet une odeur nauséabonde. Lorsque la potion fait effet, la créature peut voir des zones masquées par les ombres ou l’obscurité, comme si ces zones étaient éclairées dans son champ de vision habituel. Les effets de la potion s’évanouissent après [[/r 3d6]] minutes.</p>"
     },
     "nHAvbGv42nJBRU9v": {
-      "name": "Tent, 2-person"
+      "name": "Tente, 2 personnes"
     },
     "nq3DgsYTFR5BkZem": {
-      "name": "Growth Potion"
+      "name": "Potion de croissance",
+      "description": "<p>Cette potion verte et épaisse au goût amer émet une odeur de levure. Lorsque la potion fait effet, la créature et tout ce qu’elle porte augmentent jusqu’à atteindre le Gabarit 2 ou grandit d’un Gabarit si elle est déjà Gabarit 2 ou plus. Elle bénéficie d’un bonus de Santé de [[/r 2d6]] et ses attaques armées infligent [[/r 1d6]] dégâts supplémentaires. Tout ce que la créature fait tomber n’est plus sous l’effet de la potion et reprend instantanément son Gabarit normal. Les effets de la potion s’évanouissent après [[/r 1d6]] minutes.</p>"
     },
     "oIPaGdQbfLhCMk9v": {
-      "name": "Hose, silk"
+      "name": "Bas de soie"
     },
     "oQ7Er0TTun6O32iA": {
-      "name": "Lantern"
+      "name": "Lanterne",
+      "description": "<p>Vous pouvez utiliser une action pour allumer une lanterne remplie d’huile. La flamme d’une lanterne illumine une zone d’un rayon de 10 m autour d’elle. Une lanterne remplie de toute une flasque d’huile brûle pendant 4 h.</p>"
     },
     "okJ4WP0AN8PmARVQ": {
-      "name": "Mirror, small silver"
+      "name": "Miroir, argent fin"
     },
     "oli4yffkaQL05xpP": {
-      "name": "Pipe tobacco"
+      "name": "Tabac à pipe"
     },
     "pFVXczAA30MPfnym": {
-      "name": "Flask"
+      "name": "Flasque"
     },
     "pbcGbjbjs8I54xpL": {
-      "name": "Handbag"
+      "name": "Sacoche"
     },
     "pwRMbK7j4hdp0DJ6": {
-      "name": "Top hat"
+      "name": "Chapeau"
     },
     "q4rK5wkaE6TTveWG": {
-      "name": "Cap, fine"
+      "name": "Couvre-chef raffiné"
     },
     "qhRJ07bOUEgFYDxQ": {
-      "name": "Block and tackle"
+      "name": "Palan"
     },
     "qiXWAzpaHr5ydQxz": {
-      "name": "Costume, elaborate"
+      "name": "Déguisement élaboré"
     },
     "qvU82n6XYlzBgsvB": {
-      "name": "Map"
+      "name": "Carte"
     },
     "r9bSMZnCtPAocWbV": {
-      "name": "Spyglass"
+      "name": "Longue vue",
+      "description": "<p>La longue vue, lorsque l’on regarde à travers, permet de voir les objets distants 5 fois plus grands.</p>"
     },
     "rp3mv9bs651n2bjo": {
-      "name": "Holly and mistletoe"
+      "name": "Houx et gui"
     },
     "rqSIckcqH55q2URR": {
-      "name": "Clothing, entertainer's"
+      "name": "Vêtements de troubadour"
     },
     "s5AKLNqfDB2MUdfC": {
-      "name": "Crystal ball"
+      "name": "Boule de cristal",
+      "description": "<p>Un orbe en verre ou cristal de 7 cm de diamètre, nécessaire pour utiliser certains sorts de Divination.</p>"
     },
     "sNoN2SdWd1ResQLU": {
-      "name": "Belt"
+      "name": "Ceinture"
     },
     "ugrlAG3DZBW5JIVA": {
-      "name": "Oil, flask"
+      "name": "Huile, flasque",
+      "description": "<p>Vous pouvez attaquer avec une flasque d’huile en la jetant sur une créature ou un objet à portée moyenne. Faites un jet d’attaque d’Agilité contre l’Agilité de la cible. En cas de succès, l’huile recouvre la cible qui reste enduite jusqu’à ce qu’elle prenne 1 min pour se nettoyer. Si une créature ou un objet couvert d’huile subit des dégâts de feu ou de foudre, l’huile s’enflamme et lui inflige [[/r 1d6]] dégâts. La cible subit [[/r 1d6]] dégâts à la fin de chaque round pendant [[/r 1d6]] rounds. La créature peut utiliser une action pour éteindre les flammes.</p>"
     },
     "vNcXpcolBhQcwaay": {
-      "name": "Tool kit"
+      "name": "Trousse à outils",
+      "description": "<p>Un ensemble d’outils qui sont utiles lorsque l’on travaille dans un domaine précis.</p>"
     },
     "vlFrv8JbOakKDtV7": {
-      "name": "Dress, fancy"
+      "name": "Robe élégante"
     },
     "w8EA5nhpf4Ipu3p2": {
-      "name": "Box, metal"
+      "name": "Boîte, métal"
     },
     "wM6XavlFlgmEnJQw": {
-      "name": "Candle"
+      "name": "Bougie",
+      "description": "<p>Vous pouvez utiliser une action pour allumer une bougie. La flamme d’une bougie illumine une zone de 1 m de rayon autour d’elle et brûle pendant une heure.</p>"
     },
     "xsW8a2fros6ToJPD": {
-      "name": "Sack"
+      "name": "Sac"
     }
+  },
+  "mapping": {
+    "description": "system.description"
   }
 }

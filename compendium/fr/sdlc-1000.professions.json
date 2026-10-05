@@ -1,292 +1,309 @@
 {
   "label": "Professions - Core",
   "folders": {
-    "Religious": "Religious",
-    "Common": "Common",
-    "Academic": "Academic",
-    "Criminal": "Criminal",
-    "Martial": "Martial",
-    "Wilderness": "Wilderness"
+    "Religious": "Religieuses",
+    "Common": "Communes",
+    "Academic": "Académiques",
+    "Criminal": "Criminelles",
+    "Martial": "Martiales",
+    "Wilderness": "Marginales"
   },
   "entries": {
     "1kyZvSWb7gtMsJHA": {
-      "name": "Hermit"
+      "name": "Ermite"
     },
     "1vWAvN2s39vydSbY": {
-      "name": "Murderer"
+      "name": "Meurtrier"
     },
     "29wgrQAfkmS13cUI": {
       "name": "Science"
     },
     "2At7GKgfXGBmwavw": {
-      "name": "Spy"
+      "name": "Espion"
     },
     "2GenoMaKe5ddOc2s": {
-      "name": "Nomad or vagabond"
+      "name": "Nomade ou vagabond"
     },
     "2W78F2qJJUDaO5Zv": {
-      "name": "Forger"
+      "name": "Faussaire"
     },
     "2h1RX0OenNM2GAzX": {
-      "name": "Woodcutter"
+      "name": "Bûcheron"
     },
     "30AxngRqH3ptZnBc": {
-      "name": "Musicien"
+      "name": "Musicien",
+      "description": "<p>Choisissez un instrument. Exemples : percussions, instruments à cordes et instruments à vent.</p>"
     },
     "3SHxwQPIElgh175E": {
-      "name": "Drover or herder"
+      "name": "Berger ou éleveur"
     },
     "4HcRWfJqqLiLgny3": {
-      "name": "Etiquette & customs"
+      "name": "Étiquette et coutumes"
     },
     "4KRrraqxMJUXfnPx": {
       "name": "Pirate"
     },
     "4Nn604M7j0SSS0f6": {
-      "name": "Slave"
+      "name": "Esclave"
     },
     "51wkSOPKNCTtmUzz": {
-      "name": "Hunter"
+      "name": "Chasseur"
     },
     "5t3YY7EjuVUKnPRP": {
-      "name": "Beggar"
+      "name": "Mendiant"
     },
     "6FFgIsEf2qDoE3iN": {
-      "name": "Constable"
+      "name": "Agent"
     },
     "8mwaz0PC62Nbvgdv": {
-      "name": "Engineering"
+      "name": "Ingénierie"
     },
     "9C4Ndh2NTqOWeRhq": {
-      "name": "Merchant"
+      "name": "Marchand",
+      "description": "<p>Choisissez une marchandise. Exemples : armes, céréales, bétail, esclaves, épices et textiles.</p>"
     },
     "9qcPuBq2I7xjcwnk": {
-      "name": "Politics"
+      "name": "Politique"
     },
     "AH4GD2YzjWR0bFDR": {
-      "name": "Peasant conscript"
+      "name": "Conscrit paysan"
     },
     "Au6faWuwtTS6VYX6": {
-      "name": "Prostitute"
+      "name": "Prostitué"
     },
     "Az1BletP9YxmYhsz": {
-      "name": "Barbarian"
+      "name": "Barbare"
     },
     "BH5IolgZAaXRkQd9": {
-      "name": "Sailor"
+      "name": "Marin"
     },
     "CLz4wbLP05WdDEE4": {
-      "name": "Temple Ward"
+      "name": "Pupille du temple",
+      "description": "<p>Vous avez été élevé dans un temple. Vous étiez probablement un orphelin qui a été confié au clergé.</p>"
     },
     "DvZ6H8dOsJj73FkT": {
-      "name": "Cultist"
+      "name": "Cultiste"
     },
     "ESk8rSvVEcx7sKJh": {
-      "name": "Detective"
+      "name": "Détective"
     },
     "EjarsbMqErAB29dL": {
-      "name": "Astrology"
+      "name": "Astrologie"
     },
     "Ey6tIGRkVxUEiksD": {
-      "name": "Fisher or whaler"
+      "name": "Pêcheur ou baleinier"
     },
     "FtE8HPZKFwk7sZ00": {
-      "name": "Boatman or ferryman"
+      "name": "Batelier ou passeur"
     },
     "GBcparXim4K9xJFW": {
-      "name": "Heretic"
+      "name": "Hérétique",
+      "description": "<p>Vos croyances religieuses sont considérées comme dangereuses et hérétiques par les responsables de votre foi.</p>"
     },
     "GYkN3y6XDdFLTxjA": {
-      "name": "Geography"
+      "name": "Géographie"
     },
     "GiQqnMSAoMmz7Mdo": {
       "name": "Architecture"
     },
     "H5MeH1GktNZkab9m": {
-      "name": "Marine"
+      "name": "Marin"
     },
     "I4NxWhHOKUiALiAr": {
-      "name": "Shopkeeper"
+      "name": "Commerçant"
     },
     "IZJ7Dbz4VV2XYbPZ": {
       "name": "Pickpocket"
     },
     "Il3B1zoATqLmG7uy": {
-      "name": "Thug"
+      "name": "Malfrat"
     },
     "JEPzgvzHJBq6xruH": {
-      "name": "Pilgrim"
+      "name": "Pèlerin",
+      "description": "<p>Vous voyagez pour vous rendre sur les sites sacrés de votre religion.</p>"
     },
     "JNWlby5ARgBRKwY9": {
       "name": "Guide"
     },
     "Jv2dhSZ37rLw8XTt": {
-      "name": "History"
+      "name": "Histoire"
     },
     "KIWzBdciMP3LgAMO": {
-      "name": "Tracker"
+      "name": "Pisteur"
     },
     "Lo4xmgV3CKC5fIrh": {
-      "name": "Heraldry"
+      "name": "Héraldique"
     },
     "LwL8PfC1cHAevxTL": {
-      "name": "Medicine"
+      "name": "Médecine"
     },
     "M3PdDFm7nSwdlhNC": {
-      "name": "Urchin"
+      "name": "Gamin des rues"
     },
     "MVyoLX8MAatCPfGz": {
-      "name": "Pioneer"
+      "name": "Pionnier"
     },
     "MorKfAbcyFMjxvPZ": {
-      "name": "Trapper"
+      "name": "Trappeur"
     },
     "N0722zaYAWxSPJeQ": {
-      "name": "War"
+      "name": "Guerre"
     },
     "NDUMsNE6i2MS7E82": {
-      "name": "Charlatan or confidence artist"
+      "name": "Charlatan ou manipulateur"
     },
     "Nvyne09Tzdm0hZQQ": {
-      "name": "Gatherer"
+      "name": "Cueilleur"
     },
     "ODmqFqkJ7Qey9G8g": {
-      "name": "Initiate of the Old Faith"
+      "name": "Initié de la Vieille Foi",
+      "description": "<p>Vous avez été initié à la Vieille Foi.</p>"
     },
     "OGGPPhlTBak6ALBj": {
-      "name": "Prospector"
+      "name": "Prospecteur"
     },
     "Oj35NtimBzv3GjAx": {
-      "name": "Carouser or rake"
+      "name": "Fêtard ou débauché"
     },
     "PFi3wfqexkCFLgjI": {
-      "name": "Philosophy"
+      "name": "Philosophie"
     },
     "QzePuhknJZbn5x5o": {
-      "name": "Minister"
+      "name": "Ministre du culte",
+      "description": "<p>Vous êtes le chef religieux de votre communauté. Vous pouvez lire et écrire une des langues que vous parlez.</p>"
     },
     "Rn33Yxqb3XiJqJAe": {
-      "name": "Servant or valet"
+      "name": "Serviteur ou valet"
     },
     "S8D0G7V8AhvCJTO5": {
-      "name": "Agitator"
+      "name": "Agitateur"
     },
     "T1XKZNKkmpzZX4jd": {
-      "name": "Burglar"
+      "name": "Cambrioleur"
     },
     "T4Xtfk2nGpSc4XZC": {
-      "name": "Animal trainer"
+      "name": "Dompteur/dresseur"
     },
     "THnPZj7r42Kt2GK4": {
-      "name": "Fence"
+      "name": "Receleur"
     },
     "U729P2MuerMs1MAz": {
-      "name": "Bandit, brigand, or highway robber"
+      "name": "Bandit, brigand, bandit de grand chemin"
     },
     "UhiOXXaMQQEkY4ue": {
-      "name": "Gambler"
+      "name": "Flambeur"
     },
     "UssLYtD89mI0FWti": {
-      "name": "Artisan"
+      "name": "Artisan",
+      "description": "<p>Choisissez un domaine artisanal. Exemples : boulanger, forgeron, relieur, brasseur, charpentier, accastilleur, cordonnier, teinturier, souffleur de verre, joaillier, tanneur, maçon, potier, imprimeur et tailleur.</p>"
     },
     "V5CjhVIAiUvvrBAQ": {
-      "name": "Groom"
+      "name": "Palefrenier"
     },
     "VL1PLF5trFihR8XZ": {
-      "name": "Poacher or rustler"
+      "name": "Braconnier ou voleur de bétail"
     },
     "VS8JL9zYuE7VT1p0": {
-      "name": "Street Preacher"
+      "name": "Prédicateur de rue",
+      "description": "<p>Vous prêchez dans les rues, en implorant les passants de se repentir car la fin est proche.</p>"
     },
     "WD4g33JtqwQazAVV": {
       "name": "Folklore"
     },
     "YgDhyZsviiMfsVzr": {
-      "name": "Farmer"
+      "name": "Fermier"
     },
     "ZiNW0JpbuamYPYA8": {
-      "name": "Cook"
+      "name": "Cuisinier"
     },
     "ZmHzvQVyV4dYxZsS": {
-      "name": "Artist"
+      "name": "Artiste",
+      "description": "<p>Choisissez un art. Exemples : peintre, poète, sculpteur et écrivain. Si vous choisissez poète ou écrivain, vous pouvez lire et écrire une des langues que vous parlez.</p>"
     },
     "bvsefOmWf3hDTDhE": {
-      "name": "Literature"
+      "name": "Littérature"
     },
     "dbpadZTsPUUPpA6F": {
-      "name": "Squire"
+      "name": "Écuyer"
     },
     "dswNLxhiUCobDpso": {
-      "name": "Magic"
+      "name": "Magie"
     },
     "dzQrd3s9aoaekV40": {
-      "name": "Refugee"
+      "name": "Réfugié"
     },
     "ePdmZhAITlD75Ykm": {
-      "name": "Butcher"
+      "name": "Boucher"
     },
     "fNOlpnBYg6W8lHA2": {
-      "name": "Law"
+      "name": "Loi"
     },
     "fT4oNMm5kQYeLDHn": {
-      "name": "Teamster"
+      "name": "Charretier"
     },
     "fZulS7yq2finKiAE": {
-      "name": "Outlaw"
+      "name": "Hors-la-loi"
     },
     "gB5myqAkVb4zNZ3g": {
-      "name": "Occult"
+      "name": "Occulte"
     },
     "h5nRigPRooOGC7QI": {
-      "name": "Grave robber"
+      "name": "Pilleur de tombes"
     },
     "hKt4DEAgFpugFMSH": {
-      "name": "Fanatic"
+      "name": "Fanatique",
+      "description": "<p>Par le dénuement vous pensez pouvoir vous rapprocher de vos dieux. Vous pouvez vous flageller, vous priver de nourriture et de boisson ou trouver un autre moyen de vous faire souffrir.</p>"
     },
     "hkUNwiNFY0iFnZvP": {
-      "name": "Devotee"
+      "name": "Adepte",
+      "description": "<p>Vous êtes un fervent fidèle des préceptes de votre religion. Vous pouvez lire et écrire une des langues que vous parlez.</p>"
     },
     "hmhbtL2EZXghErYa": {
-      "name": "Exile"
+      "name": "Exilé"
     },
     "iO0hpao37IrNHgw6": {
-      "name": "Jailer"
+      "name": "Geôlier"
     },
     "j3dl7ynQFBtfjzu5": {
-      "name": "Torturer"
+      "name": "Tortionnaire"
     },
     "jKn4J4MVXNh9qOB9": {
-      "name": "Patroller"
+      "name": "Patrouilleur"
     },
     "k3hNFYyxu23yq5ET": {
       "name": "Saboteur"
     },
     "kGveGCMu6coMDO6i": {
-      "name": "Laborer"
+      "name": "Travailleur",
+      "description": "<p>Choisissez un travail. Exemple : ramoneur, fossoyeur, porteur, débardeur et balayeur.</p>"
     },
     "kdXzEFIHYRvcb0oz": {
-      "name": "Militia member"
+      "name": "Milicien"
     },
     "kdcjQb9A4VS9U69z": {
-      "name": "Acolyte of the New God"
+      "name": "Acolyte du Nouveau Dieu",
+      "description": "<p>Vous étudiez pour devenir un prêtre du Culte du Nouveau dieu. Vous pouvez lire et écrire une des langues que vous parlez.</p>"
     },
     "n3m1gaIOnlcAp64I": {
-      "name": "Informant"
+      "name": "Informateur"
     },
     "py6TFHLi2oCruG6C": {
-      "name": "Inquisitor's Henchman"
+      "name": "Serviteur d’un inquisiteur",
+      "description": "<p>Vous êtes au service d’un inquisiteur ou d’un chasseur de sorciers.</p>"
     },
     "rS9ddNH4LaxkJCJ0": {
-      "name": "Evangelist"
+      "name": "Évangéliste",
+      "description": "<p>Vous voyagez pour prêcher la bonne parole à qui veut l’entendre et vous dépendez de la charité des croyants. Vous pouvez lire et écrire une des langues que vous parlez.</p>"
     },
     "rsPeTvKvomSvxEjI": {
-      "name": "Apothecary or healer"
+      "name": "Apothicaire ou guérisseur"
     },
     "s6yFBi0FbJMimikk": {
-      "name": "Miner"
+      "name": "Mineur"
     },
     "sqFpGpSfNvHd8Vyg": {
-      "name": "Entertainer"
+      "name": "Saltimbanque",
+      "description": "<p>Choisissez un mode d’expression. Exemples : acteur, athlète, comédien, courtisane, danseur, orateur, marionnettiste, chanteur et conteur.</p>"
     },
     "t3h7AenMK5CW19e0": {
       "name": "Navigation"
@@ -295,25 +312,28 @@
       "name": "Nature"
     },
     "ujAsZh2FWJ1YRU1a": {
-      "name": "Mercenary"
+      "name": "Mercenaire"
     },
     "vnS4XKjdtCnc25xy": {
-      "name": "Soldier"
+      "name": "Soldat"
     },
     "y37ckxF2hXjTCvwC": {
       "name": "Religion"
     },
     "yOKmStiXx1mAzQX7": {
-      "name": "Officer"
+      "name": "Officier"
     },
     "yXFFnIHcGzhrIwC9": {
-      "name": "Spelunker"
+      "name": "Spéléologue"
     },
     "yoNgxOfgoIJ58029": {
-      "name": "Guard"
+      "name": "Garde"
     },
     "zVOGP62jFE3FxsKP": {
-      "name": "Rebel or terrorist"
+      "name": "Rebelle ou terroriste"
     }
+  },
+  "mapping": {
+    "description": "system.description"
   }
 }
