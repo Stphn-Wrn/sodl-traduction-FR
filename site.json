@@ -1,0 +1,26 @@
+{
+  "group": "sodl",
+  "platform": "foundry",
+  "icon": "fa-language",
+  "order": 40,
+  "text": {
+    "fr": {
+      "title": "Traduction FR",
+      "summary": "Traduction française du compendium du livre de base, via Babele.",
+      "features": [
+        "84 voies",
+        "269 talents avec leurs descriptions",
+        "339 sorts avec tous leurs champs"
+      ]
+    },
+    "en": {
+      "title": "French translation",
+      "summary": "French translation of the core book compendium, through Babele.",
+      "features": [
+        "84 paths",
+        "269 talents with their descriptions",
+        "339 spells with all their fields"
+      ]
+    }
+  }
+}
